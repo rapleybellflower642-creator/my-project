@@ -1,0 +1,124 @@
+{
+  "sample_rate": 48000,
+  "channels": 2,
+  "samples": 5760000,
+  "duration_seconds": 120.0,
+  "integrated_lufs": -15.0,
+  "true_peak_dbtp": -1.4,
+  "loudness_range_lu": 1.8,
+  "sample_peak_dbfs": -1.3986586996215566,
+  "clipped_samples": 0,
+  "stereo_correlation": 0.6749715629565775,
+  "mono_rms_dbfs": -16.39425083481905,
+  "last_sample_absolute": 0.0,
+  "sfx_integrated_lufs": -37.29,
+  "sfx_true_peak_dbtp": -12.99,
+  "normalization": {
+    "input_i": "-15.67",
+    "input_tp": "-2.10",
+    "input_lra": "1.70",
+    "input_thresh": "-25.69",
+    "output_i": "-14.97",
+    "output_tp": "-1.40",
+    "output_lra": "1.70",
+    "output_thresh": "-24.99",
+    "normalization_type": "linear",
+    "target_offset": "-0.03"
+  },
+  "bgm_sha256": "ab1ebad4e3ced73fa0d7763e455f573976c243ff0b00e0b7e91a90a4e3debd05",
+  "soundtrack_sha256": "f97854de689dd059c85b9d1cdab08e0e56874a234b3ad07da3542048824cba72",
+  "sound_effects_source": "Original deterministic synthesis; seed 10820307",
+  "music_change": "First 120s at original speed/pitch; gain automation and 118.6–120s fade only",
+  "events": [
+    {
+      "time_seconds": 0.42,
+      "name": "近处雨滴",
+      "description": "一滴落叶水珠，细小后续水滴分布左右"
+    },
+    {
+      "time_seconds": 2.62,
+      "name": "水洼涟漪",
+      "description": "水面接触与三枚自然水珠"
+    },
+    {
+      "time_seconds": 4.81,
+      "name": "草鞋入水",
+      "description": "脚步低频触地，水面溅起随后落回"
+    },
+    {
+      "time_seconds": 8.11,
+      "name": "枝叶掠过",
+      "description": "柔和竹叶与衣料擦动，题名有极轻木响"
+    },
+    {
+      "time_seconds": 18.01,
+      "name": "第一记竹杖",
+      "description": "音乐推进时稳定落杖"
+    },
+    {
+      "time_seconds": 24.05,
+      "name": "徐行两步",
+      "description": "低位跟拍的两次草鞋落地与衣角"
+    },
+    {
+      "time_seconds": 33.39,
+      "name": "竹节与芒鞋",
+      "description": "短竹节接触，随后草编擦地"
+    },
+    {
+      "time_seconds": 42.18,
+      "name": "谁怕",
+      "description": "一次克制低频脉冲，风抬起衣角"
+    },
+    {
+      "time_seconds": 44.38,
+      "name": "迈过浅水",
+      "description": "短促浅水接触与水滴"
+    },
+    {
+      "time_seconds": 53.17,
+      "name": "蓑衣雨点",
+      "description": "贴近蓑衣的细密雨点和草编纹理"
+    },
+    {
+      "time_seconds": 60.86,
+      "name": "微冷",
+      "description": "近处一阵春风，随后拢衣摩擦"
+    },
+    {
+      "time_seconds": 70.26,
+      "name": "斜照",
+      "description": "低音量、宽声场的短暖光泛音"
+    },
+    {
+      "time_seconds": 80.15,
+      "name": "阴晴间行路",
+      "description": "逐渐远离的两次脚步"
+    },
+    {
+      "time_seconds": 89.49,
+      "name": "回望留白",
+      "description": "远处一滴水，声场明显收敛"
+    },
+    {
+      "time_seconds": 95.54,
+      "name": "来路余雨",
+      "description": "极轻远水滴，音乐成为主体"
+    },
+    {
+      "time_seconds": 98.7,
+      "name": "归去",
+      "description": "两次微小脚步走入远处"
+    },
+    {
+      "time_seconds": 105.88,
+      "name": "空间打开",
+      "description": "柔和空气推开与低频呼吸，在106秒后扩散"
+    },
+    {
+      "time_seconds": 118.6,
+      "name": "共同收束",
+      "description": "音乐与所有环境音采用1.4秒平滑淡出，无新增敲击"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "browser": "Chromium",
+  "duration_seconds": 120,
+  "width": 1920,
+  "height": 1080,
+  "playback": "passed",
+  "seek_times_seconds": [
+    0.6,
+    42.6,
+    63,
+    78.2,
+    108,
+    119.4
+  ],
+  "all_seek_checks": "passed",
+  "media_errors": null
+}

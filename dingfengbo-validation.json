@@ -1,0 +1,61 @@
+{
+  "file": "dingfengbo.mp4",
+  "bytes": 82378074,
+  "sha256": "1bb4b1a684635f6d6af738565ae695c72db1bcddfe3c514257b48c4925d8a5df",
+  "duration_seconds": 120.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "frames": 3600,
+  "video_codec": "h264",
+  "pixel_format": "yuvj420p",
+  "color_range": "pc",
+  "audio_codec": "aac",
+  "audio_identical_to_original": true,
+  "audio_packet_sha256": "9df92b007f12a97c25287b945921fa71434a1c79dbd2e907d9faaff943ba5ced",
+  "full_decode": "passed",
+  "encoding": "H.264 x264 slow CRF 21, 5900 kbps maxrate, 11800 kbps buffer, AAC stream copied",
+  "source_color_metadata": {
+    "pixel_format": "yuvj420p",
+    "color_range": "pc",
+    "color_space": "bt470bg"
+  },
+  "export_color_metadata": {
+    "pixel_format": "yuvj420p",
+    "color_range": "pc",
+    "color_space": "bt470bg"
+  },
+  "representative_frame_ssim": [
+    {
+      "time_seconds": 1.0,
+      "rgb_ssim": 0.992858
+    },
+    {
+      "time_seconds": 42.6,
+      "rgb_ssim": 0.98478
+    },
+    {
+      "time_seconds": 78.2,
+      "rgb_ssim": 0.985115
+    }
+  ],
+  "representative_frame_mean_rgb_delta": {
+    "1.0": [
+      0.01776,
+      0.01225,
+      0.03006
+    ],
+    "42.6": [
+      0.11573,
+      0.00987,
+      0.13955
+    ],
+    "78.2": [
+      0.12047,
+      0.03024,
+      0.1315
+    ]
+  },
+  "visual_comparison": "passed: 8 representative frames; preserved black levels, palette, text readability and scene detail",
+  "faststart": true
+}
