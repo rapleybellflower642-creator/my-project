@@ -1,6 +1,24 @@
 # 两分钟诗意与人生动画
 
-## 定风波：风雨有时，脚步由你
+## 定风波 V2：风雨有时，脚步由你
+
+以苏轼《定风波》为线索的两分钟物件图解动画。新版使用墨黑、香槟金与玉青：三维竹杖和芒鞋、1440 根纤维组成的蓑衣、金线声纹、天气波带与纵深展开，讲述面对人生变化时如何选择回应、走稳脚步、照顾自己。
+
+![《定风波》V2 封面](./dingfengbo-v2-cover.png)
+
+**[打开新版 MP4](./dingfengbo-v2.mp4)** · **[直接下载新版](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/video-download-20261014/dingfengbo-v2.mp4)** · **[可编辑 Remotion 工程](./dingfengbo-v2/)** · **[封面原图](./dingfengbo-v2-cover.png)**
+
+- 120 秒，1920 × 1080，30 fps，3600 帧，H.264 / AAC。
+- 沿用用户提供的《算力小曲》前 120 秒，保持原速原音高；主要接触动作和场景展开按音乐节奏安排。
+- 新增 28 个物件拟音事件，以及雨、风和纤维环境层；无旁白。
+- 包含 14 个可单独预览的章节、程序三维模型、本地字体、原 BGM、独立音效和完整混音。
+- [成片技术校验](./dingfengbo-v2-validation.json) · [浏览器播放检查](./dingfengbo-v2/docs/BROWSER_CHECK.json) · [分镜与文案](./dingfengbo-v2/docs/CREATIVE_BRIEF.md)。
+
+如果 GitHub 文件页未显示视频，请点击 **Download raw file**，或使用“直接下载新版”链接。
+
+工程安装、预览和导出方法见 [V2 README](./dingfengbo-v2/README.md)。下方保留早期作品。
+
+## 定风波 V1：山水诗意版
 
 以苏轼《定风波·莫听穿林打叶声》为主线的两分钟诗意动画，配乐沿用《算力小曲》。从穿林风雨、竹杖徐行到雨后斜照与回望，以文字叙事呈现面对人生风雨的从容。
 

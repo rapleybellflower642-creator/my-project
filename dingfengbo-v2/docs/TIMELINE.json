@@ -1,0 +1,140 @@
+{
+  "fps": 30,
+  "duration_frames": 3600,
+  "bgm_sha256": "ab1ebad4e3ced73fa0d7763e455f573976c243ff0b00e0b7e91a90a4e3debd05",
+  "beat_grid": {
+    "bpm_estimate": 109.16871661256751,
+    "period_seconds": 0.549608,
+    "phase_seconds": 0.421043,
+    "method": "automated onset-based estimate; audition required for metrical accents"
+  },
+  "scenes": [
+    {
+      "scene": "风雨冲击",
+      "start_frame": 0,
+      "end_frame_exclusive": 210,
+      "duration_frames": 210,
+      "start_seconds": 0.0,
+      "end_seconds": 7.0,
+      "source_beat_index": null
+    },
+    {
+      "scene": "题名与历史背景",
+      "start_frame": 210,
+      "end_frame_exclusive": 408,
+      "duration_frames": 198,
+      "start_seconds": 7.0,
+      "end_seconds": 13.6,
+      "source_beat_index": 12
+    },
+    {
+      "scene": "声纹与回应",
+      "start_frame": 408,
+      "end_frame_exclusive": 672,
+      "duration_frames": 264,
+      "start_seconds": 13.6,
+      "end_seconds": 22.4,
+      "source_beat_index": 24
+    },
+    {
+      "scene": "竹杖与行动",
+      "start_frame": 672,
+      "end_frame_exclusive": 936,
+      "duration_frames": 264,
+      "start_seconds": 22.4,
+      "end_seconds": 31.2,
+      "source_beat_index": 40
+    },
+    {
+      "scene": "芒鞋与比较",
+      "start_frame": 936,
+      "end_frame_exclusive": 1200,
+      "duration_frames": 264,
+      "start_seconds": 31.2,
+      "end_seconds": 40.0,
+      "source_beat_index": 56
+    },
+    {
+      "scene": "谁怕",
+      "start_frame": 1200,
+      "end_frame_exclusive": 1464,
+      "duration_frames": 264,
+      "start_seconds": 40.0,
+      "end_seconds": 48.8,
+      "source_beat_index": 72
+    },
+    {
+      "scene": "一蓑烟雨",
+      "start_frame": 1464,
+      "end_frame_exclusive": 1727,
+      "duration_frames": 263,
+      "start_seconds": 48.8,
+      "end_seconds": 57.566667,
+      "source_beat_index": 88
+    },
+    {
+      "scene": "微冷",
+      "start_frame": 1727,
+      "end_frame_exclusive": 1991,
+      "duration_frames": 264,
+      "start_seconds": 57.566667,
+      "end_seconds": 66.366667,
+      "source_beat_index": 104
+    },
+    {
+      "scene": "斜照",
+      "start_frame": 1991,
+      "end_frame_exclusive": 2255,
+      "duration_frames": 264,
+      "start_seconds": 66.366667,
+      "end_seconds": 75.166667,
+      "source_beat_index": 120
+    },
+    {
+      "scene": "天气与人生",
+      "start_frame": 2255,
+      "end_frame_exclusive": 2651,
+      "duration_frames": 396,
+      "start_seconds": 75.166667,
+      "end_seconds": 88.366667,
+      "source_beat_index": 136
+    },
+    {
+      "scene": "回首",
+      "start_frame": 2651,
+      "end_frame_exclusive": 2915,
+      "duration_frames": 264,
+      "start_seconds": 88.366667,
+      "end_seconds": 97.166667,
+      "source_beat_index": 160
+    },
+    {
+      "scene": "归去",
+      "start_frame": 2915,
+      "end_frame_exclusive": 3178,
+      "duration_frames": 263,
+      "start_seconds": 97.166667,
+      "end_seconds": 105.933333,
+      "source_beat_index": 176
+    },
+    {
+      "scene": "阴晴共存",
+      "start_frame": 3178,
+      "end_frame_exclusive": 3442,
+      "duration_frames": 264,
+      "start_seconds": 105.933333,
+      "end_seconds": 114.733333,
+      "source_beat_index": 192
+    },
+    {
+      "scene": "片尾",
+      "start_frame": 3442,
+      "end_frame_exclusive": 3600,
+      "duration_frames": 158,
+      "start_seconds": 114.733333,
+      "end_seconds": 120.0,
+      "source_beat_index": 208
+    }
+  ],
+  "fade_start_frame": 3558
+}

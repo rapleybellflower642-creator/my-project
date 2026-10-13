@@ -1,0 +1,214 @@
+{
+  "input": {
+    "filename": "算力小曲.mp3",
+    "sha256": "ab1ebad4e3ced73fa0d7763e455f573976c243ff0b00e0b7e91a90a4e3debd05",
+    "matches_previous_bgm_sha256": true,
+    "file_duration_seconds": 192.456,
+    "sample_rate_hz": 48000,
+    "channels": 2,
+    "analyzed_range_seconds": [
+      0,
+      120
+    ],
+    "bgm_speed_change": false
+  },
+  "method": {
+    "decode": "ffmpeg mono PCM 22050 Hz, first 120 s; source kept unchanged",
+    "onset_envelope": "STFT: 1024-sample Hann window, hop 220 samples (~9.977 ms). Positive flux of square-root magnitude; bands 40–10000 / 40–180 / 180–1500 / 1500–9000 Hz. Light Gaussian smoothing. Normalize each band by its 95th percentile.",
+    "tempo_search": "85–141 BPM at 0.025 BPM, offset search at 6 ms, maximized mean broad-band onset energy at periodic pulses in 18–88 s. Four bands checked separately. Refined origin/period via Nelder-Mead on pulse indices 32–159 and 192–218.",
+    "independent_validation": "Pick local flux peaks within ±40 ms of predicted grid. Huber line fit of time against pulse index; 212 matched events. Peak strength is detector output, not subjective loudness or verified musical downbeat.",
+    "segmentation": "Compare waveform RMS and high-band flux in two-second windows before/after structural candidates; detect nearby local transient.",
+    "fps_quantization": "frame = floor(time_seconds * 30 + 0.5); frame numbers start at 0. Frame 3600 is the exclusive video endpoint, not an actual picture frame."
+  },
+  "tempo": {
+    "bpm_estimate": 109.16870992207375,
+    "recommended_display_bpm": 109.17,
+    "seconds_per_beat": 0.5496080336831762,
+    "grid_origin_seconds": 0.42104308473311636,
+    "inferred_four_pulse_group_seconds": 2.198432134732705,
+    "half_pulse_seconds": 0.2748040168415881,
+    "best_band_bpm_coarse": [
+      109.175,
+      109.15,
+      109.175,
+      109.175
+    ],
+    "independent_peak_regression_bpm": 109.16781539040156,
+    "independent_peak_regression_offset_seconds": 0.41665046831295355,
+    "detected_grid_matched_peaks": 212,
+    "detected_peak_fit_median_absolute_error_ms": 3.585,
+    "detected_peak_fit_90th_percentile_absolute_error_ms": 8.266,
+    "suggested_edit_tolerance_ms": 33.333
+  },
+  "structural_cues": [
+    {
+      "description": "energy increase",
+      "detected_peak_seconds": 17.999093,
+      "nearby_grid_seconds": 18.0085,
+      "recommended_frame_30fps": 540,
+      "quantized_time_seconds": 18.0,
+      "rms_before_2s": 0.114931,
+      "rms_after_2s": 0.208725,
+      "rms_change_db": 5.18,
+      "high_band_flux_before": 0.109248,
+      "high_band_flux_after": 0.347044,
+      "high_band_flux_change_percent": 217.67
+    },
+    {
+      "description": "high-frequency transient density reduces",
+      "detected_peak_seconds": 88.349206,
+      "nearby_grid_seconds": 88.358328,
+      "recommended_frame_30fps": 2651,
+      "quantized_time_seconds": 88.366667,
+      "rms_before_2s": 0.185112,
+      "rms_after_2s": 0.159646,
+      "rms_change_db": -1.29,
+      "high_band_flux_before": 0.544792,
+      "high_band_flux_after": 0.246194,
+      "high_band_flux_change_percent": -54.81
+    },
+    {
+      "description": "energy returns",
+      "detected_peak_seconds": 105.939229,
+      "nearby_grid_seconds": 105.945786,
+      "recommended_frame_30fps": 3178,
+      "quantized_time_seconds": 105.933333,
+      "rms_before_2s": 0.102412,
+      "rms_after_2s": 0.212297,
+      "rms_change_db": 6.33,
+      "high_band_flux_before": 0.106788,
+      "high_band_flux_after": 0.327765,
+      "high_band_flux_change_percent": 206.93
+    }
+  ],
+  "suggested_scene_boundaries": [
+    {
+      "requested_seconds": 0,
+      "recommended_grid_seconds": 0,
+      "frame_30fps": 0,
+      "quantized_seconds": 0,
+      "beat_index": null,
+      "note": "editorial endpoint, not a grid beat"
+    },
+    {
+      "requested_seconds": 6,
+      "recommended_grid_seconds": 7.016339,
+      "frame_30fps": 210,
+      "quantized_seconds": 7.0,
+      "beat_index": 12,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 13,
+      "recommended_grid_seconds": 13.611636,
+      "frame_30fps": 408,
+      "quantized_seconds": 13.6,
+      "beat_index": 24,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 22,
+      "recommended_grid_seconds": 22.405364,
+      "frame_30fps": 672,
+      "quantized_seconds": 22.4,
+      "beat_index": 40,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 31,
+      "recommended_grid_seconds": 31.199093,
+      "frame_30fps": 936,
+      "quantized_seconds": 31.2,
+      "beat_index": 56,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 40,
+      "recommended_grid_seconds": 39.992822,
+      "frame_30fps": 1200,
+      "quantized_seconds": 40.0,
+      "beat_index": 72,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 49,
+      "recommended_grid_seconds": 48.78655,
+      "frame_30fps": 1464,
+      "quantized_seconds": 48.8,
+      "beat_index": 88,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 58,
+      "recommended_grid_seconds": 57.580279,
+      "frame_30fps": 1727,
+      "quantized_seconds": 57.566667,
+      "beat_index": 104,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 67,
+      "recommended_grid_seconds": 66.374007,
+      "frame_30fps": 1991,
+      "quantized_seconds": 66.366667,
+      "beat_index": 120,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 76,
+      "recommended_grid_seconds": 75.167736,
+      "frame_30fps": 2255,
+      "quantized_seconds": 75.166667,
+      "beat_index": 136,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 88,
+      "recommended_grid_seconds": 88.358328,
+      "frame_30fps": 2651,
+      "quantized_seconds": 88.366667,
+      "beat_index": 160,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 97,
+      "recommended_grid_seconds": 97.152057,
+      "frame_30fps": 2915,
+      "quantized_seconds": 97.166667,
+      "beat_index": 176,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 106,
+      "recommended_grid_seconds": 105.945786,
+      "frame_30fps": 3178,
+      "quantized_seconds": 105.933333,
+      "beat_index": 192,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 115,
+      "recommended_grid_seconds": 114.739514,
+      "frame_30fps": 3442,
+      "quantized_seconds": 114.733333,
+      "beat_index": 208,
+      "note": "inferred four-pulse group; confirm final cut by playback"
+    },
+    {
+      "requested_seconds": 120,
+      "recommended_grid_seconds": 120,
+      "frame_30fps": 3600,
+      "quantized_seconds": 120,
+      "beat_index": null,
+      "note": "editorial endpoint, not a grid beat"
+    }
+  ],
+  "limitations": [
+    "Automated analysis only: no claim of having listened to or manually certified individual audible beats.",
+    "A stable grid is supported by repeatable transient alignment; four-beat grouping and its downbeat phase are editorial assumptions inferred from repeating structural events.",
+    "Half-/double-time tempo interpretations remain possible. Use ~109.17 BPM as the animation pulse convention.",
+    "Weak intro/bridge beats can have no prominent audible attack; preserve the grid for continuity without adding a hit to every pulse.",
+    "Detector resolution is ~10 ms; decimal timestamps do not imply equivalent musical certainty. 30 fps quantization adds up to 16.7 ms.",
+    "120 s is a hard editorial length; it does not land exactly on this pulse grid. Keep the final image to 120 s and fade audio to the endpoint."
+  ]
+}

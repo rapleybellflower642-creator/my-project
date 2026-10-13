@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "file": "dingfengbo-v2.mp4",
+  "video": {
+    "codec_name": "h264",
+    "profile": "High",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuvj420p",
+    "r_frame_rate": "30/1",
+    "duration": "120.000000",
+    "nb_frames": "3600",
+    "side_data_list": [
+      {}
+    ]
+  },
+  "audio": {
+    "codec_name": "aac",
+    "profile": "LC",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0",
+    "duration": "120.000000",
+    "nb_frames": "5626"
+  },
+  "container": {
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "duration": "120.000000",
+    "size": "60558907"
+  },
+  "decoded_video_frames": 3600,
+  "full_audio_video_decode": "passed",
+  "integrated_lufs": -15.03,
+  "true_peak_dbtp": -1.76,
+  "fast_start": true,
+  "sha256": "78ec1a8f22319d1aedff53b6a545abf4db03dcaf52cb0504d9dfa9b31687f99c"
+}

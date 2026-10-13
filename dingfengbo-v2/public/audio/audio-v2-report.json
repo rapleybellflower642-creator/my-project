@@ -1,0 +1,630 @@
+{
+  "version": 2,
+  "duration_seconds": 120.0,
+  "sample_rate": 48000,
+  "samples": 5760000,
+  "channels": 2,
+  "bit_depth": 24,
+  "integrated_lufs": -15.0,
+  "true_peak_dbtp": -1.75,
+  "sample_peak_dbfs": -1.7559729736045182,
+  "loudness_range_lu": 1.6,
+  "clipped_samples": 0,
+  "last_sample_absolute": 0.0,
+  "stereo_correlation": 0.6752170719190869,
+  "sfx_integrated_lufs": -31.02,
+  "sfx_true_peak_dbtp": -11.01,
+  "foreground_event_count": 28,
+  "synthesis_seed": 10822333,
+  "external_sfx": false,
+  "sound_effects_source": "Original seeded noise, damped physical modes, granular fiber friction and early reflections.",
+  "bgm_sha256": "ab1ebad4e3ced73fa0d7763e455f573976c243ff0b00e0b7e91a90a4e3debd05",
+  "bgm_file_unchanged": true,
+  "decoded_first_120_seconds_float32_sha256": "4f5fc0521823916c1456309251a7482bf40aadc0422056e33e13de366ad8588e",
+  "bgm_decode_arguments": [
+    "ffmpeg",
+    "-v",
+    "error",
+    "-i",
+    "/workspace/dingfengbo-v2/public/audio/bgm-original.mp3",
+    "-t",
+    "120",
+    "-ar",
+    "48000",
+    "-ac",
+    "2",
+    "-f",
+    "f32le",
+    "pipe:1"
+  ],
+  "bgm_speed": 1.0,
+  "bgm_pitch_shift_semitones": 0,
+  "bgm_start_offset_samples": 0,
+  "bgm_transform": "Native 48kHz first 5760000 samples, gain only; output sample n maps to source sample n.",
+  "music_mapping_checks": [
+    {
+      "source_start_sample": 0,
+      "output_start_sample": 0,
+      "frames": 12000,
+      "max_processing_error": 2.9103830456733704e-11
+    },
+    {
+      "source_start_sample": 336000,
+      "output_start_sample": 336000,
+      "frames": 12000,
+      "max_processing_error": 0.0
+    },
+    {
+      "source_start_sample": 864000,
+      "output_start_sample": 864000,
+      "frames": 12000,
+      "max_processing_error": 5.960464477539063e-08
+    },
+    {
+      "source_start_sample": 1180800,
+      "output_start_sample": 1180800,
+      "frames": 12000,
+      "max_processing_error": 5.960464477539063e-08
+    },
+    {
+      "source_start_sample": 1920000,
+      "output_start_sample": 1920000,
+      "frames": 12000,
+      "max_processing_error": 5.960464477539063e-08
+    },
+    {
+      "source_start_sample": 2342400,
+      "output_start_sample": 2342400,
+      "frames": 12000,
+      "max_processing_error": 5.960464477539063e-08
+    },
+    {
+      "source_start_sample": 2763216,
+      "output_start_sample": 2763216,
+      "frames": 12000,
+      "max_processing_error": 0.0
+    },
+    {
+      "source_start_sample": 3185616,
+      "output_start_sample": 3185616,
+      "frames": 12000,
+      "max_processing_error": 0.0
+    },
+    {
+      "source_start_sample": 4241616,
+      "output_start_sample": 4241616,
+      "frames": 12000,
+      "max_processing_error": 0.0
+    },
+    {
+      "source_start_sample": 5084784,
+      "output_start_sample": 5084784,
+      "frames": 12000,
+      "max_processing_error": 5.960464477539063e-08
+    },
+    {
+      "source_start_sample": 5692800,
+      "output_start_sample": 5692800,
+      "frames": 12000,
+      "max_processing_error": 2.9802322387695312e-08
+    }
+  ],
+  "music_mapping_float32_tolerance": 2e-07,
+  "music_ducking": {
+    "anchor_frames": [
+      13,
+      540,
+      738,
+      804,
+      1200,
+      1266,
+      1464,
+      1530,
+      1596,
+      3178
+    ],
+    "max_db": -0.7526133272492995,
+    "gaussian_width_seconds": 0.13
+  },
+  "final_fade": {
+    "start_seconds": 118.6,
+    "end_seconds": 120,
+    "shape": "cosine squared"
+  },
+  "no_new_impact_after_frame": 3178,
+  "ending_frame": 3442,
+  "normalization": {
+    "input_i": "-15.68",
+    "input_tp": "-2.48",
+    "input_lra": "1.70",
+    "input_thresh": "-25.70",
+    "output_i": "-14.96",
+    "output_tp": "-1.76",
+    "output_lra": "1.70",
+    "output_thresh": "-24.98",
+    "normalization_type": "linear",
+    "target_offset": "-0.04"
+  },
+  "events": [
+    {
+      "frame": 13,
+      "seconds": 0.433333,
+      "sample": 20800,
+      "name": "雨滴撞入金线",
+      "material": "water / short body / micro droplets",
+      "gain_linear": 0.29,
+      "pan": -0.06,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.729
+    },
+    {
+      "frame": 79,
+      "seconds": 2.633333,
+      "sample": 126400,
+      "name": "冲击环扩散",
+      "material": "shallow water / bronze edge",
+      "gain_linear": 0.155,
+      "pan": 0.19,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.532
+    },
+    {
+      "frame": 190,
+      "seconds": 6.333333,
+      "sample": 304000,
+      "name": "词稿展开",
+      "material": "paper fiber",
+      "gain_linear": 0.1,
+      "pan": -0.22,
+      "pre_roll_seconds": 0.18,
+      "sound_duration_seconds": 0.55
+    },
+    {
+      "frame": 210,
+      "seconds": 7.0,
+      "sample": 336000,
+      "name": "题名压印落定",
+      "material": "muted bronze / wood stamp",
+      "gain_linear": 0.125,
+      "pan": 0,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.38
+    },
+    {
+      "frame": 540,
+      "seconds": 18.0,
+      "sample": 864000,
+      "name": "回应路径落定",
+      "material": "dry bamboo contact",
+      "gain_linear": 0.265,
+      "pan": 0.03,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.38
+    },
+    {
+      "frame": 738,
+      "seconds": 24.6,
+      "sample": 1180800,
+      "name": "竹杖第一步",
+      "material": "bamboo on wet stone",
+      "gain_linear": 0.34,
+      "pan": -0.17,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.38
+    },
+    {
+      "frame": 804,
+      "seconds": 26.8,
+      "sample": 1286400,
+      "name": "芒鞋第一步",
+      "material": "straw sole / shallow water",
+      "gain_linear": 0.28,
+      "pan": 0.16,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.72
+    },
+    {
+      "frame": 870,
+      "seconds": 29.0,
+      "sample": 1392000,
+      "name": "竹杖第二步",
+      "material": "bamboo contact",
+      "gain_linear": 0.225,
+      "pan": -0.09,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.38
+    },
+    {
+      "frame": 936,
+      "seconds": 31.2,
+      "sample": 1497600,
+      "name": "芒鞋承接",
+      "material": "straw sole / water",
+      "gain_linear": 0.19,
+      "pan": 0.1,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.72
+    },
+    {
+      "frame": 1002,
+      "seconds": 33.4,
+      "sample": 1603200,
+      "name": "物件比较转向",
+      "material": "grass friction / short air",
+      "gain_linear": 0.125,
+      "pan": -0.3,
+      "pre_roll_seconds": 0.12,
+      "sound_duration_seconds": 0.42
+    },
+    {
+      "frame": 1068,
+      "seconds": 35.6,
+      "sample": 1708800,
+      "name": "自己的步调",
+      "material": "dry straw sole",
+      "gain_linear": 0.18,
+      "pan": 0.15,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.72
+    },
+    {
+      "frame": 1200,
+      "seconds": 40.0,
+      "sample": 1920000,
+      "name": "谁怕落字",
+      "material": "short grounded low contact",
+      "gain_linear": 0.3,
+      "pan": 0,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.82
+    },
+    {
+      "frame": 1266,
+      "seconds": 42.2,
+      "sample": 2025600,
+      "name": "踏上玉青落点",
+      "material": "close straw step / water burst",
+      "gain_linear": 0.37,
+      "pan": -0.015,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.72
+    },
+    {
+      "frame": 1464,
+      "seconds": 48.8,
+      "sample": 2342400,
+      "name": "蓑衣纤维穿插",
+      "material": "dry braided fiber / crossing contacts",
+      "gain_linear": 0.245,
+      "pan": -0.27,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.78
+    },
+    {
+      "frame": 1530,
+      "seconds": 51.0,
+      "sample": 2448000,
+      "name": "蓑衣经纬编织",
+      "material": "denser braided fiber",
+      "gain_linear": 0.275,
+      "pan": 0.21,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.78
+    },
+    {
+      "frame": 1596,
+      "seconds": 53.2,
+      "sample": 2553600,
+      "name": "蓑衣整体收束",
+      "material": "tightened fiber / low wooden closure",
+      "gain_linear": 0.265,
+      "pan": 0.02,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 1.04
+    },
+    {
+      "frame": 1630,
+      "seconds": 54.333333,
+      "sample": 2608000,
+      "name": "雨珠滑过蓑衣",
+      "material": "small water beads",
+      "gain_linear": 0.105,
+      "pan": -0.23,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.340208
+    },
+    {
+      "frame": 1727,
+      "seconds": 57.566667,
+      "sample": 2763200,
+      "name": "微冷春风",
+      "material": "soft moving air",
+      "gain_linear": 0.15,
+      "pan": -0.07,
+      "pre_roll_seconds": 0.32,
+      "sound_duration_seconds": 2.55
+    },
+    {
+      "frame": 1859,
+      "seconds": 61.966667,
+      "sample": 2974400,
+      "name": "照料自己拢衣",
+      "material": "close cloth / straw fiber",
+      "gain_linear": 0.12,
+      "pan": 0.08,
+      "pre_roll_seconds": 0.12,
+      "sound_duration_seconds": 0.82
+    },
+    {
+      "frame": 1991,
+      "seconds": 66.366667,
+      "sample": 3185600,
+      "name": "斜照迎来",
+      "material": "fine bronze edge / warming air",
+      "gain_linear": 0.054,
+      "pan": -0.15,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 1.1
+    },
+    {
+      "frame": 2057,
+      "seconds": 68.566667,
+      "sample": 3291200,
+      "name": "暖光滑过物件",
+      "material": "soft surface air",
+      "gain_linear": 0.075,
+      "pan": 0.28,
+      "pre_roll_seconds": 0.09,
+      "sound_duration_seconds": 0.9
+    },
+    {
+      "frame": 2255,
+      "seconds": 75.166667,
+      "sample": 3608000,
+      "name": "天气波带经过",
+      "material": "water / dry contact",
+      "gain_linear": 0.091,
+      "pan": -0.27,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.475208
+    },
+    {
+      "frame": 2387,
+      "seconds": 79.566667,
+      "sample": 3819200,
+      "name": "人生路径延伸",
+      "material": "quiet straw / paper fiber",
+      "gain_linear": 0.071,
+      "pan": 0.14,
+      "pre_roll_seconds": 0.06,
+      "sound_duration_seconds": 0.4
+    },
+    {
+      "frame": 2519,
+      "seconds": 83.966667,
+      "sample": 4030400,
+      "name": "视野扩大",
+      "material": "brief soft air",
+      "gain_linear": 0.041,
+      "pan": 0.05,
+      "pre_roll_seconds": 0.11,
+      "sound_duration_seconds": 0.8
+    },
+    {
+      "frame": 2651,
+      "seconds": 88.366667,
+      "sample": 4241600,
+      "name": "回首来路余雨",
+      "material": "distant single droplet",
+      "gain_linear": 0.038,
+      "pan": -0.45,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.502208
+    },
+    {
+      "frame": 3046,
+      "seconds": 101.533333,
+      "sample": 4873600,
+      "name": "归去轻落杖",
+      "material": "distant bamboo",
+      "gain_linear": 0.088,
+      "pan": -0.1,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.38
+    },
+    {
+      "frame": 3112,
+      "seconds": 103.733333,
+      "sample": 4979200,
+      "name": "当下的一步",
+      "material": "quiet dry straw sole",
+      "gain_linear": 0.079,
+      "pan": 0.08,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.72
+    },
+    {
+      "frame": 3178,
+      "seconds": 105.933333,
+      "sample": 5084800,
+      "name": "天气空间展开",
+      "material": "broad air / grounded body / sparse metal",
+      "gain_linear": 0.29,
+      "pan": 0,
+      "pre_roll_seconds": 0,
+      "sound_duration_seconds": 0.9
+    }
+  ],
+  "event_level_checks": [
+    {
+      "frame": 13,
+      "effect_peak_dbfs": -11.34,
+      "effect_rms_dbfs": -32.42,
+      "music_rms_dbfs": -16.2
+    },
+    {
+      "frame": 79,
+      "effect_peak_dbfs": -18.0,
+      "effect_rms_dbfs": -40.62,
+      "music_rms_dbfs": -14.94
+    },
+    {
+      "frame": 190,
+      "effect_peak_dbfs": -21.78,
+      "effect_rms_dbfs": -42.08,
+      "music_rms_dbfs": -17.67
+    },
+    {
+      "frame": 210,
+      "effect_peak_dbfs": -19.78,
+      "effect_rms_dbfs": -41.7,
+      "music_rms_dbfs": -15.64
+    },
+    {
+      "frame": 540,
+      "effect_peak_dbfs": -14.34,
+      "effect_rms_dbfs": -35.37,
+      "music_rms_dbfs": -14.91
+    },
+    {
+      "frame": 738,
+      "effect_peak_dbfs": -11.36,
+      "effect_rms_dbfs": -32.49,
+      "music_rms_dbfs": -15.54
+    },
+    {
+      "frame": 804,
+      "effect_peak_dbfs": -13.1,
+      "effect_rms_dbfs": -37.3,
+      "music_rms_dbfs": -14.51
+    },
+    {
+      "frame": 870,
+      "effect_peak_dbfs": -15.39,
+      "effect_rms_dbfs": -37.14,
+      "music_rms_dbfs": -14.73
+    },
+    {
+      "frame": 936,
+      "effect_peak_dbfs": -16.8,
+      "effect_rms_dbfs": -41.64,
+      "music_rms_dbfs": -15.98
+    },
+    {
+      "frame": 1002,
+      "effect_peak_dbfs": -19.34,
+      "effect_rms_dbfs": -39.97,
+      "music_rms_dbfs": -15.77
+    },
+    {
+      "frame": 1068,
+      "effect_peak_dbfs": -16.99,
+      "effect_rms_dbfs": -39.63,
+      "music_rms_dbfs": -14.77
+    },
+    {
+      "frame": 1200,
+      "effect_peak_dbfs": -13.47,
+      "effect_rms_dbfs": -30.03,
+      "music_rms_dbfs": -15.73
+    },
+    {
+      "frame": 1266,
+      "effect_peak_dbfs": -11.03,
+      "effect_rms_dbfs": -33.62,
+      "music_rms_dbfs": -15.29
+    },
+    {
+      "frame": 1464,
+      "effect_peak_dbfs": -13.76,
+      "effect_rms_dbfs": -33.29,
+      "music_rms_dbfs": -16.39
+    },
+    {
+      "frame": 1530,
+      "effect_peak_dbfs": -13.02,
+      "effect_rms_dbfs": -32.47,
+      "music_rms_dbfs": -16.84
+    },
+    {
+      "frame": 1596,
+      "effect_peak_dbfs": -14.15,
+      "effect_rms_dbfs": -32.21,
+      "music_rms_dbfs": -15.28
+    },
+    {
+      "frame": 1630,
+      "effect_peak_dbfs": -21.25,
+      "effect_rms_dbfs": -44.74,
+      "music_rms_dbfs": -15.59
+    },
+    {
+      "frame": 1727,
+      "effect_peak_dbfs": -18.94,
+      "effect_rms_dbfs": -36.94,
+      "music_rms_dbfs": -16.55
+    },
+    {
+      "frame": 1859,
+      "effect_peak_dbfs": -20.9,
+      "effect_rms_dbfs": -39.4,
+      "music_rms_dbfs": -14.65
+    },
+    {
+      "frame": 1991,
+      "effect_peak_dbfs": -21.71,
+      "effect_rms_dbfs": -41.25,
+      "music_rms_dbfs": -16.42
+    },
+    {
+      "frame": 2057,
+      "effect_peak_dbfs": -23.79,
+      "effect_rms_dbfs": -42.54,
+      "music_rms_dbfs": -16.83
+    },
+    {
+      "frame": 2255,
+      "effect_peak_dbfs": -22.33,
+      "effect_rms_dbfs": -47.22,
+      "music_rms_dbfs": -15.69
+    },
+    {
+      "frame": 2387,
+      "effect_peak_dbfs": -25.23,
+      "effect_rms_dbfs": -44.83,
+      "music_rms_dbfs": -15.13
+    },
+    {
+      "frame": 2519,
+      "effect_peak_dbfs": -30.63,
+      "effect_rms_dbfs": -47.13,
+      "music_rms_dbfs": -16.04
+    },
+    {
+      "frame": 2651,
+      "effect_peak_dbfs": -29.24,
+      "effect_rms_dbfs": -55.57,
+      "music_rms_dbfs": -16.3
+    },
+    {
+      "frame": 3046,
+      "effect_peak_dbfs": -23.49,
+      "effect_rms_dbfs": -47.53,
+      "music_rms_dbfs": -15.79
+    },
+    {
+      "frame": 3112,
+      "effect_peak_dbfs": -24.54,
+      "effect_rms_dbfs": -47.81,
+      "music_rms_dbfs": -19.22
+    },
+    {
+      "frame": 3178,
+      "effect_peak_dbfs": -12.76,
+      "effect_rms_dbfs": -29.13,
+      "music_rms_dbfs": -14.97
+    }
+  ],
+  "soundtrack_sha256": "b2266204dee1dceabf8d38f6e4d474585ffd5e8930a7f327c8e84291b7abc723",
+  "sfx_sha256": "7a6dd33bc3fc2859fca0910cde50599149424b6ca16ed3a32995c2f3f95f3d97"
+}

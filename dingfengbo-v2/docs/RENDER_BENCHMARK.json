@@ -1,0 +1,362 @@
+{
+  "decision": "Use CPU Skia rasterization for 2D; preserve swangle WebGL, native 1080p, all animation frames, 1440 cloak fibers, PBR materials, and 4x MSAA. Keep original moving background gradient.",
+  "wrapper": "scripts/chromium-cpu-raster.sh",
+  "measurements": {
+    "baseline": {
+      "name": "baseline",
+      "frames": 15,
+      "renderSeconds": 26.516,
+      "totalSeconds": 30.9,
+      "steadyFps": 0.7820355267567869,
+      "milestones": [
+        {
+          "frames": 1,
+          "seconds": 7.831
+        },
+        {
+          "frames": 2,
+          "seconds": 7.834
+        },
+        {
+          "frames": 3,
+          "seconds": 7.97
+        },
+        {
+          "frames": 4,
+          "seconds": 11.727
+        },
+        {
+          "frames": 5,
+          "seconds": 11.776
+        },
+        {
+          "frames": 6,
+          "seconds": 11.829
+        },
+        {
+          "frames": 7,
+          "seconds": 15.603
+        },
+        {
+          "frames": 8,
+          "seconds": 15.606
+        },
+        {
+          "frames": 9,
+          "seconds": 15.629
+        },
+        {
+          "frames": 10,
+          "seconds": 17.522
+        },
+        {
+          "frames": 11,
+          "seconds": 20.022
+        },
+        {
+          "frames": 12,
+          "seconds": 20.023
+        },
+        {
+          "frames": 13,
+          "seconds": 20.088
+        },
+        {
+          "frames": 14,
+          "seconds": 25.731
+        },
+        {
+          "frames": 15,
+          "seconds": 25.733
+        }
+      ]
+    },
+    "fixed-x": {
+      "name": "fixed-x",
+      "frames": 15,
+      "renderSeconds": 18.96,
+      "totalSeconds": 23.812,
+      "steadyFps": 1.1430437622468974,
+      "milestones": [
+        {
+          "frames": 1,
+          "seconds": 6.06
+        },
+        {
+          "frames": 2,
+          "seconds": 6.091
+        },
+        {
+          "frames": 3,
+          "seconds": 6.172
+        },
+        {
+          "frames": 4,
+          "seconds": 9.191
+        },
+        {
+          "frames": 5,
+          "seconds": 9.2
+        },
+        {
+          "frames": 6,
+          "seconds": 9.201
+        },
+        {
+          "frames": 7,
+          "seconds": 12.287
+        },
+        {
+          "frames": 8,
+          "seconds": 12.289
+        },
+        {
+          "frames": 9,
+          "seconds": 12.31
+        },
+        {
+          "frames": 10,
+          "seconds": 15.037
+        },
+        {
+          "frames": 11,
+          "seconds": 15.193
+        },
+        {
+          "frames": 12,
+          "seconds": 15.25
+        },
+        {
+          "frames": 13,
+          "seconds": 18.254
+        },
+        {
+          "frames": 14,
+          "seconds": 18.307
+        },
+        {
+          "frames": 15,
+          "seconds": 18.308
+        }
+      ]
+    },
+    "cpu-raster": {
+      "name": "cpu-raster",
+      "frames": 15,
+      "renderSeconds": 6.054,
+      "totalSeconds": 9.519,
+      "steadyFps": 5.638340716874748,
+      "milestones": [
+        {
+          "frames": 1,
+          "seconds": 3.036
+        },
+        {
+          "frames": 2,
+          "seconds": 3.386
+        },
+        {
+          "frames": 3,
+          "seconds": 3.388
+        },
+        {
+          "frames": 4,
+          "seconds": 3.388
+        },
+        {
+          "frames": 5,
+          "seconds": 3.99
+        },
+        {
+          "frames": 6,
+          "seconds": 3.991
+        },
+        {
+          "frames": 7,
+          "seconds": 3.992
+        },
+        {
+          "frames": 8,
+          "seconds": 4.333
+        },
+        {
+          "frames": 9,
+          "seconds": 4.478
+        },
+        {
+          "frames": 10,
+          "seconds": 4.668
+        },
+        {
+          "frames": 11,
+          "seconds": 4.906
+        },
+        {
+          "frames": 12,
+          "seconds": 5.073
+        },
+        {
+          "frames": 13,
+          "seconds": 5.175
+        },
+        {
+          "frames": 14,
+          "seconds": 5.334
+        },
+        {
+          "frames": 15,
+          "seconds": 5.519
+        }
+      ]
+    },
+    "cpu-raster-dynamic": {
+      "name": "cpu-raster-dynamic",
+      "frames": 15,
+      "renderSeconds": 6.122,
+      "totalSeconds": 10.602,
+      "steadyFps": 5.9447983014862,
+      "milestones": [
+        {
+          "frames": 1,
+          "seconds": 3.187
+        },
+        {
+          "frames": 2,
+          "seconds": 3.189
+        },
+        {
+          "frames": 3,
+          "seconds": 3.19
+        },
+        {
+          "frames": 4,
+          "seconds": 3.658
+        },
+        {
+          "frames": 5,
+          "seconds": 4.022
+        },
+        {
+          "frames": 6,
+          "seconds": 4.023
+        },
+        {
+          "frames": 7,
+          "seconds": 4.024
+        },
+        {
+          "frames": 8,
+          "seconds": 4.656
+        },
+        {
+          "frames": 9,
+          "seconds": 4.657
+        },
+        {
+          "frames": 10,
+          "seconds": 4.658
+        },
+        {
+          "frames": 11,
+          "seconds": 4.986
+        },
+        {
+          "frames": 12,
+          "seconds": 5.029
+        },
+        {
+          "frames": 13,
+          "seconds": 5.205
+        },
+        {
+          "frames": 14,
+          "seconds": 5.4
+        },
+        {
+          "frames": 15,
+          "seconds": 5.542
+        }
+      ]
+    },
+    "cpu-raster-cloak": {
+      "name": "cpu-raster-cloak",
+      "frames": 15,
+      "renderSeconds": 20.912,
+      "totalSeconds": 24.051,
+      "steadyFps": 1.1230547088079577,
+      "milestones": [
+        {
+          "frames": 1,
+          "seconds": 7.882
+        },
+        {
+          "frames": 2,
+          "seconds": 8.023
+        },
+        {
+          "frames": 3,
+          "seconds": 8.594
+        },
+        {
+          "frames": 4,
+          "seconds": 10.282
+        },
+        {
+          "frames": 5,
+          "seconds": 10.487
+        },
+        {
+          "frames": 6,
+          "seconds": 12.978
+        },
+        {
+          "frames": 7,
+          "seconds": 13.144
+        },
+        {
+          "frames": 8,
+          "seconds": 13.145
+        },
+        {
+          "frames": 9,
+          "seconds": 15.844
+        },
+        {
+          "frames": 10,
+          "seconds": 16.009
+        },
+        {
+          "frames": 11,
+          "seconds": 16.013
+        },
+        {
+          "frames": 12,
+          "seconds": 18.884
+        },
+        {
+          "frames": 13,
+          "seconds": 19.058
+        },
+        {
+          "frames": 14,
+          "seconds": 19.164
+        },
+        {
+          "frames": 15,
+          "seconds": 20.348
+        }
+      ]
+    }
+  },
+  "visual_comparison": {
+    "images": [
+      "baseline.png",
+      "cpu-raster-dynamic.png",
+      "cpu-raster-cloak.png"
+    ],
+    "mean_abs_delta_0_255": 1.0620680619855967,
+    "p99_abs_delta_0_255": 5,
+    "fraction_pixels_with_any_channel_delta_gt_5": 0.009587191358024692,
+    "visual_review": "No substantive visual change. Gradient, grain, gold detail, typography and real 3D cloak intact."
+  }
+}

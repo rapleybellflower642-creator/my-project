@@ -1,0 +1,30 @@
+{
+  "name": "dingfengbo-object-diagrams-v2",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio --no-open --port=3002",
+    "typecheck": "tsc --noEmit",
+    "render": "bash scripts/render-final-v2.sh",
+    "cover": "remotion still src/index.ts CoverV2 out/cover-v2.png --browser-executable=./scripts/chromium-cpu-raster.sh --gl=swangle",
+    "review": "node scripts/render-review-v2.cjs"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.4.0",
+    "@remotion/cli": "4.0.535",
+    "@remotion/media": "4.0.535",
+    "@remotion/renderer": "4.0.535",
+    "@remotion/three": "4.0.535",
+    "@remotion/transitions": "4.0.535",
+    "@types/three": "0.180.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.535",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}

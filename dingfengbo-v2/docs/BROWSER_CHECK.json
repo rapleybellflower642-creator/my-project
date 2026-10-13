@@ -1,0 +1,74 @@
+{
+  "status": "passed",
+  "browser": "Chromium",
+  "file": "dingfengbo-v2.mp4",
+  "sha256": "78ec1a8f22319d1aedff53b6a545abf4db03dcaf52cb0504d9dfa9b31687f99c",
+  "metadata": {
+    "duration": 120,
+    "width": 1920,
+    "height": 1080
+  },
+  "seeks": [
+    {
+      "target_seconds": 0.6,
+      "time": 0.6,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 24.6,
+      "time": 24.6,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 50.8,
+      "time": 50.8,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 55,
+      "time": 55,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 66.4,
+      "time": 66.4,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 105.94,
+      "time": 105.94,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 112.3,
+      "time": 112.3,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    },
+    {
+      "target_seconds": 119.5,
+      "time": 119.5,
+      "readyState": 4,
+      "error": null,
+      "status": "passed"
+    }
+  ],
+  "playback": {
+    "start": 15.000506,
+    "end": 15.660768,
+    "error": null
+  }
+}

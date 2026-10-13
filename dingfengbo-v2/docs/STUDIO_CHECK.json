@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-13T20:44:41.156Z",
+  "project_directory": "/workspace/my-project/dingfengbo-v2",
+  "served_directory": "/workspace/my-project/dingfengbo-v2",
+  "port": 3002,
+  "server_command": "npm run studio",
+  "server_session_id": 71878,
+  "http_status": 200,
+  "page_title": "DingFengBoV2 / dingfengbo-v2 - Remotion Studio",
+  "browser": "Chromium via Playwright",
+  "browser_gpu_disabled": true,
+  "browser_webgl_disabled": true,
+  "interaction": "Loaded Studio and read composition list only; no playback or media render started.",
+  "required_compositions": [
+    "DingFengBoV2",
+    "CoverV2"
+  ],
+  "visible_compositions": [
+    "DingFengBoV2",
+    "CoverV2"
+  ],
+  "page_errors": [],
+  "previous_studio": {
+    "pid": 14316,
+    "served_directory": "/workspace/dingfengbo-v2",
+    "verification": "Process command contained remotion studio; HTML remotion_cwd matched old project before SIGTERM."
+  }
+}
