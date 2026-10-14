@@ -1,0 +1,92 @@
+{
+  "status": "passed",
+  "deliverable": "V4 full-HD complete film",
+  "file": "dingfengbo-v4-full.mp4",
+  "bytes": 54019193,
+  "sha256": "bfe812173a7f3e146ee90b0a31b06fa42e93f93bb4a39f9636f9bf6b1fd082c6",
+  "timeline": {
+    "file": "timeline.json",
+    "sha256": "fadd3162aba69bb7ce5393463d5e2a68eed522316d70130bcf089f5b911a2ae0"
+  },
+  "expected": {
+    "duration_seconds": 594.2666666666667,
+    "frames": 17828,
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "duration_tolerance_seconds_exclusive": 0.05,
+    "shots": 119,
+    "chapters": 14
+  },
+  "video": {
+    "codec_name": "h264",
+    "profile": "High",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "duration": "594.266667",
+    "nb_frames": "17828"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "profile": "LC",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0",
+    "avg_frame_rate": "0/0",
+    "duration": "594.266000",
+    "nb_frames": "27858"
+  },
+  "container": {
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "duration": "594.266667",
+    "size": "54019193"
+  },
+  "duration_errors_seconds": {
+    "video": 3.3333333249174757e-07,
+    "audio": 0.0006666666666887977,
+    "container": 3.3333333249174757e-07
+  },
+  "audio_video_duration_difference_seconds": 0.0006670000000212895,
+  "decoded_video_frames": 17828,
+  "full_audio_video_decode": "passed",
+  "fast_start": true,
+  "top_level_atoms": [
+    {
+      "name": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "name": "moov",
+      "offset": 32,
+      "size": 655708
+    },
+    {
+      "name": "free",
+      "offset": 655740,
+      "size": 8
+    },
+    {
+      "name": "mdat",
+      "offset": 655748,
+      "size": 53363445
+    }
+  ],
+  "integrated_lufs": -15.05,
+  "true_peak_dbtp": -1.67,
+  "loudness_range_lu": 2.7,
+  "audio_limits": {
+    "integrated_lufs_min": -16,
+    "integrated_lufs_max": -14,
+    "true_peak_dbtp_max": -1
+  },
+  "subjective_listening_checked": false,
+  "note": "Technical file validation does not verify subjective sound balance or audiovisual synchronization."
+}

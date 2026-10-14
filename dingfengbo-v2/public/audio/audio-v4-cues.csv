@@ -1,0 +1,38 @@
+frame,kind,priority,shot_id,scene,chapter,selection,seconds,sample,material,gain_linear,pan,sound_duration_seconds,ambience_seconds
+13,chapter,9,001,rain-leaves,01,chapter transition,0.433333,20800,quiet chapter wood contact,0.105,-0.18,0.83,0
+520,rain,4,004,jobloss,01,selected object / weather shot,17.333333,832000,rain drops / leaves,0.13,0.13,1.45,0
+999,paper,6,007,manuscript,01,selected object / weather shot,33.3,1598400,paper fiber,0.115,-0.05,0.55,0
+1325,chapter,9,009,exile,02,chapter transition,44.166667,2120000,quiet chapter wood contact,0.105,0.19,0.83,0
+1826,river,7,012,river,02,selected object / weather shot,60.866667,2921600,boat water,0.13,0,1.45,0
+2614,paper,9,017,manuscript,03,chapter transition,87.133333,4182400,paper fiber,0.115,-0.18,0.55,0
+2883,rain,4,019,path,03,selected object / weather shot,96.1,4612800,rain drops / leaves,0.13,0.13,1.45,5.8
+3296,river,7,022,river,03,selected object / weather shot,109.866667,5273600,boat water,0.13,-0.05,1.45,0
+3672,chapter,9,025,rain-leaves,04,chapter transition,122.4,5875200,quiet chapter wood contact,0.105,0.19,0.83,0
+4520,rain,4,031,rain-leaves,04,selected object / weather shot,150.666667,7232000,rain drops / leaves,0.13,0,1.45,0
+4834,rain,4,033,comments,04,selected object / weather shot,161.133333,7734400,rain drops / leaves,0.13,-0.18,1.45,5.8
+5159,step,9,035,chant,05,chapter transition,171.966667,8254400,wet straw sole,0.16,0.13,0.72,0
+5859,step,6,040,portrait,05,selected object / weather shot,195.3,9374400,wet straw sole,0.16,-0.05,0.72,0
+6305,step,6,043,window,05,selected object / weather shot,210.166667,10088000,wet straw sole,0.16,0.19,0.72,0
+6614,cane,9,045,staff,06,chapter transition,220.466667,10582400,bamboo contact,0.16,0,0.38,0
+7279,chapter,0,050,luxury,06,selected scene transition,242.633333,11646400,quiet chapter wood contact,0.105,-0.18,0.83,0
+7791,chapter,0,053,burden,06,selected scene transition,259.7,12465600,quiet chapter wood contact,0.105,0.13,0.83,0
+8133,chapter,9,055,resolve,07,chapter transition,271.1,13012800,quiet chapter wood contact,0.105,-0.05,0.83,0
+8942,chapter,9,061,raincoat,08,chapter transition,298.066667,14307200,quiet chapter wood contact,0.105,0.19,0.83,0
+9360,rain,4,064,resolve,08,selected object / weather shot,312.0,14976000,rain drops / leaves,0.13,0,1.45,0
+9723,wind,6,066,window,08,selected object / weather shot,324.1,15556800,soft moving air,0.105,-0.18,1.8,5.8
+10202,rain,4,069,steps,08,selected object / weather shot,340.066667,16323200,rain drops / leaves,0.13,0.13,1.45,0
+10495,wind,9,071,cold,09,chapter transition,349.833333,16792000,soft moving air,0.105,-0.05,1.8,5.8
+11161,wind,6,076,window,09,selected object / weather shot,372.033333,17857600,soft moving air,0.105,0.19,1.8,0
+11486,sun,9,078,sunset,10,chapter transition,382.866667,18377600,warm air / fine bronze edge,0.115,0,1.45,0
+12003,wind,6,082,window,10,selected object / weather shot,400.1,19204800,soft moving air,0.105,-0.18,1.8,0
+12598,chapter,0,086,relief,10,selected scene transition,419.933333,20156800,quiet chapter wood contact,0.105,0.13,0.83,0
+12940,chapter,9,088,lookback,11,chapter transition,431.333333,20704000,quiet chapter wood contact,0.105,-0.05,0.83,0
+13474,prison,8,092,prison,11,selected object / weather shot,449.133333,21558400,wood door / muted latch,0.18,0.19,0.95,0
+14063,chapter,9,096,return,12,chapter transition,468.766667,22500800,quiet chapter wood contact,0.105,0,0.83,0
+14614,release,3,100,relief,12,selected object / weather shot,487.133333,23382400,receding weather / gentle air,0.075,-0.18,1.7,0
+14874,chapter,9,102,horizon,13,chapter transition,495.8,23798400,quiet chapter wood contact,0.105,0.13,0.83,0
+15490,wind,6,106,window,13,selected object / weather shot,516.333333,24784000,soft moving air,0.105,-0.05,1.8,5.8
+15937,chapter,0,109,old-photo,13,selected scene transition,531.233333,25499200,quiet chapter wood contact,0.105,0.19,0.83,0
+16427,step,9,112,writing,14,chapter transition,547.566667,26283200,wet straw sole,0.16,0,0.72,0
+16960,step,6,115,manuscript,14,selected object / weather shot,565.333333,27136000,wet straw sole,0.16,-0.18,0.72,0
+17340,step,6,117,portrait,14,selected object / weather shot,578.0,27744000,wet straw sole,0.16,0.13,0.72,0

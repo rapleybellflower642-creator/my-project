@@ -9,10 +9,16 @@
     "typecheck": "tsc --noEmit",
     "render": "bash scripts/render-final-v2.sh",
     "cover": "remotion still src/index.ts CoverV2 out/cover-v2.png --browser-executable=./scripts/chromium-cpu-raster.sh --gl=swangle",
-    "review": "node scripts/render-review-v2.cjs"
+    "review": "node scripts/render-review-v2.cjs",
+    "prepare:v4": "node scripts/prepare-v4.cjs",
+    "assets:v4": "node scripts/assets-v4.cjs",
+    "audio:v4": "python3 scripts/audio_design_v4.py",
+    "render:v4": "python3 scripts/render-v4.py",
+    "verify:v4": "python3 scripts/verify-v4.py"
   },
   "dependencies": {
     "@react-three/fiber": "9.4.0",
+    "@remotion/captions": "4.0.535",
     "@remotion/cli": "4.0.535",
     "@remotion/media": "4.0.535",
     "@remotion/renderer": "4.0.535",
@@ -27,6 +33,7 @@
   "devDependencies": {
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
+    "sharp": "0.35.5",
     "typescript": "5.9.3"
   }
 }

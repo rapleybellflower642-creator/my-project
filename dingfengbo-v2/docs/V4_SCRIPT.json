@@ -1,0 +1,860 @@
+[
+  {
+    "id": "001",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "rain-leaves",
+    "caption": "当你身处逆境，或是对人生感到迷茫，不妨读一读苏轼的《定风波》。",
+    "headline": "人生的雨，来了怎么办？"
+  },
+  {
+    "id": "002",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "portrait",
+    "caption": "我们总说：太难了，快熬不下去了。可人生，哪有永远的晴天？"
+  },
+  {
+    "id": "003",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "exam",
+    "caption": "有些雨，是一次考试失利。准备了很久，仍没等到想要的结果。"
+  },
+  {
+    "id": "004",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "jobloss",
+    "caption": "有些雨，是突然失去工作。明天怎么办，一下子成了眼前的问题。"
+  },
+  {
+    "id": "005",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "commute",
+    "caption": "当这些雨接连落下来，我们容易慌张，也容易怀疑自己。"
+  },
+  {
+    "id": "006",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "path",
+    "caption": "越是在这种时候，越想知道：眼前这一步，我们到底该怎么走？"
+  },
+  {
+    "id": "007",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "manuscript",
+    "caption": "苏轼把自己的一次遇雨，写成了这首值得反复品味的词。"
+  },
+  {
+    "id": "008",
+    "chapter": "01",
+    "chapterTitle": "人生也会下雨",
+    "scene": "portrait",
+    "caption": "先别急着谈豁达。我们先看看，写下这首词时，他正过着怎样的日子。"
+  },
+  {
+    "id": "009",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "exile",
+    "caption": "公元一〇八二年，苏轼贬居黄州，已经到了第三个年头。",
+    "headline": "1082 · 黄州第三年"
+  },
+  {
+    "id": "010",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "portrait",
+    "caption": "这一年，他实足四十五岁；按传统虚岁计算，是四十七岁。"
+  },
+  {
+    "id": "011",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "prison",
+    "caption": "三年前，一〇七九年，乌台诗案把他送进了御史台的牢狱。",
+    "headline": "1079 · 乌台诗案"
+  },
+  {
+    "id": "012",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "river",
+    "caption": "一〇八〇年，他来到黄州。人生的路，从这里拐进了一段低谷。",
+    "headline": "1080 · 贬居黄州"
+  },
+  {
+    "id": "013",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "official",
+    "caption": "名义上，他仍有团练副使的官衔，却不得签署公事。"
+  },
+  {
+    "id": "014",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "farm",
+    "caption": "经济困顿，他躬耕东坡；也在这个时期，自号东坡居士。"
+  },
+  {
+    "id": "015",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "farm",
+    "caption": "过去是人们熟知的文人和官员，如今也要认真面对田里的庄稼。"
+  },
+  {
+    "id": "016",
+    "chapter": "02",
+    "chapterTitle": "黄州第三年",
+    "scene": "cottage",
+    "caption": "这就是读词时不能忘记的背景：从容之前，他已经尝过失意。"
+  },
+  {
+    "id": "017",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "manuscript",
+    "caption": "词前小序，记下了这一天：三月七日，沙湖道中遇雨。",
+    "headline": "三月七日 · 沙湖道中"
+  },
+  {
+    "id": "018",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "companions",
+    "caption": "雨具先去，同行皆狼狈。"
+  },
+  {
+    "id": "019",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "path",
+    "caption": "雨具已经先行，同路的人被雨弄得狼狈。这是小序留下的情景。"
+  },
+  {
+    "id": "020",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "manuscript",
+    "caption": "余独不觉。已而遂晴，故作此。"
+  },
+  {
+    "id": "021",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "walk",
+    "caption": "他写道，自己却不觉得有什么。随后天晴，于是写下这首词。"
+  },
+  {
+    "id": "022",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "river",
+    "caption": "小序记下的，是一段普通的雨中行路。"
+  },
+  {
+    "id": "023",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "portrait",
+    "caption": "但一场雨，碰上经历过人生起伏的人，就有了另一层意味。"
+  },
+  {
+    "id": "024",
+    "chapter": "03",
+    "chapterTitle": "沙湖遇雨",
+    "scene": "forest",
+    "caption": "莫听穿林打叶声，何妨吟啸且徐行。",
+    "headline": "莫听穿林打叶声"
+  },
+  {
+    "id": "025",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "rain-leaves",
+    "caption": "词一开头，苏轼就说：莫听。",
+    "headline": "雨声之外"
+  },
+  {
+    "id": "026",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "forest",
+    "caption": "雨点穿过树林，敲在叶子上。这样的声响，很容易让人烦躁。"
+  },
+  {
+    "id": "027",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "companions",
+    "caption": "换作我们，第一反应可能是赶快走，别再被雨淋着。"
+  },
+  {
+    "id": "028",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "commute",
+    "caption": "可读到这里，我们也会想到生活里那些不断响起的声音。"
+  },
+  {
+    "id": "029",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "office",
+    "caption": "上司的指责，旁人的闲言，突然而来的打击，都会让人心乱。"
+  },
+  {
+    "id": "030",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "case",
+    "caption": "结合苏轼的经历，也可以联想到诗案和仕途中承受的压力。"
+  },
+  {
+    "id": "031",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "rain-leaves",
+    "caption": "从眼前的雨声里，我们读出了人情与世事的风波。"
+  },
+  {
+    "id": "032",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "portrait",
+    "caption": "莫听，可以理解为：听见了，也不急着把每一句都放进心里。",
+    "headline": "听见了，也可以放下"
+  },
+  {
+    "id": "033",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "comments",
+    "caption": "比如刷到一条恶意评论，与其气得发抖，也可以先关掉页面。"
+  },
+  {
+    "id": "034",
+    "chapter": "04",
+    "chapterTitle": "莫听雨声",
+    "scene": "close-phone",
+    "caption": "把注意力收回来，不让陌生人的恶意，继续消耗今天的自己。"
+  },
+  {
+    "id": "035",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "chant",
+    "caption": "何妨吟啸且徐行。",
+    "headline": "何妨吟啸且徐行"
+  },
+  {
+    "id": "036",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "portrait",
+    "caption": "何妨，就是又有什么关系？这两个字，带着一点松弛和洒脱。"
+  },
+  {
+    "id": "037",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "chant",
+    "caption": "吟，是吟咏；啸，是长啸。雨里的人，仍可以发出自己的声音。"
+  },
+  {
+    "id": "038",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "walk",
+    "caption": "你可以想象，他一边行走，一边吟咏，脚下也不必乱了步调。"
+  },
+  {
+    "id": "039",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "path",
+    "caption": "且徐行：先把脚步放慢。雨声再密，也给自己留一点从容。"
+  },
+  {
+    "id": "040",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "portrait",
+    "caption": "我们从这里读到的，不只是姿态好看，而是心里有了一份安定。"
+  },
+  {
+    "id": "041",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "steps",
+    "caption": "人生的难关，再着急，也要一步一步地过。"
+  },
+  {
+    "id": "042",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "office",
+    "caption": "越慌张，越可能忙中出错。先稳住心神，才能看清下一步。",
+    "headline": "先稳住心神"
+  },
+  {
+    "id": "043",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "window",
+    "caption": "从容的人也会害怕，只是努力不让自己完全被慌乱带着走。"
+  },
+  {
+    "id": "044",
+    "chapter": "05",
+    "chapterTitle": "吟啸徐行",
+    "scene": "walk",
+    "caption": "事情还要处理，路还得继续。有时慢一点，反而能走得更稳。"
+  },
+  {
+    "id": "045",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "staff",
+    "caption": "竹杖芒鞋轻胜马。",
+    "headline": "竹杖芒鞋轻胜马"
+  },
+  {
+    "id": "046",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "walk",
+    "caption": "一根竹杖，一双草鞋。行装简朴，他却说：轻胜马。"
+  },
+  {
+    "id": "047",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "portrait",
+    "caption": "这里的轻快，也可以读成一种心境。"
+  },
+  {
+    "id": "048",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "horse",
+    "caption": "马容易让我们想到身份和排场；竹杖芒鞋，则让人想到简单自在。"
+  },
+  {
+    "id": "049",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "burden",
+    "caption": "打个现代的比方：骑马时怕陷进泥里，又惦记体面，反倒多了牵挂。"
+  },
+  {
+    "id": "050",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "luxury",
+    "caption": "人有时活得很累，是因为被体面和身份绑住，什么都舍不得放下。"
+  },
+  {
+    "id": "051",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "luxury",
+    "caption": "比如工资并不高，却为了撑场面，硬要买一个昂贵的名牌包。"
+  },
+  {
+    "id": "052",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "debt",
+    "caption": "又比如债务已经很重，还为了别人的眼光，添上难以承受的房车开支。"
+  },
+  {
+    "id": "053",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "burden",
+    "caption": "这些本来想证明自己的东西，最后却像沉重的马鞍，压住了自己。"
+  },
+  {
+    "id": "054",
+    "chapter": "06",
+    "chapterTitle": "轻胜马",
+    "scene": "relief",
+    "caption": "读到竹杖芒鞋，不妨问问：哪些负担，是我本来可以不背的？",
+    "headline": "哪些负担，可以不背？"
+  },
+  {
+    "id": "055",
+    "chapter": "07",
+    "chapterTitle": "谁怕",
+    "scene": "resolve",
+    "caption": "谁怕？",
+    "headline": "谁怕？"
+  },
+  {
+    "id": "056",
+    "chapter": "07",
+    "chapterTitle": "谁怕",
+    "scene": "portrait",
+    "caption": "怕什么？怕一场雨，怕一时落魄，还是怕别人笑话？"
+  },
+  {
+    "id": "057",
+    "chapter": "07",
+    "chapterTitle": "谁怕",
+    "scene": "resolve",
+    "caption": "在这两个字里，我们听见一种经历失意之后，仍不肯低头的力量。"
+  },
+  {
+    "id": "058",
+    "chapter": "07",
+    "chapterTitle": "谁怕",
+    "scene": "path",
+    "caption": "刚才还在讲怎样走路，这一声发问，已经把目光投向了人生。"
+  },
+  {
+    "id": "059",
+    "chapter": "07",
+    "chapterTitle": "谁怕",
+    "scene": "walk",
+    "caption": "他没有要求风雨先退场，才允许自己继续向前。"
+  },
+  {
+    "id": "060",
+    "chapter": "07",
+    "chapterTitle": "谁怕",
+    "scene": "horizon",
+    "caption": "接下来，是这首词里最有分量的宣言之一。"
+  },
+  {
+    "id": "061",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "raincoat",
+    "caption": "一蓑烟雨任平生。",
+    "headline": "一蓑烟雨任平生"
+  },
+  {
+    "id": "062",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "rain-leaves",
+    "caption": "一蓑烟雨，把眼前的雨，写出了人生风雨的意味。"
+  },
+  {
+    "id": "063",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "exile",
+    "caption": "联系他的生平，我们会想到仕途起落、官场压力，以及贬谪中的失意。"
+  },
+  {
+    "id": "064",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "resolve",
+    "caption": "任平生，像是在说：人生有晴有雨，我愿意带着这份坦然走下去。"
+  },
+  {
+    "id": "065",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "portrait",
+    "caption": "这份接纳，不等于放弃生活。承认已经发生的事，才有余力想办法。",
+    "headline": "接纳之后，仍可行动"
+  },
+  {
+    "id": "066",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "window",
+    "caption": "少一些追问命运为什么偏偏为难我，也能试着做一点眼下的事。"
+  },
+  {
+    "id": "067",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "market",
+    "caption": "比如失业之后，先找一份兼职，或者摆个小摊，照料自己的生计。"
+  },
+  {
+    "id": "068",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "jobloss",
+    "caption": "这条路未必轻松，却是人在困境里，努力站稳脚跟的样子。"
+  },
+  {
+    "id": "069",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "steps",
+    "caption": "接纳风雨，也仍然可以改变能改变的处境。"
+  },
+  {
+    "id": "070",
+    "chapter": "08",
+    "chapterTitle": "任平生",
+    "scene": "relief",
+    "caption": "这不能保证从此不再受伤，却能让我们多一点和生活周旋的力量。"
+  },
+  {
+    "id": "071",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "cold",
+    "caption": "料峭春风吹酒醒，微冷。",
+    "headline": "料峭春风吹酒醒，微冷"
+  },
+  {
+    "id": "072",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "river",
+    "caption": "下片转到雨后。带着凉意的春风，把他的酒意吹醒了。"
+  },
+  {
+    "id": "073",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "portrait",
+    "caption": "写到这里，苏轼没有藏起身体真实的感受。"
+  },
+  {
+    "id": "074",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "cold",
+    "caption": "微冷，这两个字让词里的人，一下子有了温度。"
+  },
+  {
+    "id": "075",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "portrait",
+    "caption": "他也是一个会感觉到冷的人。从容，并不需要装作毫无感受。"
+  },
+  {
+    "id": "076",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "window",
+    "caption": "读到这里，我们也可以容下自己的疲惫、害怕，和偶尔的迷茫。"
+  },
+  {
+    "id": "077",
+    "chapter": "09",
+    "chapterTitle": "微冷",
+    "scene": "office",
+    "caption": "人不可能永远热血沸腾。有些时候，承认自己累了，也很正常。"
+  },
+  {
+    "id": "078",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "sunset",
+    "caption": "山头斜照却相迎。",
+    "headline": "山头斜照却相迎"
+  },
+  {
+    "id": "079",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "cold",
+    "caption": "春风还有些冷，山头的斜阳，却已经迎面照来。"
+  },
+  {
+    "id": "080",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "horizon",
+    "caption": "冷意与暖光，就这样出现在同一段路上。"
+  },
+  {
+    "id": "081",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "sunset",
+    "caption": "这个却字，让我们读到一点意外，也读到生活还可能有的温柔。"
+  },
+  {
+    "id": "082",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "window",
+    "caption": "走过难处之后，未必立刻就有好事等着我们。"
+  },
+  {
+    "id": "083",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "city-dawn",
+    "caption": "但在疲惫的日子里，有时也会遇到一些不经意的小温暖。"
+  },
+  {
+    "id": "084",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "coffee",
+    "caption": "比如熬夜赶项目，快撑不住时，同事递来一杯热咖啡。"
+  },
+  {
+    "id": "085",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "debt",
+    "caption": "又比如正为钱发愁，恰好收到一笔意外的收入，暂时松一口气。"
+  },
+  {
+    "id": "086",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "relief",
+    "caption": "这些小事未必解决全部难题，却可能让人觉得，今天还能继续。"
+  },
+  {
+    "id": "087",
+    "chapter": "10",
+    "chapterTitle": "斜阳相迎",
+    "scene": "sunset",
+    "caption": "读到斜照相迎，我们可以记住：在难受之外，也给温暖留一个位置。",
+    "headline": "给温暖留一个位置"
+  },
+  {
+    "id": "088",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "lookback",
+    "caption": "回首向来萧瑟处。",
+    "headline": "回首向来萧瑟处"
+  },
+  {
+    "id": "089",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "path",
+    "caption": "雨停了，天晴了。苏轼回头，望向刚才走过的风雨之处。"
+  },
+  {
+    "id": "090",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "lookback",
+    "caption": "回首，先是一个真实的动作：回头看一看来时的路。"
+  },
+  {
+    "id": "091",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "lookback",
+    "caption": "结合他的人生，我们也可以从中读到对过去的回望。"
+  },
+  {
+    "id": "092",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "prison",
+    "caption": "牢狱中的日子，贬居黄州的失意，都成为理解这首词的背景。"
+  },
+  {
+    "id": "093",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "path",
+    "caption": "来时的雨已经留在身后，经历过的事情，却不会因此被抹掉。"
+  },
+  {
+    "id": "094",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "lookback",
+    "caption": "它们曾经很难熬，但日后回望时，也许会慢慢有不同的感受。"
+  },
+  {
+    "id": "095",
+    "chapter": "11",
+    "chapterTitle": "回首来路",
+    "scene": "return",
+    "caption": "苏轼接着写下两个字：归去。"
+  },
+  {
+    "id": "096",
+    "chapter": "12",
+    "chapterTitle": "归去",
+    "scene": "return",
+    "caption": "归去。",
+    "headline": "归去"
+  },
+  {
+    "id": "097",
+    "chapter": "12",
+    "chapterTitle": "归去",
+    "scene": "cottage",
+    "caption": "字面上，是归返；今天读来，也能读出一种放下的意味。"
+  },
+  {
+    "id": "098",
+    "chapter": "12",
+    "chapterTitle": "归去",
+    "scene": "river",
+    "caption": "放下对刚才那场雨的纠缠，放下对这一阵冷的反复计较。"
+  },
+  {
+    "id": "099",
+    "chapter": "12",
+    "chapterTitle": "归去",
+    "scene": "old-photo",
+    "caption": "也试着放下那些不断翻出来，让自己再次难受的往事。"
+  },
+  {
+    "id": "100",
+    "chapter": "12",
+    "chapterTitle": "归去",
+    "scene": "relief",
+    "caption": "有些经历很难马上放下。能松开一点，就已经是在往前走。"
+  },
+  {
+    "id": "101",
+    "chapter": "12",
+    "chapterTitle": "归去",
+    "scene": "horizon",
+    "caption": "然后，词落到了那一句：也无风雨也无晴。"
+  },
+  {
+    "id": "102",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "horizon",
+    "caption": "也无风雨也无晴。",
+    "headline": "也无风雨也无晴"
+  },
+  {
+    "id": "103",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "forest",
+    "caption": "我们也可以从这里，读出一点禅意：不再紧紧执着于人生的阴晴。"
+  },
+  {
+    "id": "104",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "portrait",
+    "caption": "我们可以这样理解：面对逆境和顺境，心里都多留一份平和。"
+  },
+  {
+    "id": "105",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "lookback",
+    "caption": "曾经让人痛苦的风雨，和曾经让人快乐的晴天，都会渐渐成为过去。"
+  },
+  {
+    "id": "106",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "window",
+    "caption": "它们值得记住，却不必时时替我们决定，此刻该怎样生活。"
+  },
+  {
+    "id": "107",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "exam",
+    "caption": "想想上学时，有没有为一次考试不及格，难过得哭鼻子？"
+  },
+  {
+    "id": "108",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "office",
+    "caption": "工作以后，也可能因为一次批评，翻来覆去，整夜睡不着。"
+  },
+  {
+    "id": "109",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "old-photo",
+    "caption": "当时觉得天都快塌了。过了几年再回头看，感受也许已经不同。"
+  },
+  {
+    "id": "110",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "relief",
+    "caption": "那时的痛苦是真的；如今能看得远一点，也是真的。"
+  },
+  {
+    "id": "111",
+    "chapter": "13",
+    "chapterTitle": "无雨无晴",
+    "scene": "portrait",
+    "caption": "这份通透，是把顺逆都看进眼里，也把当下的自己，慢慢安顿下来。",
+    "headline": "顺逆之间，安顿自己"
+  },
+  {
+    "id": "112",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "writing",
+    "caption": "写下这首词时，苏轼正处在人生低谷。词里留下的，是继续生活的姿态。",
+    "headline": "把词读回自己的生活"
+  },
+  {
+    "id": "113",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "path",
+    "caption": "我们读《定风波》，也在学着把目光从过去收回来，看看脚下的路。"
+  },
+  {
+    "id": "114",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "steps",
+    "caption": "人生的底气，有时就藏在这样的练习里：风雨来了，仍尽力走稳。"
+  },
+  {
+    "id": "115",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "manuscript",
+    "caption": "这首词没有一句直接说豁达，却让人从每一句里，读到豁达的意味。"
+  },
+  {
+    "id": "116",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "river",
+    "caption": "人生的风波，很难由我们说停就停。但我们可以练习，安顿自己的心。",
+    "headline": "风雨难定，心可慢慢安顿"
+  },
+  {
+    "id": "117",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "portrait",
+    "caption": "下次再遇到穿林打叶的雨，不妨想想黄州的苏轼，想想这首《定风波》。"
+  },
+  {
+    "id": "118",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "steps",
+    "caption": "给自己留一点时间。眼前的难关，可以一步一步地过。"
+  },
+  {
+    "id": "119",
+    "chapter": "14",
+    "chapterTitle": "稳住脚步",
+    "scene": "return",
+    "caption": "晴雨还会交替，而我们，仍可以稳住脚步，好好走下去。",
+    "headline": "稳住脚步，好好走下去"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "text": "当你身处逆境，或是对人生感到迷茫，\n不妨读一读苏轼的《定风波》。",
+    "startMs": 0,
+    "endMs": 6600,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "我们总说：太难了，快熬不下去了。\n可人生，哪有永远的晴天？",
+    "startMs": 6600,
+    "endMs": 11566.666666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "有些雨，是一次考试失利。\n准备了很久，仍没等到想要的结果。",
+    "startMs": 11566.666666666666,
+    "endMs": 17066.666666666668,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "有些雨，是突然失去工作。\n明天怎么办，一下子成了眼前的问题。",
+    "startMs": 17066.666666666668,
+    "endMs": 22566.666666666668,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "当这些雨接连落下来，我们容易慌张，也容易怀疑自己。",
+    "startMs": 22566.666666666668,
+    "endMs": 27533.333333333336,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "越是在这种时候，越想知道：\n眼前这一步，我们到底该怎么走？",
+    "startMs": 27533.333333333336,
+    "endMs": 33033.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "苏轼把自己的一次遇雨，写成了这首值得反复品味的词。",
+    "startMs": 33033.33333333333,
+    "endMs": 38000,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "先别急着谈豁达。我们先看看，\n写下这首词时，他正过着怎样的日子。",
+    "startMs": 38000,
+    "endMs": 44066.66666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "公元一〇八二年，苏轼贬居黄州，已经到了第三个年头。",
+    "startMs": 44066.66666666667,
+    "endMs": 49566.66666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这一年，他实足四十五岁；\n按传统虚岁计算，是四十七岁。",
+    "startMs": 49566.66666666667,
+    "endMs": 54533.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "三年前，一〇七九年，\n乌台诗案把他送进了御史台的牢狱。",
+    "startMs": 54533.33333333333,
+    "endMs": 60600,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "一〇八〇年，他来到黄州。\n人生的路，从这里拐进了一段低谷。",
+    "startMs": 60600,
+    "endMs": 66666.66666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "名义上，他仍有团练副使的官衔，却不得签署公事。",
+    "startMs": 66666.66666666667,
+    "endMs": 71066.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "经济困顿，他躬耕东坡；也在这个时期，自号东坡居士。",
+    "startMs": 71066.66666666666,
+    "endMs": 76033.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "过去是人们熟知的文人和官员，\n如今也要认真面对田里的庄稼。",
+    "startMs": 76033.33333333333,
+    "endMs": 81533.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这就是读词时不能忘记的背景：\n从容之前，他已经尝过失意。",
+    "startMs": 81533.33333333333,
+    "endMs": 87033.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "词前小序，记下了这一天：三月七日，沙湖道中遇雨。",
+    "startMs": 87033.33333333333,
+    "endMs": 92533.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "雨具先去，同行皆狼狈。",
+    "startMs": 92533.33333333333,
+    "endMs": 95833.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "雨具已经先行，同路的人被雨弄得狼狈。\n这是小序留下的情景。",
+    "startMs": 95833.33333333333,
+    "endMs": 101333.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "余独不觉。已而遂晴，故作此。",
+    "startMs": 101333.33333333333,
+    "endMs": 104633.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "他写道，自己却不觉得有什么。\n随后天晴，于是写下这首词。",
+    "startMs": 104633.33333333334,
+    "endMs": 109600,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "小序记下的，是一段普通的雨中行路。",
+    "startMs": 109600,
+    "endMs": 113466.66666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "但一场雨，碰上经历过人生起伏的人，\n就有了另一层意味。",
+    "startMs": 113466.66666666667,
+    "endMs": 118433.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "莫听穿林打叶声，何妨吟啸且徐行。",
+    "startMs": 118433.33333333334,
+    "endMs": 122300,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "词一开头，苏轼就说：莫听。",
+    "startMs": 122300,
+    "endMs": 125600,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "雨点穿过树林，敲在叶子上。\n这样的声响，很容易让人烦躁。",
+    "startMs": 125600,
+    "endMs": 130566.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "换作我们，第一反应可能是赶快走，别再被雨淋着。",
+    "startMs": 130566.66666666666,
+    "endMs": 134966.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "可读到这里，我们也会想到生活里那些不断响起的声音。",
+    "startMs": 134966.66666666666,
+    "endMs": 139933.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "上司的指责，旁人的闲言，\n突然而来的打击，都会让人心乱。",
+    "startMs": 139933.33333333334,
+    "endMs": 144900,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "结合苏轼的经历，\n也可以联想到诗案和仕途中承受的压力。",
+    "startMs": 144900,
+    "endMs": 150400,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "从眼前的雨声里，我们读出了人情与世事的风波。",
+    "startMs": 150400,
+    "endMs": 154800,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "莫听，可以理解为：听见了，\n也不急着把每一句都放进心里。",
+    "startMs": 154800,
+    "endMs": 160866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "比如刷到一条恶意评论，\n与其气得发抖，也可以先关掉页面。",
+    "startMs": 160866.6666666667,
+    "endMs": 166366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "把注意力收回来，不让陌生人的恶意，\n继续消耗今天的自己。",
+    "startMs": 166366.6666666667,
+    "endMs": 171866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "何妨吟啸且徐行。",
+    "startMs": 171866.6666666667,
+    "endMs": 175166.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "何妨，就是又有什么关系？\n这两个字，带着一点松弛和洒脱。",
+    "startMs": 175166.66666666666,
+    "endMs": 180133.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "吟，是吟咏；啸，是长啸。\n雨里的人，仍可以发出自己的声音。",
+    "startMs": 180133.3333333333,
+    "endMs": 185100,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "你可以想象，他一边行走，\n一边吟咏，脚下也不必乱了步调。",
+    "startMs": 185100,
+    "endMs": 190066.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "且徐行：先把脚步放慢。\n雨声再密，也给自己留一点从容。",
+    "startMs": 190066.66666666666,
+    "endMs": 195033.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "我们从这里读到的，不只是姿态好看，\n而是心里有了一份安定。",
+    "startMs": 195033.33333333334,
+    "endMs": 200533.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "人生的难关，再着急，也要一步一步地过。",
+    "startMs": 200533.33333333334,
+    "endMs": 204400,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "越慌张，越可能忙中出错。\n先稳住心神，才能看清下一步。",
+    "startMs": 204400,
+    "endMs": 209900,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "从容的人也会害怕，\n只是努力不让自己完全被慌乱带着走。",
+    "startMs": 209900,
+    "endMs": 215400,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "事情还要处理，路还得继续。\n有时慢一点，反而能走得更稳。",
+    "startMs": 215400,
+    "endMs": 220366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "竹杖芒鞋轻胜马。",
+    "startMs": 220366.6666666667,
+    "endMs": 223666.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "一根竹杖，一双草鞋。行装简朴，他却说：轻胜马。",
+    "startMs": 223666.66666666666,
+    "endMs": 228066.66666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这里的轻快，也可以读成一种心境。",
+    "startMs": 228066.66666666666,
+    "endMs": 231366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "马容易让我们想到身份和排场；\n竹杖芒鞋，则让人想到简单自在。",
+    "startMs": 231366.6666666667,
+    "endMs": 236866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "打个现代的比方：骑马时怕陷进泥里，\n又惦记体面，反倒多了牵挂。",
+    "startMs": 236866.6666666667,
+    "endMs": 242366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "人有时活得很累，\n是因为被体面和身份绑住，什么都舍不得放下。",
+    "startMs": 242366.6666666667,
+    "endMs": 247866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "比如工资并不高，却为了撑场面，\n硬要买一个昂贵的名牌包。",
+    "startMs": 247866.6666666667,
+    "endMs": 253366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "又比如债务已经很重，还为了别人的眼光，\n添上难以承受的房车开支。",
+    "startMs": 253366.6666666667,
+    "endMs": 259433.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这些本来想证明自己的东西，\n最后却像沉重的马鞍，压住了自己。",
+    "startMs": 259433.33333333334,
+    "endMs": 264933.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "读到竹杖芒鞋，不妨问问：\n哪些负担，是我本来可以不背的？",
+    "startMs": 264933.3333333333,
+    "endMs": 271000,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "谁怕？",
+    "startMs": 271000,
+    "endMs": 274300,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "怕什么？怕一场雨，怕一时落魄，还是怕别人笑话？",
+    "startMs": 274300,
+    "endMs": 278700,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "在这两个字里，我们听见一种经历失意之后，\n仍不肯低头的力量。",
+    "startMs": 278700,
+    "endMs": 284200,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "刚才还在讲怎样走路，\n这一声发问，已经把目光投向了人生。",
+    "startMs": 284200,
+    "endMs": 289700,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "他没有要求风雨先退场，才允许自己继续向前。",
+    "startMs": 289700,
+    "endMs": 294100,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "接下来，是这首词里最有分量的宣言之一。",
+    "startMs": 294100,
+    "endMs": 297966.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "一蓑烟雨任平生。",
+    "startMs": 297966.6666666666,
+    "endMs": 301266.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "一蓑烟雨，把眼前的雨，写出了人生风雨的意味。",
+    "startMs": 301266.6666666666,
+    "endMs": 305666.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "联系他的生平，我们会想到仕途起落、\n官场压力，以及贬谪中的失意。",
+    "startMs": 305666.6666666667,
+    "endMs": 311733.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "任平生，像是在说：人生有晴有雨，\n我愿意带着这份坦然走下去。",
+    "startMs": 311733.3333333334,
+    "endMs": 317233.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这份接纳，不等于放弃生活。\n承认已经发生的事，才有余力想办法。",
+    "startMs": 317233.3333333334,
+    "endMs": 323833.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "少一些追问命运为什么偏偏为难我，\n也能试着做一点眼下的事。",
+    "startMs": 323833.3333333333,
+    "endMs": 329333.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "比如失业之后，先找一份兼职，\n或者摆个小摊，照料自己的生计。",
+    "startMs": 329333.3333333333,
+    "endMs": 334833.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这条路未必轻松，却是人在困境里，\n努力站稳脚跟的样子。",
+    "startMs": 334833.3333333333,
+    "endMs": 339800,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "接纳风雨，也仍然可以改变能改变的处境。",
+    "startMs": 339800,
+    "endMs": 343666.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这不能保证从此不再受伤，\n却能让我们多一点和生活周旋的力量。",
+    "startMs": 343666.6666666667,
+    "endMs": 349733.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "料峭春风吹酒醒，微冷。",
+    "startMs": 349733.3333333334,
+    "endMs": 353033.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "下片转到雨后。带着凉意的春风，把他的酒意吹醒了。",
+    "startMs": 353033.3333333334,
+    "endMs": 358000,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "写到这里，苏轼没有藏起身体真实的感受。",
+    "startMs": 358000,
+    "endMs": 361866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "微冷，这两个字让词里的人，一下子有了温度。",
+    "startMs": 361866.6666666667,
+    "endMs": 366266.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "他也是一个会感觉到冷的人。\n从容，并不需要装作毫无感受。",
+    "startMs": 366266.6666666666,
+    "endMs": 371766.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "读到这里，我们也可以容下自己的疲惫、\n害怕，和偶尔的迷茫。",
+    "startMs": 371766.6666666666,
+    "endMs": 377266.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "人不可能永远热血沸腾。有些时候，\n承认自己累了，也很正常。",
+    "startMs": 377266.6666666666,
+    "endMs": 382766.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "山头斜照却相迎。",
+    "startMs": 382766.6666666666,
+    "endMs": 386066.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "春风还有些冷，山头的斜阳，却已经迎面照来。",
+    "startMs": 386066.6666666667,
+    "endMs": 390466.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "冷意与暖光，就这样出现在同一段路上。",
+    "startMs": 390466.6666666666,
+    "endMs": 394333.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这个却字，让我们读到一点意外，\n也读到生活还可能有的温柔。",
+    "startMs": 394333.3333333333,
+    "endMs": 399833.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "走过难处之后，未必立刻就有好事等着我们。",
+    "startMs": 399833.3333333333,
+    "endMs": 404233.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "但在疲惫的日子里，有时也会遇到一些不经意的小温暖。",
+    "startMs": 404233.3333333334,
+    "endMs": 409200,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "比如熬夜赶项目，快撑不住时，同事递来一杯热咖啡。",
+    "startMs": 409200,
+    "endMs": 414166.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "又比如正为钱发愁，\n恰好收到一笔意外的收入，暂时松一口气。",
+    "startMs": 414166.6666666667,
+    "endMs": 419666.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这些小事未必解决全部难题，\n却可能让人觉得，今天还能继续。",
+    "startMs": 419666.6666666667,
+    "endMs": 425166.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "读到斜照相迎，我们可以记住：\n在难受之外，也给温暖留一个位置。",
+    "startMs": 425166.6666666667,
+    "endMs": 431233.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "回首向来萧瑟处。",
+    "startMs": 431233.3333333334,
+    "endMs": 434533.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "雨停了，天晴了。苏轼回头，望向刚才走过的风雨之处。",
+    "startMs": 434533.3333333334,
+    "endMs": 439500,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "回首，先是一个真实的动作：回头看一看来时的路。",
+    "startMs": 439500,
+    "endMs": 443900,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "结合他的人生，我们也可以从中读到对过去的回望。",
+    "startMs": 443900,
+    "endMs": 448866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "牢狱中的日子，贬居黄州的失意，\n都成为理解这首词的背景。",
+    "startMs": 448866.6666666667,
+    "endMs": 454366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "来时的雨已经留在身后，\n经历过的事情，却不会因此被抹掉。",
+    "startMs": 454366.6666666667,
+    "endMs": 459866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "它们曾经很难熬，但日后回望时，\n也许会慢慢有不同的感受。",
+    "startMs": 459866.6666666667,
+    "endMs": 465366.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "苏轼接着写下两个字：归去。",
+    "startMs": 465366.6666666667,
+    "endMs": 468666.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "归去。",
+    "startMs": 468666.6666666667,
+    "endMs": 471966.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "字面上，是归返；今天读来，也能读出一种放下的意味。",
+    "startMs": 471966.6666666666,
+    "endMs": 476933.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "放下对刚才那场雨的纠缠，放下对这一阵冷的反复计较。",
+    "startMs": 476933.3333333333,
+    "endMs": 481900,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "也试着放下那些不断翻出来，让自己再次难受的往事。",
+    "startMs": 481900,
+    "endMs": 486866.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "有些经历很难马上放下。\n能松开一点，就已经是在往前走。",
+    "startMs": 486866.6666666667,
+    "endMs": 491833.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "然后，词落到了那一句：也无风雨也无晴。",
+    "startMs": 491833.3333333333,
+    "endMs": 495700,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "也无风雨也无晴。",
+    "startMs": 495700,
+    "endMs": 499000,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "我们也可以从这里，读出一点禅意：\n不再紧紧执着于人生的阴晴。",
+    "startMs": 499000,
+    "endMs": 504500,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "我们可以这样理解：\n面对逆境和顺境，心里都多留一份平和。",
+    "startMs": 504500,
+    "endMs": 510000,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "曾经让人痛苦的风雨，\n和曾经让人快乐的晴天，都会渐渐成为过去。",
+    "startMs": 510000,
+    "endMs": 516066.66666666674,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "它们值得记住，却不必时时替我们决定，\n此刻该怎样生活。",
+    "startMs": 516066.66666666674,
+    "endMs": 521033.3333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "想想上学时，有没有为一次考试不及格，难过得哭鼻子？",
+    "startMs": 521033.3333333333,
+    "endMs": 526000,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "工作以后，也可能因为一次批评，\n翻来覆去，整夜睡不着。",
+    "startMs": 526000,
+    "endMs": 530966.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "当时觉得天都快塌了。\n过了几年再回头看，感受也许已经不同。",
+    "startMs": 530966.6666666667,
+    "endMs": 536466.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "那时的痛苦是真的；如今能看得远一点，也是真的。",
+    "startMs": 536466.6666666667,
+    "endMs": 540866.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这份通透，是把顺逆都看进眼里，\n也把当下的自己，慢慢安顿下来。",
+    "startMs": 540866.6666666666,
+    "endMs": 547466.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "写下这首词时，苏轼正处在人生低谷。\n词里留下的，是继续生活的姿态。",
+    "startMs": 547466.6666666667,
+    "endMs": 554066.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "我们读《定风波》，\n也在学着把目光从过去收回来，看看脚下的路。",
+    "startMs": 554066.6666666667,
+    "endMs": 559566.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "人生的底气，有时就藏在这样的练习里：\n风雨来了，仍尽力走稳。",
+    "startMs": 559566.6666666667,
+    "endMs": 565066.6666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "这首词没有一句直接说豁达，\n却让人从每一句里，读到豁达的意味。",
+    "startMs": 565066.6666666667,
+    "endMs": 571133.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "人生的风波，很难由我们说停就停。\n但我们可以练习，安顿自己的心。",
+    "startMs": 571133.3333333334,
+    "endMs": 577733.3333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "下次再遇到穿林打叶的雨，\n不妨想想黄州的苏轼，想想这首《定风波》。",
+    "startMs": 577733.3333333334,
+    "endMs": 583800,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "给自己留一点时间。眼前的难关，可以一步一步地过。",
+    "startMs": 583800,
+    "endMs": 588766.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "晴雨还会交替，而我们，仍可以稳住脚步，好好走下去。",
+    "startMs": 588766.6666666666,
+    "endMs": 594266.6666666666,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

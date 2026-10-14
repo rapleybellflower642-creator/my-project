@@ -1,4 +1,16 @@
-# 两分钟诗意与人生动画
+# 诗意与人生动画
+
+## 定风波 V4：雨里，也能慢慢走（完整长片）
+
+依据本次长文案重新制作，**9 分 54 秒、1920×1080、30 fps**。119 个字幕镜头、14 章、41 种历史与现代场景；字幕、分层插画动画、配乐与音效，无旁白。本次上传的《算力小曲》保持原速循环，覆盖全片。
+
+**[直接下载 V4 完整视频](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/dingfengbo-v4-film-20261014/film-v4/dingfengbo-v4-full.mp4)** · **[分镜总览](./film-v4/storyboard.jpg)** · **[下载本分支完整工程 ZIP](https://github.com/rapleybellflower642-creator/my-project/archive/refs/heads/dingfengbo-v4-film-20261014.zip)**
+
+从考试失利、工作受挫，走进苏轼贬居黄州的处境，再逐句展开雨中徐行、轻胜马、谁怕、微冷、斜照与归去。现代例子均在画面中呈现；原文口误、重复与史实边界见 [编辑说明](./dingfengbo-v2/docs/V4_EDITORIAL.md)。
+
+[完整分镜与字幕](./dingfengbo-v2/docs/V4_STORYBOARD.md) · [可编辑工程与导出说明](./dingfengbo-v2/docs/V4_README.md) · [循环配乐说明](./dingfengbo-v2/docs/AUDIO_V4.md)
+
+工程仍位于 `dingfengbo-v2/`，进入后执行 `npm ci`、`npm run studio`，选择 **DingFengBoV4**。下方保留早期版本。
 
 ## 定风波 V3：谁怕？（分镜与预览）
 
