@@ -1,4 +1,10 @@
-## 最新：V3 重做版
+## 最新：V3 黑金图解版
+
+120秒完整1080p成片，按用户新提供的黑金分镜参考重做：三维物件、动态图解、字幕与音乐音效，无旁白。Studio选择 **DingFengBoV3Gold**。
+
+[制作与导出](./docs/v3-gold/README.md) · [分镜文案](./docs/v3-gold/STORYBOARD.md) · [完整成片](../film-v3-gold/README.md)
+
+## 历史：V3 人物山水版
 
 120 秒完整 1080p 成片，按确认提示词重新设计文字和人物动作。Studio 选择 **DingFengBoV3Remake**。
 

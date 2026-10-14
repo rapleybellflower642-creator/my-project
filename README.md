@@ -1,5 +1,13 @@
 # 诗意与人生动画
 
+## 定风波 V3 黑金图解版（完整成片）
+
+依据提供的《运气的形状》分镜参考重做，**120秒、1920×1080、30fps、无旁白**。黑金空间、原创三维物件与金线动态图解共同讲述苏轼的处境和词意，配乐为《算力小曲》，加入25处动作音效。
+
+**[下载黑金版完整MP4](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/dingfengbo-v3-gold-20261014/film-v3-gold/dingfengbo-v3-gold.mp4)** · [26格分镜总览](./film-v3-gold/storyboard.jpg) · [可编辑工程ZIP](https://github.com/rapleybellflower642-creator/my-project/archive/refs/heads/dingfengbo-v3-gold-20261014.zip)
+
+Studio选择 **DingFengBoV3Gold**。[制作与导出说明](./dingfengbo-v2/docs/v3-gold/README.md) · [详细分镜和文案](./dingfengbo-v2/docs/v3-gold/STORYBOARD.md) · [交付与检查记录](./film-v3-gold/README.md)。下方保留此前各版本。
+
 ## 定风波 V3 重做版：谁怕？（完整成片）
 
 按确认的详细提示词重做，**120 秒、1920×1080、30 fps**，无旁白。重点改进分词动效、人物接地步态、耕作与回首动作、景别和冷暖变化；保留《算力小曲》原速原调及 26 处精选音效。

@@ -18,7 +18,11 @@
     "prepare:v3r": "node scripts/v3r/prepare.cjs",
     "sample:v3r": "node scripts/v3r/render.cjs --sample --jobs 2",
     "render:v3r": "node scripts/v3r/render.cjs --full --jobs 2",
-    "verify:v3r": "python3 scripts/v3r/verify.py"
+    "verify:v3r": "python3 scripts/v3r/verify.py",
+    "prepare:v3g": "node scripts/v3g/prepare.cjs",
+    "sample:v3g": "node scripts/v3g/render.cjs --sample --jobs 3",
+    "render:v3g": "node scripts/v3g/render.cjs --full --jobs 3",
+    "verify:v3g": "python3 scripts/v3g/verify.py"
   },
   "dependencies": {
     "@react-three/fiber": "9.4.0",

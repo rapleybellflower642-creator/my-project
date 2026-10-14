@@ -1,0 +1,168 @@
+{
+  "status": "passed",
+  "deliverable": "V3 black-and-gold full-HD sample",
+  "mode": "sample",
+  "source_ranges": [
+    [
+      0,
+      7
+    ],
+    [
+      11,
+      16
+    ],
+    [
+      42,
+      47
+    ],
+    [
+      74,
+      79
+    ]
+  ],
+  "file": "dingfengbo-v3-gold-sample.mp4",
+  "source_path": "/workspace/my-project/dingfengbo-v2/out/v3g/dingfengbo-v3-gold-sample.mp4",
+  "checked_at_utc": "2026-10-14T11:53:11.320294+00:00",
+  "expected": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 660,
+    "duration_seconds": 22,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "duration_tolerance_seconds_exclusive": 0.05
+  },
+  "checks": {
+    "file": "passed",
+    "metadata": "passed",
+    "fast_start": "passed",
+    "full_decode": "passed",
+    "loudness": "passed",
+    "file_stability": "passed"
+  },
+  "full_audio_video_decode": "passed",
+  "fast_start": true,
+  "audio_limits": {
+    "integrated_lufs_min": -16,
+    "integrated_lufs_max": -14,
+    "true_peak_dbtp_max": -1
+  },
+  "subjective_listening_checked": false,
+  "subjective_visual_review_checked": false,
+  "note": "Technical file validation does not verify subjective sound balance, audiovisual synchronization, caption appearance or animation quality.",
+  "stage": "complete",
+  "bytes": 4408936,
+  "sha256": "ceb99a7f878c31ec316107df0a5c860bc833aa54efd838f787290cd42bc0e161",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "duration": "22.000000",
+        "nb_frames": "660"
+      },
+      {
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "duration": "22.000000",
+        "nb_frames": "1033"
+      }
+    ],
+    "format": {
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "duration": "22.000000",
+      "size": "4408936"
+    }
+  },
+  "video": {
+    "codec_name": "h264",
+    "profile": "High",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "duration": "22.000000",
+    "nb_frames": "660"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "profile": "LC",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "channel_layout": "stereo",
+    "r_frame_rate": "0/0",
+    "avg_frame_rate": "0/0",
+    "duration": "22.000000",
+    "nb_frames": "1033"
+  },
+  "container": {
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "duration": "22.000000",
+    "size": "4408936"
+  },
+  "duration_errors_seconds": {
+    "video": 0.0,
+    "audio": 0.0,
+    "container": 0.0
+  },
+  "audio_video_duration_difference_seconds": 0.0,
+  "top_level_atoms": [
+    {
+      "name": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "name": "moov",
+      "offset": 32,
+      "size": 25535
+    },
+    {
+      "name": "free",
+      "offset": 25567,
+      "size": 8
+    },
+    {
+      "name": "mdat",
+      "offset": 25575,
+      "size": 4383361
+    }
+  ],
+  "decoded_video_frames": 660,
+  "loudness_measurement": {
+    "input_i": "-15.15",
+    "input_tp": "-1.61",
+    "input_lra": "1.40",
+    "input_thresh": "-25.15",
+    "output_i": "-15.09",
+    "output_tp": "-1.41",
+    "output_lra": "1.30",
+    "output_thresh": "-25.09",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  },
+  "integrated_lufs": -15.15,
+  "true_peak_dbtp": -1.61,
+  "loudness_range_lu": 1.4
+}

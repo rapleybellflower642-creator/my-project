@@ -1,0 +1,19 @@
+{
+  "file": "dingfengbo-v3-gold.mp4",
+  "duration_seconds": 120,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "bytes": 22906961,
+  "sha256": "71f5a9f3ffbbd029e7f40a5253562b245fbed0897ada8a11868b470d8c9cd0d1",
+  "technical_validation": "validation.json",
+  "browser_validation": "browser-check.json",
+  "render_record": "full-record.json",
+  "storyboard": "storyboard.jpg",
+  "visual_review": {
+    "method": "26 actual MP4 frames inspected",
+    "caption_overlap": "No obvious overlap found in reviewed frames"
+  },
+  "subjective_listening_checked": false,
+  "source_audio": "算力小曲, original speed and pitch, first 120 seconds"
+}

@@ -1,0 +1,703 @@
+{
+  "size": [
+    720,
+    720
+  ],
+  "format": "RGBA PNG",
+  "originalGeometry": true,
+  "assets": {
+    "seal": {
+      "count": 30,
+      "uniqueFrames": 30,
+      "frames": [
+        {
+          "frame": 0,
+          "file": "seal/000.png",
+          "bounds": [
+            96,
+            236,
+            624,
+            562
+          ],
+          "bytes": 405662,
+          "sha256": "9aa8cd05888daaf58af1719c437d6b252c192f895ea5dda846434122fd7924df"
+        },
+        {
+          "frame": 1,
+          "file": "seal/001.png",
+          "bounds": [
+            96,
+            236,
+            624,
+            563
+          ],
+          "bytes": 406286,
+          "sha256": "2ff23be892b68590097ff07b72df3c7de3357c1f38d60f66c15cd65d5dd10ba3"
+        },
+        {
+          "frame": 2,
+          "file": "seal/002.png",
+          "bounds": [
+            96,
+            236,
+            624,
+            563
+          ],
+          "bytes": 407751,
+          "sha256": "871fde51601ce6959646098f4bddd5c6ed808336f8bca74efe116e27967e6051"
+        },
+        {
+          "frame": 3,
+          "file": "seal/003.png",
+          "bounds": [
+            96,
+            236,
+            623,
+            564
+          ],
+          "bytes": 408501,
+          "sha256": "bd1c99acc7e20cd66bb6fd84ac613decf8ee7ef7428785bdfbcbb6b1066073ff"
+        },
+        {
+          "frame": 4,
+          "file": "seal/004.png",
+          "bounds": [
+            96,
+            236,
+            623,
+            565
+          ],
+          "bytes": 409197,
+          "sha256": "8e966d3b4cdc7f0c0a84b306fca39f018b2dc8d5a880793bf9bf5046db4c764a"
+        },
+        {
+          "frame": 5,
+          "file": "seal/005.png",
+          "bounds": [
+            96,
+            236,
+            623,
+            565
+          ],
+          "bytes": 409581,
+          "sha256": "2a2b150dd028ed71c4c6b2d123020d27f72ce661bae5b7abe08fbc5fdcb3c85a"
+        },
+        {
+          "frame": 6,
+          "file": "seal/006.png",
+          "bounds": [
+            96,
+            236,
+            623,
+            565
+          ],
+          "bytes": 410072,
+          "sha256": "8d7d9a3de6db8affe2b05f6bfb74deba73aaaa3bc816ad6a41f3212dc8bef082"
+        },
+        {
+          "frame": 7,
+          "file": "seal/007.png",
+          "bounds": [
+            96,
+            236,
+            623,
+            566
+          ],
+          "bytes": 410942,
+          "sha256": "bf9fa8c894a54ff513a37ef7a9cd23026fd7966d0ffee77c9711c5b7af68fcba"
+        },
+        {
+          "frame": 8,
+          "file": "seal/008.png",
+          "bounds": [
+            96,
+            237,
+            623,
+            566
+          ],
+          "bytes": 411257,
+          "sha256": "ef68bb7cd1730ff8d7fcab36c734fad7770f58c9bd5534ee3f09d8866532d730"
+        },
+        {
+          "frame": 9,
+          "file": "seal/009.png",
+          "bounds": [
+            96,
+            237,
+            623,
+            567
+          ],
+          "bytes": 412285,
+          "sha256": "fed9ecdfc9008bfe19d0b938674b9b2b1d8e5589c8add709932bde826d870a6c"
+        },
+        {
+          "frame": 10,
+          "file": "seal/010.png",
+          "bounds": [
+            96,
+            237,
+            622,
+            567
+          ],
+          "bytes": 412408,
+          "sha256": "7aa374fb959ce8207e238864b5da4acfdb66e62e896d8bb2d0166c03ea41ba00"
+        },
+        {
+          "frame": 11,
+          "file": "seal/011.png",
+          "bounds": [
+            97,
+            237,
+            622,
+            567
+          ],
+          "bytes": 412551,
+          "sha256": "b9c1ad2d7b15adcc614d323631cf46cc15766c90aff4b93f05808d282da58dc0"
+        },
+        {
+          "frame": 12,
+          "file": "seal/012.png",
+          "bounds": [
+            97,
+            238,
+            622,
+            567
+          ],
+          "bytes": 412829,
+          "sha256": "c24cfd4628247de82b5d0b68b179ccf93fceced0a2adbcc9bfdc832326d3d693"
+        },
+        {
+          "frame": 13,
+          "file": "seal/013.png",
+          "bounds": [
+            97,
+            238,
+            621,
+            567
+          ],
+          "bytes": 413161,
+          "sha256": "869705e1a8c314a5c482c238aba3b3e3e849d810552b62ba617d10968a0fb785"
+        },
+        {
+          "frame": 14,
+          "file": "seal/014.png",
+          "bounds": [
+            97,
+            238,
+            621,
+            567
+          ],
+          "bytes": 413310,
+          "sha256": "67d60980c5abdb194cb06a62cd056416b1a4fa5a1555135c4435f35c099278ea"
+        },
+        {
+          "frame": 15,
+          "file": "seal/015.png",
+          "bounds": [
+            97,
+            238,
+            621,
+            567
+          ],
+          "bytes": 412579,
+          "sha256": "2db1e491782c1a37cbc2191d2cd4b1c4651073ce802f3e996829b145d9c17c76"
+        },
+        {
+          "frame": 16,
+          "file": "seal/016.png",
+          "bounds": [
+            98,
+            238,
+            621,
+            567
+          ],
+          "bytes": 412992,
+          "sha256": "f957a638ab0612604d69c9f2d651442f31778f1a5ccca5f1e0adc7002f1c0686"
+        },
+        {
+          "frame": 17,
+          "file": "seal/017.png",
+          "bounds": [
+            98,
+            238,
+            620,
+            566
+          ],
+          "bytes": 413411,
+          "sha256": "71cf0fae314977b918a5eec920ea5bbd8ef162f6813cb273f4b9c64684645fff"
+        },
+        {
+          "frame": 18,
+          "file": "seal/018.png",
+          "bounds": [
+            98,
+            238,
+            620,
+            566
+          ],
+          "bytes": 412608,
+          "sha256": "492c1f5655d7e70336543b8bd4ddc4375f82dd20b22aa36502c24fa535e4e372"
+        },
+        {
+          "frame": 19,
+          "file": "seal/019.png",
+          "bounds": [
+            99,
+            238,
+            620,
+            565
+          ],
+          "bytes": 412875,
+          "sha256": "21f96af6673bf732c04d1d8b975957b5cadb7b5309b670f565535ee8356e601a"
+        },
+        {
+          "frame": 20,
+          "file": "seal/020.png",
+          "bounds": [
+            99,
+            238,
+            620,
+            565
+          ],
+          "bytes": 412274,
+          "sha256": "50dea6665e654e9669c5bf84251887a657bb877c37060d52ccfda52d31fbd923"
+        },
+        {
+          "frame": 21,
+          "file": "seal/021.png",
+          "bounds": [
+            100,
+            237,
+            620,
+            564
+          ],
+          "bytes": 411788,
+          "sha256": "37bd6bed42973dc760617716f30ada6debf644b6cebf389c0a4ec307830cf6e1"
+        },
+        {
+          "frame": 22,
+          "file": "seal/022.png",
+          "bounds": [
+            100,
+            237,
+            619,
+            564
+          ],
+          "bytes": 411198,
+          "sha256": "62ad00a501a0dabf79bfc39ade558b0948f27ae4ec671753fa3177510ddf17c8"
+        },
+        {
+          "frame": 23,
+          "file": "seal/023.png",
+          "bounds": [
+            100,
+            237,
+            618,
+            563
+          ],
+          "bytes": 411129,
+          "sha256": "a90b3737f479bf6e2b85261b597a24b735820ec4adfd1d818069bd66b71305f1"
+        },
+        {
+          "frame": 24,
+          "file": "seal/024.png",
+          "bounds": [
+            101,
+            237,
+            618,
+            563
+          ],
+          "bytes": 410662,
+          "sha256": "3d57aa429daf472da10ebfe3f314a19c07ed6996e9fbc9470a2164920c2af74a"
+        },
+        {
+          "frame": 25,
+          "file": "seal/025.png",
+          "bounds": [
+            101,
+            236,
+            618,
+            562
+          ],
+          "bytes": 410199,
+          "sha256": "88ee0ecd945e26c7f2e6edab50ae28015c49bff10537cbf7a8a409758ee0eae0"
+        },
+        {
+          "frame": 26,
+          "file": "seal/026.png",
+          "bounds": [
+            102,
+            236,
+            618,
+            561
+          ],
+          "bytes": 409709,
+          "sha256": "c602c10e0ed42d9026629152d169b0bebbb58cc3eee5474672ee7948d0f27a23"
+        },
+        {
+          "frame": 27,
+          "file": "seal/027.png",
+          "bounds": [
+            102,
+            236,
+            617,
+            560
+          ],
+          "bytes": 409563,
+          "sha256": "877fb45e23c625f52951e9f3da7ee6c4b7c727e53bc72926db24de0bf93b86f1"
+        },
+        {
+          "frame": 28,
+          "file": "seal/028.png",
+          "bounds": [
+            103,
+            236,
+            617,
+            560
+          ],
+          "bytes": 408653,
+          "sha256": "b0ea54568ced0ae23ebcd59401c5ee89176a8181aea90a20d1ab7eef3ba69082"
+        },
+        {
+          "frame": 29,
+          "file": "seal/029.png",
+          "bounds": [
+            103,
+            236,
+            617,
+            559
+          ],
+          "bytes": 407882,
+          "sha256": "8a984f88a58a2298fadf0a09ca7599d2f70529deeed81ffaf7d66c28aad98834"
+        }
+      ]
+    },
+    "scroll": {
+      "count": 8,
+      "uniqueFrames": 8,
+      "frames": [
+        {
+          "frame": 0,
+          "file": "scroll/000.png",
+          "bounds": [
+            54,
+            142,
+            665,
+            556
+          ],
+          "bytes": 305386,
+          "sha256": "21ab2283d6e6667b13e155e8e7b483cc74290fe41e9524b9aae21cc7b95699e5"
+        },
+        {
+          "frame": 1,
+          "file": "scroll/001.png",
+          "bounds": [
+            55,
+            143,
+            665,
+            555
+          ],
+          "bytes": 304447,
+          "sha256": "8a57b5bd3a78be620227fa9b7a0979ffe0ae926051f87918398200da48fbfe81"
+        },
+        {
+          "frame": 2,
+          "file": "scroll/002.png",
+          "bounds": [
+            55,
+            145,
+            665,
+            554
+          ],
+          "bytes": 303968,
+          "sha256": "7490a2a8737f7196ac75699436bb4fb17327ccd7a530c778f23a36285bf1f52a"
+        },
+        {
+          "frame": 3,
+          "file": "scroll/003.png",
+          "bounds": [
+            56,
+            146,
+            664,
+            553
+          ],
+          "bytes": 304317,
+          "sha256": "1b1b2a133deb0ef006635090be220f7c404c3e73e73bb252e8e41f256fb95077"
+        },
+        {
+          "frame": 4,
+          "file": "scroll/004.png",
+          "bounds": [
+            56,
+            148,
+            664,
+            551
+          ],
+          "bytes": 303682,
+          "sha256": "c3189c1ea471048a6d44fb9f243236921f8eefd4f0514766c46d21b8d1c40237"
+        },
+        {
+          "frame": 5,
+          "file": "scroll/005.png",
+          "bounds": [
+            57,
+            149,
+            663,
+            550
+          ],
+          "bytes": 302806,
+          "sha256": "613b5ecdfc75a9c766e178b50ec0416f9b639b634d5e5908160d750740feb8ef"
+        },
+        {
+          "frame": 6,
+          "file": "scroll/006.png",
+          "bounds": [
+            57,
+            150,
+            663,
+            549
+          ],
+          "bytes": 303140,
+          "sha256": "97faf4c71f29b087fbca3ae44c3fa093949b24a542a471f2cd5d9dc2d490a0c7"
+        },
+        {
+          "frame": 7,
+          "file": "scroll/007.png",
+          "bounds": [
+            58,
+            152,
+            662,
+            547
+          ],
+          "bytes": 303433,
+          "sha256": "c4709e1b12665a5348e7c25a50158655ff1d4cd3de999d01282a75f02c585ac3"
+        }
+      ]
+    },
+    "cup": {
+      "count": 8,
+      "uniqueFrames": 8,
+      "frames": [
+        {
+          "frame": 0,
+          "file": "cup/000.png",
+          "bounds": [
+            167,
+            167,
+            547,
+            465
+          ],
+          "bytes": 313413,
+          "sha256": "ed1ab89d50a732690887a86a09603ed971ed657bd991e65bfffcd765837bfebe"
+        },
+        {
+          "frame": 1,
+          "file": "cup/001.png",
+          "bounds": [
+            167,
+            167,
+            547,
+            466
+          ],
+          "bytes": 313857,
+          "sha256": "ac379e46441e422290b780ab076239f8ad565820f2cc2d8adbd02d03f7e807f8"
+        },
+        {
+          "frame": 2,
+          "file": "cup/002.png",
+          "bounds": [
+            167,
+            166,
+            547,
+            466
+          ],
+          "bytes": 315303,
+          "sha256": "f7ca696570b98c6cc641037ec30f690dbe365e88a6cd4326c52408e137c9e558"
+        },
+        {
+          "frame": 3,
+          "file": "cup/003.png",
+          "bounds": [
+            168,
+            166,
+            547,
+            467
+          ],
+          "bytes": 315813,
+          "sha256": "2b44329daf6b6199f65a26bb1d7c14838d2099773404ac35cc85c6bf04431b82"
+        },
+        {
+          "frame": 4,
+          "file": "cup/004.png",
+          "bounds": [
+            168,
+            166,
+            548,
+            467
+          ],
+          "bytes": 316147,
+          "sha256": "4573c95f28375d6e68a9ec88e0fab46ba4f5b0fccde915d35a2f73e7f2e08fc9"
+        },
+        {
+          "frame": 5,
+          "file": "cup/005.png",
+          "bounds": [
+            170,
+            166,
+            550,
+            467
+          ],
+          "bytes": 315948,
+          "sha256": "4bea7f55f5594836e24feef63a2f909410dd0e14bb422a62206caa47de35651a"
+        },
+        {
+          "frame": 6,
+          "file": "cup/006.png",
+          "bounds": [
+            172,
+            166,
+            551,
+            467
+          ],
+          "bytes": 316269,
+          "sha256": "d0995fff1283e7f88cdc868de14348c94332b09949fb3aa4a0d0cc464d656835"
+        },
+        {
+          "frame": 7,
+          "file": "cup/007.png",
+          "bounds": [
+            173,
+            166,
+            553,
+            466
+          ],
+          "bytes": 315829,
+          "sha256": "e2de239c09cd5243c3ead7e178db7a4218ab6910ccd2c8846a1988c760542a83"
+        }
+      ]
+    },
+    "sandals": {
+      "count": 8,
+      "uniqueFrames": 8,
+      "frames": [
+        {
+          "frame": 0,
+          "file": "sandals/000.png",
+          "bounds": [
+            263,
+            70,
+            525,
+            645
+          ],
+          "bytes": 255245,
+          "sha256": "de4fc147ed7dd0c44a32894d6fe08adc0c024b502c60077f0e4838bcfcb91172"
+        },
+        {
+          "frame": 1,
+          "file": "sandals/001.png",
+          "bounds": [
+            262,
+            70,
+            525,
+            645
+          ],
+          "bytes": 254663,
+          "sha256": "50b570e395c66edd3df0bdf1953f064a620bc5c7ff85457c3fbb400d12f9c983"
+        },
+        {
+          "frame": 2,
+          "file": "sandals/002.png",
+          "bounds": [
+            261,
+            70,
+            524,
+            644
+          ],
+          "bytes": 255275,
+          "sha256": "e9c2dd518097419b6d52505d62387297212da585cc6f7d820e4fc91958b774f7"
+        },
+        {
+          "frame": 3,
+          "file": "sandals/003.png",
+          "bounds": [
+            260,
+            70,
+            524,
+            644
+          ],
+          "bytes": 255691,
+          "sha256": "19b487c3bd8dded7526f43c956257d972165086a5883665ad04f014ff8931ae2"
+        },
+        {
+          "frame": 4,
+          "file": "sandals/004.png",
+          "bounds": [
+            258,
+            71,
+            524,
+            644
+          ],
+          "bytes": 255324,
+          "sha256": "05f9c711b8927d88f3917dd5a91774e997318a7e42f30e667985f13fd65d3944"
+        },
+        {
+          "frame": 5,
+          "file": "sandals/005.png",
+          "bounds": [
+            257,
+            71,
+            524,
+            644
+          ],
+          "bytes": 254933,
+          "sha256": "d26d0f73b002e6901ddfbe0189f912a140204f65333c7356ec373f514bccef71"
+        },
+        {
+          "frame": 6,
+          "file": "sandals/006.png",
+          "bounds": [
+            256,
+            71,
+            524,
+            643
+          ],
+          "bytes": 255373,
+          "sha256": "e345e9244f893614dfbe8ae1faafbe7c84d1a1c7ad4c295e67dfa26103d1a132"
+        },
+        {
+          "frame": 7,
+          "file": "sandals/007.png",
+          "bounds": [
+            255,
+            71,
+            523,
+            643
+          ],
+          "bytes": 255197,
+          "sha256": "732e155578e56fac00956d6e7f7a05d8d9f2f3f859e54778f1e0ab249b0ecf94"
+        }
+      ]
+    },
+    "cloak": {
+      "count": 1,
+      "uniqueFrames": 1,
+      "frames": [
+        {
+          "frame": 0,
+          "file": "cloak/000.png",
+          "bounds": [
+            180,
+            141,
+            545,
+            618
+          ],
+          "bytes": 534934,
+          "sha256": "1b60db131bc724777e2dc5193069a9dbc9c8dde33cd414e4f4a74ae8a2ba18bb"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "totalBytes": 19853708,
+  "passed": true
+}

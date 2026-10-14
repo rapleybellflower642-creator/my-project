@@ -1,0 +1,14 @@
+{
+  "asset": "cloak",
+  "frames": [
+    "000.png"
+  ],
+  "size": 720,
+  "alpha": true,
+  "rotationRadians": [
+    0,
+    0
+  ],
+  "render": "CYCLES CPU, 16 samples",
+  "seconds": 45.76
+}

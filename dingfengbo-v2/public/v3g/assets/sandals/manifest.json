@@ -1,0 +1,21 @@
+{
+  "asset": "sandals",
+  "frames": [
+    "000.png",
+    "001.png",
+    "002.png",
+    "003.png",
+    "004.png",
+    "005.png",
+    "006.png",
+    "007.png"
+  ],
+  "size": 720,
+  "alpha": true,
+  "rotationRadians": [
+    -0.045,
+    0.045
+  ],
+  "render": "CYCLES CPU, 16 samples",
+  "seconds": 32.08
+}

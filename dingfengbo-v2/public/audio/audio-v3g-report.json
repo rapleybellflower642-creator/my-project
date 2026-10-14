@@ -1,0 +1,764 @@
+{
+  "version": "v3-gold",
+  "duration_seconds": 120,
+  "fps": 30,
+  "audio_samples": 5760000,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "voiceover": false,
+  "source": {
+    "file": "public/audio/bgm-v4-original.mp3",
+    "sha256": "ab1ebad4e3ced73fa0d7763e455f573976c243ff0b00e0b7e91a90a4e3debd05",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "duration": "192.456000",
+          "bit_rate": "128000"
+        }
+      ],
+      "format": {
+        "duration": "192.456000",
+        "size": "3079725",
+        "bit_rate": "128017"
+      }
+    },
+    "decoded_duration_seconds": 192.41379166666667,
+    "decoded_samples": 9235862,
+    "decoded_float32le_sha256": "523785503ec99b88a71eaf5b25f62f508da445efd0ee209ae948571642002101",
+    "used_source_start_seconds": 0.0,
+    "used_source_end_seconds": 120.0,
+    "playback_rate": 1.0,
+    "pitch_shift_semitones": 0,
+    "loops": 0,
+    "time_stretch_used": false,
+    "crossfades_or_source_edits": [],
+    "processing": "first 120 seconds at original speed/pitch; gain automation before mixing, then final loudness normalization; no source looping required"
+  },
+  "music_analysis": {
+    "method": "24 kHz mono analysis copy; 1024-sample Hann STFT; 120-sample hop (5 ms); positive log spectral flux weighted 65% 45–9500 Hz + 35% 45–260 Hz; autocorrelation and robust periodic fit",
+    "first_10ms_rms_above_minus60_dbfs_seconds": 0.4,
+    "first_strong_spectral_onset_seconds": 0.405,
+    "autocorrelation_tempo_candidates_bpm": [
+      109.091,
+      72.727,
+      62.5
+    ],
+    "fitted_pulse_bpm_candidate": 109.167481,
+    "fitted_subdivision_seconds": 0.27480711,
+    "fitted_phase_seconds": 0.41676,
+    "fit_median_absolute_error_seconds": 0.003492,
+    "thirty_two_pulse_phrase_grid_candidates_seconds": [
+      0.417,
+      18.004,
+      35.592,
+      53.18,
+      70.767,
+      88.355,
+      105.943
+    ],
+    "climax_local_onset_candidates": [
+      {
+        "seconds": 72.135,
+        "spectral_flux_strength_relative": 0.2686,
+        "bass_flux_relative": 0.1587
+      },
+      {
+        "seconds": 72.415,
+        "spectral_flux_strength_relative": 0.3358,
+        "bass_flux_relative": 0.1419
+      },
+      {
+        "seconds": 72.695,
+        "spectral_flux_strength_relative": 0.1881,
+        "bass_flux_relative": 0.1168
+      },
+      {
+        "seconds": 72.96,
+        "spectral_flux_strength_relative": 0.3366,
+        "bass_flux_relative": 0.1422
+      },
+      {
+        "seconds": 73.235,
+        "spectral_flux_strength_relative": 0.4496,
+        "bass_flux_relative": 0.5253
+      },
+      {
+        "seconds": 73.515,
+        "spectral_flux_strength_relative": 0.4563,
+        "bass_flux_relative": 0.4662
+      },
+      {
+        "seconds": 73.79,
+        "spectral_flux_strength_relative": 0.3524,
+        "bass_flux_relative": 0.3269
+      },
+      {
+        "seconds": 74.06,
+        "spectral_flux_strength_relative": 0.5402,
+        "bass_flux_relative": 0.11
+      },
+      {
+        "seconds": 74.34,
+        "spectral_flux_strength_relative": 0.1772,
+        "bass_flux_relative": 0.0984
+      },
+      {
+        "seconds": 74.615,
+        "spectral_flux_strength_relative": 0.1966,
+        "bass_flux_relative": 0.1366
+      },
+      {
+        "seconds": 74.93,
+        "spectral_flux_strength_relative": 0.1377,
+        "bass_flux_relative": 0.2216
+      },
+      {
+        "seconds": 75.16,
+        "spectral_flux_strength_relative": 0.4297,
+        "bass_flux_relative": 0.516
+      },
+      {
+        "seconds": 75.44,
+        "spectral_flux_strength_relative": 0.3298,
+        "bass_flux_relative": 0.2842
+      },
+      {
+        "seconds": 75.715,
+        "spectral_flux_strength_relative": 0.3,
+        "bass_flux_relative": 0.1782
+      },
+      {
+        "seconds": 75.985,
+        "spectral_flux_strength_relative": 0.5959,
+        "bass_flux_relative": 0.7193
+      },
+      {
+        "seconds": 76.26,
+        "spectral_flux_strength_relative": 0.4815,
+        "bass_flux_relative": 0.2897
+      },
+      {
+        "seconds": 76.54,
+        "spectral_flux_strength_relative": 0.3301,
+        "bass_flux_relative": 0.1741
+      },
+      {
+        "seconds": 76.81,
+        "spectral_flux_strength_relative": 0.2882,
+        "bass_flux_relative": 0.0952
+      },
+      {
+        "seconds": 77.09,
+        "spectral_flux_strength_relative": 0.2311,
+        "bass_flux_relative": 0.1441
+      },
+      {
+        "seconds": 77.36,
+        "spectral_flux_strength_relative": 0.4566,
+        "bass_flux_relative": 0.2507
+      },
+      {
+        "seconds": 77.635,
+        "spectral_flux_strength_relative": 0.3203,
+        "bass_flux_relative": 0.2747
+      },
+      {
+        "seconds": 77.915,
+        "spectral_flux_strength_relative": 0.4498,
+        "bass_flux_relative": 0.5719
+      },
+      {
+        "seconds": 78.19,
+        "spectral_flux_strength_relative": 0.3088,
+        "bass_flux_relative": 0.3123
+      },
+      {
+        "seconds": 78.46,
+        "spectral_flux_strength_relative": 0.5973,
+        "bass_flux_relative": 0.1494
+      },
+      {
+        "seconds": 78.75,
+        "spectral_flux_strength_relative": 0.2248,
+        "bass_flux_relative": 0.3139
+      }
+    ],
+    "recommended_anchors": [
+      {
+        "seconds": 0.405,
+        "purpose": "first source musical onset; preserve natural opening"
+      },
+      {
+        "seconds": 1.1,
+        "purpose": "fixed opening brass-seal contact, frame 33"
+      },
+      {
+        "seconds": 7.0,
+        "purpose": "title scroll begins unfolding, source onset 7.010"
+      },
+      {
+        "seconds": 12.966667,
+        "purpose": "history red seal contact, frame 389"
+      },
+      {
+        "seconds": 19.833333,
+        "purpose": "official brass seal settles, frame 595"
+      },
+      {
+        "seconds": 25.333333,
+        "purpose": "hoe contacts soil, frame 760"
+      },
+      {
+        "seconds": 27.966667,
+        "purpose": "seed contacts soil, frame 839"
+      },
+      {
+        "seconds": 34.266667,
+        "purpose": "rain begins, frame 1028"
+      },
+      {
+        "seconds": 49.6,
+        "purpose": "wavering line settles, frame 1488"
+      },
+      {
+        "seconds": 55.5,
+        "purpose": "何妨 settles into a calm line gesture; one accent only"
+      },
+      {
+        "seconds": 62.0,
+        "purpose": "fixed bamboo contact; source bass onset 61.975"
+      },
+      {
+        "seconds": 64.0,
+        "purpose": "lightness lines expand, sustained silk texture"
+      },
+      {
+        "seconds": 74.066667,
+        "purpose": "fixed 谁怕 entry, frame 2222; source onset 74.060"
+      },
+      {
+        "seconds": 77.366667,
+        "purpose": "fixed 任平生 sentence expands, frame 2321; source onset 77.360"
+      },
+      {
+        "seconds": 118.6,
+        "purpose": "1.4-second ending fade begins"
+      }
+    ],
+    "limitations": [
+      "Spectral onsets mark energy attacks, not verified metrical downbeats or semantic phrase boundaries.",
+      "Tempo has half/double/triplet metrical ambiguities; the phrase grid is an editing suggestion only.",
+      "5 ms analysis hop and the STFT window limit attack precision; animation contacts use exact 30 fps frames.",
+      "No subjective listening, headphone review, or visual sync playback is claimed by this report."
+    ]
+  },
+  "automation": {
+    "base_music_gain_linear": 0.67,
+    "opening": {
+      "natural_first_onset_seconds": 0.405,
+      "full_gain_seconds": 2.4
+    },
+    "climax_duck": {
+      "start_seconds": 73.52,
+      "minimum_gain_linear": 0.68,
+      "minimum_gain_db": -3.35,
+      "minimum_from_seconds": 73.76,
+      "minimum_to_seconds": 73.89,
+      "full_recovery_seconds": 74.066667,
+      "silence_inserted": false
+    },
+    "ending_fade": {
+      "start_seconds": 118.6,
+      "end_seconds": 120.0,
+      "duration_seconds": 1.4
+    },
+    "ending_release_gain_linear": 0.88
+  },
+  "foley": {
+    "seed": 10822338,
+    "event_count": 25,
+    "generation": "original deterministic synthesized paper scroll, warm muted bronze seal, granular soil and seed, fine rain, silk line, bamboo, soft ceramic cup, cold/warm air; no downloaded effects",
+    "cues_file": "public/audio/audio-v3g-cues.csv",
+    "cues": [
+      {
+        "frame": 33,
+        "seconds": 1.1,
+        "sample": 52800,
+        "sound_start_frame": 33,
+        "sound_start_sample": 52800,
+        "name": "开场铜印落下",
+        "material": "muted brass / paper / short wood",
+        "gain_linear": 0.193,
+        "pan": 0.02,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.88,
+        "sync_basis": "fixed opening contact at 1.100 s"
+      },
+      {
+        "frame": 210,
+        "seconds": 7.0,
+        "sample": 336000,
+        "sound_start_frame": 210,
+        "sound_start_sample": 336000,
+        "name": "定风波题卷展开",
+        "material": "rolled paper / fine fibers",
+        "gain_linear": 0.094,
+        "pan": -0.14,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.45,
+        "sync_basis": "fixed title scroll onset at 7.000 s"
+      },
+      {
+        "frame": 336,
+        "seconds": 11.2,
+        "sample": 537600,
+        "sound_start_frame": 336,
+        "sound_start_sample": 537600,
+        "name": "案卷翻开",
+        "material": "dry paper",
+        "gain_linear": 0.073,
+        "pan": -0.15,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.45,
+        "sync_basis": "History page opens globally 11.20–12.35 s"
+      },
+      {
+        "frame": 389,
+        "seconds": 12.966667,
+        "sample": 622400,
+        "sound_start_frame": 389,
+        "sound_start_sample": 622400,
+        "name": "诗案朱印接触",
+        "material": "ink seal / paper",
+        "gain_linear": 0.116,
+        "pan": 0.1,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.58,
+        "sync_basis": "History seal contact at 12.96 s, nearest frame 389"
+      },
+      {
+        "frame": 461,
+        "seconds": 15.366667,
+        "sample": 737600,
+        "sound_start_frame": 461,
+        "sound_start_sample": 737600,
+        "name": "赴黄州金线展开",
+        "material": "fine paper / silk",
+        "gain_linear": 0.053,
+        "pan": -0.1,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.45,
+        "sync_basis": "History route unfolds globally 15.35–16.85 s"
+      },
+      {
+        "frame": 595,
+        "seconds": 19.833333,
+        "sample": 952000,
+        "sound_start_frame": 595,
+        "sound_start_sample": 952000,
+        "name": "官印落桌",
+        "material": "damped brass / wood",
+        "gain_linear": 0.146,
+        "pan": 0.12,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.88,
+        "sync_basis": "History official seal contact at 19.82 s, nearest frame 595"
+      },
+      {
+        "frame": 760,
+        "seconds": 25.333333,
+        "sample": 1216000,
+        "sound_start_frame": 760,
+        "sound_start_sample": 1216000,
+        "name": "木锄落土",
+        "material": "wood shaft / granular soil",
+        "gain_linear": 0.156,
+        "pan": -0.12,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.9,
+        "sync_basis": "Cultivate hoe contact at 25.32 s, nearest frame 760"
+      },
+      {
+        "frame": 839,
+        "seconds": 27.966667,
+        "sample": 1342400,
+        "sound_start_frame": 839,
+        "sound_start_sample": 1342400,
+        "name": "一粒种子入土",
+        "material": "seed / fine soil",
+        "gain_linear": 0.087,
+        "pan": 0.11,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.38,
+        "sync_basis": "Cultivate seed contact at 27.95 s, nearest frame 839"
+      },
+      {
+        "frame": 870,
+        "seconds": 29.0,
+        "sample": 1392000,
+        "sound_start_frame": 870,
+        "sound_start_sample": 1392000,
+        "name": "新芽细细展开",
+        "material": "soft air / silk fibers",
+        "gain_linear": 0.054,
+        "pan": -0.04,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.72,
+        "sync_basis": "Cultivate sprouts grow globally 28.3–30.6 s; nonliteral growth texture"
+      },
+      {
+        "frame": 1028,
+        "seconds": 34.266667,
+        "sample": 1644800,
+        "sound_start_frame": 1028,
+        "sound_start_sample": 1644800,
+        "name": "细雨落下",
+        "material": "fine rain / close droplets",
+        "gain_linear": 0.137,
+        "pan": 0.09,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.5,
+        "sync_basis": "Rain begins at 34.25 s, rounded to frame 1028"
+      },
+      {
+        "frame": 1143,
+        "seconds": 38.1,
+        "sample": 1828800,
+        "sound_start_frame": 1143,
+        "sound_start_sample": 1828800,
+        "name": "稳住自己的金路",
+        "material": "warm low metal / air",
+        "gain_linear": 0.061,
+        "pan": -0.08,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.9,
+        "sync_basis": "stable golden route appears at 38.1 s; diagram accent"
+      },
+      {
+        "frame": 1488,
+        "seconds": 49.6,
+        "sample": 2380800,
+        "sound_start_frame": 1484,
+        "sound_start_sample": 2374400,
+        "name": "波线归于稳定",
+        "material": "fine silk settling",
+        "gain_linear": 0.061,
+        "pan": -0.15,
+        "pre_roll_frames": 4,
+        "sound_duration_seconds": 0.73,
+        "sync_basis": "Listen first stable point at 49.6 s; texture rises for 4 frames"
+      },
+      {
+        "frame": 1584,
+        "seconds": 52.8,
+        "sample": 2534400,
+        "sound_start_frame": 1584,
+        "sound_start_sample": 2534400,
+        "name": "金线第一步",
+        "material": "soft wood / close fiber",
+        "gain_linear": 0.071,
+        "pan": -0.08,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.58,
+        "sync_basis": "Walk first step at 52.8 s; later 0.53 s steps remain unaccented"
+      },
+      {
+        "frame": 1665,
+        "seconds": 55.5,
+        "sample": 2664000,
+        "sound_start_frame": 1665,
+        "sound_start_sample": 2664000,
+        "name": "何妨从容展开",
+        "material": "silk line / quiet air",
+        "gain_linear": 0.054,
+        "pan": 0.12,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.92,
+        "sync_basis": "Walk 何妨 starts at 55.5 s; one gesture for both characters"
+      },
+      {
+        "frame": 1860,
+        "seconds": 62.0,
+        "sample": 2976000,
+        "sound_start_frame": 1860,
+        "sound_start_sample": 2976000,
+        "name": "竹杖点地",
+        "material": "bamboo / muted ground",
+        "gain_linear": 0.147,
+        "pan": -0.14,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.38,
+        "sync_basis": "fixed Light bamboo contact at 62.0 s; source bass onset 61.975 s"
+      },
+      {
+        "frame": 1920,
+        "seconds": 64.0,
+        "sample": 3072000,
+        "sound_start_frame": 1920,
+        "sound_start_sample": 3072000,
+        "name": "轻盈线条展开",
+        "material": "fine silk / moving air",
+        "gain_linear": 0.067,
+        "pan": 0.15,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.2,
+        "sync_basis": "fixed Light line expansion at 64.0 s; no hard transient"
+      },
+      {
+        "frame": 2222,
+        "seconds": 74.066667,
+        "sample": 3555200,
+        "sound_start_frame": 2222,
+        "sound_start_sample": 3555200,
+        "name": "谁怕落字",
+        "material": "warm low metal / short grounded body",
+        "gain_linear": 0.207,
+        "pan": 0,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.94,
+        "sync_basis": "fixed word entry frame 2222; source spectral onset 74.060 s"
+      },
+      {
+        "frame": 2321,
+        "seconds": 77.366667,
+        "sample": 3713600,
+        "sound_start_frame": 2321,
+        "sound_start_sample": 3713600,
+        "name": "任平生主句展开",
+        "material": "woven silk / open air",
+        "gain_linear": 0.093,
+        "pan": -0.03,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.42,
+        "sync_basis": "fixed sentence expansion frame 2321; source onset 77.360 s"
+      },
+      {
+        "frame": 2508,
+        "seconds": 83.6,
+        "sample": 4012800,
+        "sound_start_frame": 2508,
+        "sound_start_sample": 4012800,
+        "name": "春风拂过杯口",
+        "material": "light cold air",
+        "gain_linear": 0.076,
+        "pan": -0.18,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 2.55,
+        "sync_basis": "Cold steam visibly bends at 83.6 s; wind begins at 83.15 s"
+      },
+      {
+        "frame": 2547,
+        "seconds": 84.9,
+        "sample": 4075200,
+        "sound_start_frame": 2547,
+        "sound_start_sample": 4075200,
+        "name": "微冷杯口余韵",
+        "material": "soft ceramic resonance",
+        "gain_linear": 0.043,
+        "pan": 0.14,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.68,
+        "sync_basis": "Cold 微冷 begins settling at 84.9 s; quiet cup resonance, no physical drop claimed"
+      },
+      {
+        "frame": 2790,
+        "seconds": 93.0,
+        "sample": 4464000,
+        "sound_start_frame": 2790,
+        "sound_start_sample": 4464000,
+        "name": "斜照越过山脊",
+        "material": "warm air / fine silk",
+        "gain_linear": 0.063,
+        "pan": -0.1,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.8,
+        "sync_basis": "Sun clears mountain ridge at 93.0 s; soft air with restrained overtone"
+      },
+      {
+        "frame": 2823,
+        "seconds": 94.1,
+        "sample": 4516800,
+        "sound_start_frame": 2823,
+        "sound_start_sample": 4516800,
+        "name": "暖光铺展",
+        "material": "gentle warm air",
+        "gain_linear": 0.039,
+        "pan": 0.18,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.4,
+        "sync_basis": "Sun first golden ground line at 94.1 s; subsequent lines have no extra accent"
+      },
+      {
+        "frame": 3010,
+        "seconds": 100.333333,
+        "sample": 4816000,
+        "sound_start_frame": 3010,
+        "sound_start_sample": 4816000,
+        "name": "回首来路",
+        "material": "soft silk / paper memory",
+        "gain_linear": 0.048,
+        "pan": -0.12,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.24,
+        "sync_basis": "Return route pullback begins at 100 s"
+      },
+      {
+        "frame": 3150,
+        "seconds": 105.0,
+        "sample": 5040000,
+        "sound_start_frame": 3150,
+        "sound_start_sample": 5040000,
+        "name": "归去向前",
+        "material": "fine line / receding air",
+        "gain_linear": 0.049,
+        "pan": 0.13,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.24,
+        "sync_basis": "Return point moves 104.5–108.8 s; one soft line gesture at 105.0 s"
+      },
+      {
+        "frame": 3315,
+        "seconds": 110.5,
+        "sample": 5304000,
+        "sound_start_frame": 3315,
+        "sound_start_sample": 5304000,
+        "name": "风雨晴光归于同一条线",
+        "material": "very soft air",
+        "gain_linear": 0.03,
+        "pan": 0.02,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.6,
+        "sync_basis": "Return arcs finish merging at 110.5 s; soft release, no hard contact"
+      }
+    ],
+    "ambience_beds": [
+      {
+        "start": 34.25,
+        "end": 41.9,
+        "gain": 0.0026,
+        "material": "rain"
+      },
+      {
+        "start": 42.0,
+        "end": 50.9,
+        "gain": 0.0018,
+        "material": "rain"
+      },
+      {
+        "start": 72.3,
+        "end": 81.7,
+        "gain": 0.0018,
+        "material": "rain"
+      },
+      {
+        "start": 83.15,
+        "end": 89.7,
+        "gain": 0.0015,
+        "material": "air"
+      }
+    ],
+    "premix_peak_linear": 0.14778545498847961
+  },
+  "loudness": {
+    "target_integrated_lufs": -15.0,
+    "maximum_true_peak_dbtp": -1.0,
+    "normalization_ceiling_dbtp": -1.8,
+    "premix_measurement": {
+      "input_i": "-16.98",
+      "input_tp": "-3.49",
+      "input_lra": "1.90",
+      "input_thresh": "-27.00",
+      "output_i": "-14.87",
+      "output_tp": "-1.80",
+      "output_lra": "1.90",
+      "output_thresh": "-24.88",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.13"
+    },
+    "second_pass_normalization": {
+      "input_i": "-16.98",
+      "input_tp": "-3.49",
+      "input_lra": "1.90",
+      "input_thresh": "-27.00",
+      "output_i": "-15.00",
+      "output_tp": "-1.80",
+      "output_lra": "1.80",
+      "output_thresh": "-25.01",
+      "normalization_type": "dynamic",
+      "target_offset": "0.00"
+    },
+    "encoded_aac_measurement": {
+      "input_i": "-15.08",
+      "input_tp": "-1.64",
+      "input_lra": "1.90",
+      "input_thresh": "-25.10",
+      "output_i": "-15.30",
+      "output_tp": "-1.81",
+      "output_lra": "1.70",
+      "output_thresh": "-25.31",
+      "normalization_type": "dynamic",
+      "target_offset": "0.30"
+    },
+    "method": "FFmpeg loudnorm EBU R128 integrated loudness and oversampled true peak, measured again after AAC encoding"
+  },
+  "output": {
+    "file": "public/audio/soundtrack-v3g.m4a",
+    "sha256": "e9f619cf8f826b0a23e2e41bf31cbcb48cf0f1aa3d563f2809d4e1d546b98df3",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "duration": "120.000000",
+          "bit_rate": "262982"
+        }
+      ],
+      "format": {
+        "duration": "120.000000",
+        "size": "3968786",
+        "bit_rate": "264585"
+      }
+    },
+    "requested_codec": "AAC LC",
+    "requested_bitrate_bps": 256000,
+    "decoded_finite": true,
+    "decoded_samples_in_120s": 5760000,
+    "final_20ms_rms_dbfs": -58.086,
+    "source_time_alignment_checks": [
+      {
+        "start_seconds": 9,
+        "duration_seconds": 2,
+        "lag_samples": 0,
+        "zero_lag_correlation": 0.999855
+      },
+      {
+        "start_seconds": 66,
+        "duration_seconds": 2,
+        "lag_samples": 0,
+        "zero_lag_correlation": 0.999363
+      },
+      {
+        "start_seconds": 114,
+        "duration_seconds": 2,
+        "lag_samples": 0,
+        "zero_lag_correlation": 0.999653
+      }
+    ],
+    "cue_csv_line_endings": "LF"
+  },
+  "review_status": {
+    "automated_audio_checks": "passed",
+    "subjective_listening": "not performed; no subjective approval claimed",
+    "audiovisual_sync_playback": "not performed by this audio build; check rendered film against contact frames"
+  }
+}

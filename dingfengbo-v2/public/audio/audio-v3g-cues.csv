@@ -1,0 +1,26 @@
+frame,seconds,sample,sound_start_frame,sound_start_sample,name,material,gain_linear,pan,pre_roll_frames,sound_duration_seconds,sync_basis
+33,1.1,52800,33,52800,开场铜印落下,muted brass / paper / short wood,0.193,0.02,0,0.88,fixed opening contact at 1.100 s
+210,7.0,336000,210,336000,定风波题卷展开,rolled paper / fine fibers,0.094,-0.14,0,1.45,fixed title scroll onset at 7.000 s
+336,11.2,537600,336,537600,案卷翻开,dry paper,0.073,-0.15,0,1.45,History page opens globally 11.20–12.35 s
+389,12.966667,622400,389,622400,诗案朱印接触,ink seal / paper,0.116,0.1,0,0.58,"History seal contact at 12.96 s, nearest frame 389"
+461,15.366667,737600,461,737600,赴黄州金线展开,fine paper / silk,0.053,-0.1,0,1.45,History route unfolds globally 15.35–16.85 s
+595,19.833333,952000,595,952000,官印落桌,damped brass / wood,0.146,0.12,0,0.88,"History official seal contact at 19.82 s, nearest frame 595"
+760,25.333333,1216000,760,1216000,木锄落土,wood shaft / granular soil,0.156,-0.12,0,0.9,"Cultivate hoe contact at 25.32 s, nearest frame 760"
+839,27.966667,1342400,839,1342400,一粒种子入土,seed / fine soil,0.087,0.11,0,0.38,"Cultivate seed contact at 27.95 s, nearest frame 839"
+870,29.0,1392000,870,1392000,新芽细细展开,soft air / silk fibers,0.054,-0.04,0,1.72,Cultivate sprouts grow globally 28.3–30.6 s; nonliteral growth texture
+1028,34.266667,1644800,1028,1644800,细雨落下,fine rain / close droplets,0.137,0.09,0,1.5,"Rain begins at 34.25 s, rounded to frame 1028"
+1143,38.1,1828800,1143,1828800,稳住自己的金路,warm low metal / air,0.061,-0.08,0,0.9,stable golden route appears at 38.1 s; diagram accent
+1488,49.6,2380800,1484,2374400,波线归于稳定,fine silk settling,0.061,-0.15,4,0.73,Listen first stable point at 49.6 s; texture rises for 4 frames
+1584,52.8,2534400,1584,2534400,金线第一步,soft wood / close fiber,0.071,-0.08,0,0.58,Walk first step at 52.8 s; later 0.53 s steps remain unaccented
+1665,55.5,2664000,1665,2664000,何妨从容展开,silk line / quiet air,0.054,0.12,0,0.92,Walk 何妨 starts at 55.5 s; one gesture for both characters
+1860,62.0,2976000,1860,2976000,竹杖点地,bamboo / muted ground,0.147,-0.14,0,0.38,fixed Light bamboo contact at 62.0 s; source bass onset 61.975 s
+1920,64.0,3072000,1920,3072000,轻盈线条展开,fine silk / moving air,0.067,0.15,0,1.2,fixed Light line expansion at 64.0 s; no hard transient
+2222,74.066667,3555200,2222,3555200,谁怕落字,warm low metal / short grounded body,0.207,0,0,0.94,fixed word entry frame 2222; source spectral onset 74.060 s
+2321,77.366667,3713600,2321,3713600,任平生主句展开,woven silk / open air,0.093,-0.03,0,1.42,fixed sentence expansion frame 2321; source onset 77.360 s
+2508,83.6,4012800,2508,4012800,春风拂过杯口,light cold air,0.076,-0.18,0,2.55,Cold steam visibly bends at 83.6 s; wind begins at 83.15 s
+2547,84.9,4075200,2547,4075200,微冷杯口余韵,soft ceramic resonance,0.043,0.14,0,0.68,"Cold 微冷 begins settling at 84.9 s; quiet cup resonance, no physical drop claimed"
+2790,93.0,4464000,2790,4464000,斜照越过山脊,warm air / fine silk,0.063,-0.1,0,1.8,Sun clears mountain ridge at 93.0 s; soft air with restrained overtone
+2823,94.1,4516800,2823,4516800,暖光铺展,gentle warm air,0.039,0.18,0,1.4,Sun first golden ground line at 94.1 s; subsequent lines have no extra accent
+3010,100.333333,4816000,3010,4816000,回首来路,soft silk / paper memory,0.048,-0.12,0,1.24,Return route pullback begins at 100 s
+3150,105.0,5040000,3150,5040000,归去向前,fine line / receding air,0.049,0.13,0,1.24,Return point moves 104.5–108.8 s; one soft line gesture at 105.0 s
+3315,110.5,5304000,3315,5304000,风雨晴光归于同一条线,very soft air,0.03,0.02,0,1.6,"Return arcs finish merging at 110.5 s; soft release, no hard contact"

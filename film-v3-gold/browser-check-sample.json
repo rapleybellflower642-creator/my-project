@@ -1,0 +1,256 @@
+{
+  "status": "passed",
+  "deliverable": "V3 black-and-gold sample (1080p)",
+  "browser": "Chromium",
+  "browser_executable": "/usr/bin/chromium",
+  "started_at": "2026-10-14T11:53:12.045Z",
+  "sha256": "ceb99a7f878c31ec316107df0a5c860bc833aa54efd838f787290cd42bc0e161",
+  "expected": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 660,
+    "duration": 22
+  },
+  "mode": "sample",
+  "source_ranges": [
+    [
+      0,
+      7
+    ],
+    [
+      11,
+      16
+    ],
+    [
+      42,
+      47
+    ],
+    [
+      74,
+      79
+    ]
+  ],
+  "viewport": {
+    "width": 960,
+    "height": 540,
+    "deviceScaleFactor": 1
+  },
+  "metadata": {
+    "duration": 22,
+    "width": 1920,
+    "height": 1080,
+    "readyState": 4,
+    "muted": true,
+    "error": null,
+    "duration_error_seconds": 0
+  },
+  "seeks": [
+    {
+      "target_seconds": 0.5,
+      "status": "passed",
+      "time": 0.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 23,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 23,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-01-0.500.jpg"
+    },
+    {
+      "target_seconds": 3,
+      "status": "passed",
+      "time": 3,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 57,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 57,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-02-3.000.jpg"
+    },
+    {
+      "target_seconds": 6.5,
+      "status": "passed",
+      "time": 6.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 76,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 76,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-03-6.500.jpg"
+    },
+    {
+      "target_seconds": 7.5,
+      "status": "passed",
+      "time": 7.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 95,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 95,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-04-7.500.jpg"
+    },
+    {
+      "target_seconds": 9.5,
+      "status": "passed",
+      "time": 9.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 114,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 114,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-05-9.500.jpg"
+    },
+    {
+      "target_seconds": 11.5,
+      "status": "passed",
+      "time": 11.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 133,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 133,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-06-11.500.jpg"
+    },
+    {
+      "target_seconds": 12.5,
+      "status": "passed",
+      "time": 12.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 152,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 152,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-07-12.500.jpg"
+    },
+    {
+      "target_seconds": 14.5,
+      "status": "passed",
+      "time": 14.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 171,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 171,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-08-14.500.jpg"
+    },
+    {
+      "target_seconds": 16.5,
+      "status": "passed",
+      "time": 16.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 190,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 190,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-09-16.500.jpg"
+    },
+    {
+      "target_seconds": 17.5,
+      "status": "passed",
+      "time": 17.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 209,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 209,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-10-17.500.jpg"
+    },
+    {
+      "target_seconds": 19.5,
+      "status": "passed",
+      "time": 19.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 228,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 228,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-11-19.500.jpg"
+    },
+    {
+      "target_seconds": 21.5,
+      "status": "passed",
+      "time": 21.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 247,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 247,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-12-21.500.jpg"
+    }
+  ],
+  "playback": [
+    {
+      "target_seconds": 1,
+      "requested_sample_ms": 1100,
+      "status": "passed",
+      "start": 1,
+      "end": 2.058979,
+      "advanced_seconds": 1.058979,
+      "measured_wall_seconds": 1.1041000000014902,
+      "decoded_frames_before": 281,
+      "decoded_frames_after": 314,
+      "decoded_frames_during_playback": 33,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "dropped_frames_total": 1,
+      "muted": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "target_seconds": 9,
+      "requested_sample_ms": 1100,
+      "status": "passed",
+      "start": 9.000961,
+      "end": 9.901097,
+      "advanced_seconds": 0.9001359999999998,
+      "measured_wall_seconds": 1.1012000000029802,
+      "decoded_frames_before": 318,
+      "decoded_frames_after": 346,
+      "decoded_frames_during_playback": 28,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "dropped_frames_total": 4,
+      "muted": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "target_seconds": 19,
+      "requested_sample_ms": 1100,
+      "status": "passed",
+      "start": 19.0005,
+      "end": 20.060937,
+      "advanced_seconds": 1.0604370000000003,
+      "measured_wall_seconds": 1.1006000000014902,
+      "decoded_frames_before": 350,
+      "decoded_frames_after": 383,
+      "decoded_frames_during_playback": 33,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "dropped_frames_total": 4,
+      "muted": true,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "cleanup_errors": [],
+  "subjective_listening_checked": false,
+  "subjective_visual_review_checked": false,
+  "note": "Muted browser playback checks seeking and decoding. Screenshots are captured, not subjectively reviewed. Encoded fps and frame count are checked by the separate media verifier.",
+  "file": "dingfengbo-v3-gold-sample.mp4",
+  "file_path": "/workspace/my-project/dingfengbo-v2/out/v3g/dingfengbo-v3-gold-sample.mp4",
+  "stage": "complete",
+  "bytes": 4408936,
+  "finished_at": "2026-10-14T11:53:39.728Z"
+}

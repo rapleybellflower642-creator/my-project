@@ -2,6 +2,7 @@ import React from 'react';
 import {Composition,Folder,Still} from 'remotion';
 import {V4Registrations} from '../v4/Registrations';
 import {V3RemakeRegistrations} from '../v3r/Registrations';
+import {V3GoldRegistrations} from '../v3g/Registrations';
 import {Film} from './Film';
 import {Cover} from './Cover';
 import {HeroTest} from './HeroTest';
@@ -22,6 +23,7 @@ import {Ending} from './chapters/Ending';
 import {FilmV3} from '../v3/Film';
 import {CoverV3,Hook,Case,Exile,Cultivate,RainRecord,Companions,Walk as WalkV3,LightStep,Who,Cold as ColdV3,Sun as SunV3,LookBack as LookBackV3,Freedom as FreedomV3,Meaning,Ending as EndingV3} from '../v3/Scenes';
 export const Root=()=> <>
+ <V3GoldRegistrations/>
  <V3RemakeRegistrations/>
  <V4Registrations/>
  <Composition id="DingFengBoV3" component={FilmV3} width={1920} height={1080} fps={30} durationInFrames={3600} defaultProps={{renderAudio:true}}/>
