@@ -1,5 +1,19 @@
 # 定风波：风雨有时，脚步由你
 
+> 本工程已新增 **DingFengBoV3** 审阅合成。新版以苏轼生平和遇雨处境组织故事，保留两分钟和原配乐，增加人物及环境变化，去除指定署名小字。见 [V3 分镜与运行说明](docs/V3_STORYBOARD.md) 和 [V3 音效说明](docs/AUDIO_V3.md)。
+
+## 当前 V3 审阅入口
+
+在本目录执行 `npm ci`、`npm run studio`，选择 **DingFengBoV3** 或 **V3-Scenes** 中的单独章节。完整工程合成为 1920×1080、30 fps、120 秒，包含音乐与音效，无旁白。
+
+- `npm run preview:v3`：生成带声音的 `out/v3/dingfengbo-v3-preview.mp4`（960×540、30 fps、120 秒），同时生成关键帧和封面。
+- `npm run storyboard:v3`：只生成 `out/v3/frame-*.jpg` 及 `out/v3/cover.png`。
+- 完整预览生成后，运行 `python3 scripts/verify-preview-v3.py` 和 `node scripts/check-preview-v3.cjs`，分别执行文件校验与浏览器播放检查。
+
+浏览器、FFmpeg 等运行前提见 [V3 分镜与运行说明](docs/V3_STORYBOARD.md#审阅入口)。`npm run render`、`npm run cover` 和 `npm run review` 仍对应 V2；本轮 V3 交付为审阅副本，下面的 V2 参数与检查记录属于原版存档。
+
+## V2 原版说明
+
 以苏轼《定风波》作现代人生释意的两分钟物件图解动画。墨黑展台、香槟金线条与玉青落点贯穿全片，雨滴、竹杖、芒鞋、蓑衣和天气空间逐步演示“选择回应—走稳一步—承认感受—安放阴晴”。
 
 这是可编辑的 Remotion V2 工程，包含完整分镜、程序化三维模型、中文字幕、本地字体、用户提供的 BGM 和原创物件拟音。形式为音乐与文字，无旁白。
@@ -113,6 +127,6 @@ node scripts/check-playback-v2.cjs out/dingfengbo-v2.mp4
 
 素材来源、原创程序素材与字体许可说明见 [ASSET_SOURCES.md](ASSET_SOURCES.md)。
 
-## 本次交付检查
+## V2 原交付检查（历史记录）
 
-交付成片为 60,558,907 字节；完整音视频解码和浏览器播放、8 处跳转检查通过。视频与音频均为 120.000 秒，3600 帧，1920 × 1080，30 fps。最终 AAC 测得 −15.03 LUFS、−1.76 dBTP。对应文件的 SHA-256、技术信息及播放结果见 [VALIDATION.json](docs/VALIDATION.json) 和 [BROWSER_CHECK.json](docs/BROWSER_CHECK.json)。
+V2 原交付成片为 60,558,907 字节；完整音视频解码和浏览器播放、8 处跳转检查通过。视频与音频均为 120.000 秒，3600 帧，1920 × 1080，30 fps。最终 AAC 测得 −15.03 LUFS、−1.76 dBTP。对应文件的 SHA-256、技术信息及播放结果见 [VALIDATION.json](docs/VALIDATION.json) 和 [BROWSER_CHECK.json](docs/BROWSER_CHECK.json)。这些记录不用于验证 V3 预览文件。

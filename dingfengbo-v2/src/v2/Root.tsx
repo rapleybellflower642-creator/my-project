@@ -17,7 +17,28 @@ import {LookBack} from './chapters/LookBack';
 import {Home} from './chapters/Home';
 import {Freedom} from './chapters/Freedom';
 import {Ending} from './chapters/Ending';
+import {FilmV3} from '../v3/Film';
+import {CoverV3,Hook,Case,Exile,Cultivate,RainRecord,Companions,Walk as WalkV3,LightStep,Who,Cold as ColdV3,Sun as SunV3,LookBack as LookBackV3,Freedom as FreedomV3,Meaning,Ending as EndingV3} from '../v3/Scenes';
 export const Root=()=> <>
+ <Composition id="DingFengBoV3" component={FilmV3} width={1920} height={1080} fps={30} durationInFrames={3600} defaultProps={{renderAudio:true}}/>
+ <Still id="CoverV3" component={CoverV3} width={1920} height={1080}/>
+ <Folder name="V3-Scenes">
+  <Composition id="V3-Hook" component={Hook} width={1920} height={1080} fps={30} durationInFrames={210}/>
+  <Composition id="V3-Case" component={Case} width={1920} height={1080} fps={30} durationInFrames={198}/>
+  <Composition id="V3-Exile" component={Exile} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Cultivate" component={Cultivate} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-RainRecord" component={RainRecord} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Companions" component={Companions} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Walk" component={WalkV3} width={1920} height={1080} fps={30} durationInFrames={263}/>
+  <Composition id="V3-LightStep" component={LightStep} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Who" component={Who} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Cold" component={ColdV3} width={1920} height={1080} fps={30} durationInFrames={198}/>
+  <Composition id="V3-Sun" component={SunV3} width={1920} height={1080} fps={30} durationInFrames={198}/>
+  <Composition id="V3-LookBack" component={LookBackV3} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Freedom" component={FreedomV3} width={1920} height={1080} fps={30} durationInFrames={263}/>
+  <Composition id="V3-Meaning" component={Meaning} width={1920} height={1080} fps={30} durationInFrames={264}/>
+  <Composition id="V3-Ending" component={EndingV3} width={1920} height={1080} fps={30} durationInFrames={158}/>
+ </Folder>
  <Composition id="DingFengBoV2" component={Film} width={1920} height={1080} fps={30} durationInFrames={3600}/>
  <Still id="CoverV2" component={Cover} width={1920} height={1080}/>
  <Folder name="Scenes">

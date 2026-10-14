@@ -1,0 +1,210 @@
+{
+  "status": "passed",
+  "deliverable": "V3 review preview (not final master)",
+  "browser": "Chromium",
+  "file": "dingfengbo-v3-preview.mp4",
+  "sha256": "7301509855de89f00ed4853e42b0efec2e3a00f755c4a9cb353e784912aa350f",
+  "viewport": {
+    "width": 960,
+    "height": 540,
+    "deviceScaleFactor": 1
+  },
+  "metadata": {
+    "duration": 120,
+    "width": 960,
+    "height": 540,
+    "readyState": 4
+  },
+  "seeks": [
+    {
+      "target_seconds": 1,
+      "time": 1,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 38,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-1.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 5,
+      "time": 5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 47,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-5.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 11,
+      "time": 11,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 171,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-11.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 19,
+      "time": 19,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 337,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-19.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 27,
+      "time": 27,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 493,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-27.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 36,
+      "time": 36,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 641,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-36.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 44,
+      "time": 44,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 779,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-44.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 53,
+      "time": 53,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 909,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-53.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 58.5,
+      "time": 58.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 954,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-58.5.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 63,
+      "time": 63,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1134,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-63.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 70,
+      "time": 70,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1181,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-70.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 79,
+      "time": 79,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1300,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-79.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 85,
+      "time": 85,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1401,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-85.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 93,
+      "time": 93,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1544,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-93.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 102,
+      "time": 102,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1707,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-102.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 110,
+      "time": 110,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1833,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-110.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 118,
+      "time": 118,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 1949,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-118.jpg",
+      "status": "passed"
+    },
+    {
+      "target_seconds": 119.9,
+      "time": 119.9,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 2121,
+      "dropped_frames": 0,
+      "screenshot": "playback-check/seek-119.9.jpg",
+      "status": "passed"
+    }
+  ],
+  "playback": {
+    "start": 15,
+    "end": 15.860259,
+    "decoded_frames_during_playback": 27,
+    "dropped_frames_total": 0,
+    "muted": true,
+    "error": null
+  },
+  "subjective_listening_checked": false,
+  "note": "Muted browser playback verifies decoding/seeking, not subjective sound balance or audiovisual synchronization."
+}

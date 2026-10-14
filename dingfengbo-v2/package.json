@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "studio": "remotion studio --no-open --port=3002",
+    "preview:v3": "node scripts/preview-v3.cjs",
+    "storyboard:v3": "node scripts/preview-v3.cjs --stills-only",
     "typecheck": "tsc --noEmit",
     "render": "bash scripts/render-final-v2.sh",
     "cover": "remotion still src/index.ts CoverV2 out/cover-v2.png --browser-executable=./scripts/chromium-cpu-raster.sh --gl=swangle",

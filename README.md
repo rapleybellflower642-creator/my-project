@@ -1,12 +1,26 @@
 # 两分钟诗意与人生动画
 
+## 定风波 V3：谁怕？（分镜与预览）
+
+本轮将苏轼的处境带回词里：1079 年乌台诗案、1080 年贬居黄州、躬耕东坡与 1082 年沙湖遇雨。开头用“因诗入狱、被贬黄州，他凭什么说谁怕”引入，后半段用人物、天气与景别变化展开词意。
+
+仍为 120 秒，沿用《算力小曲》原速原调，无旁白。竹杖芒鞋的独立特写缩为 2.2 秒；删除画面右下角署名和片尾制作、配乐小字，重做 36 个音效落点。
+
+[V3 分镜与文案](./dingfengbo-v2/docs/V3_STORYBOARD.md) · [V3 音效说明](./dingfengbo-v2/docs/AUDIO_V3.md)
+
+**[直接下载 V3 预览 MP4](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/dingfengbo-v3-review-20261014/review-v3/dingfengbo-v3-preview.mp4)** · **[查看分镜总览](./review-v3/storyboard.jpg)** · **[下载本分支完整工程 ZIP](https://github.com/rapleybellflower642-creator/my-project/archive/refs/heads/dingfengbo-v3-review-20261014.zip)**
+
+预览为 120 秒、960×540、30 fps，约 8.9 MB，包含音乐和音效。完整解码、音频指标与浏览器播放检查均通过，见 [文件校验](./review-v3/validation.json) 和 [播放检查](./review-v3/browser-check.json)。
+
+V3 在已有 `dingfengbo-v2/` 工程中编辑。运行 `npm ci`、`npm run studio`，选择 **DingFengBoV3**；`V3-Scenes` 可逐段查看。运行 `npm run preview:v3` 可生成 `out/v3/dingfengbo-v3-preview.mp4`（960×540 审阅副本）及关键帧。正式成片仍待审阅，本轮没有替换下方 V2 文件。
+
 ## 定风波 V2：风雨有时，脚步由你
 
 以苏轼《定风波》为线索的两分钟物件图解动画。新版使用墨黑、香槟金与玉青：三维竹杖和芒鞋、1440 根纤维组成的蓑衣、金线声纹、天气波带与纵深展开，讲述面对人生变化时如何选择回应、走稳脚步、照顾自己。
 
 ![《定风波》V2 封面](./dingfengbo-v2-cover.png)
 
-**[打开新版 MP4](./dingfengbo-v2.mp4)** · **[直接下载新版](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/video-download-20261014/dingfengbo-v2.mp4)** · **[可编辑 Remotion 工程](./dingfengbo-v2/)** · **[封面原图](./dingfengbo-v2-cover.png)**
+**[打开 V2 MP4](./dingfengbo-v2.mp4)** · **[直接下载 V2](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/video-download-20261014/dingfengbo-v2.mp4)** · **[可编辑 Remotion 工程](./dingfengbo-v2/)** · **[封面原图](./dingfengbo-v2-cover.png)**
 
 - 120 秒，1920 × 1080，30 fps，3600 帧，H.264 / AAC。
 - 沿用用户提供的《算力小曲》前 120 秒，保持原速原音高；主要接触动作和场景展开按音乐节奏安排。

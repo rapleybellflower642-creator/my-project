@@ -63,7 +63,6 @@ export const SceneShell:React.FC<Props>=({index,start,duration,chapter,poem,card
    return <div key={i} style={{position:'absolute',left:150,right:150,bottom:91,textAlign:'center',fontFamily:SERIF,fontSize:46,lineHeight:1.52,letterSpacing:2.4,color:PALETTE.ivory,opacity:a,translate:`0 ${9*(1-a)}px`,textShadow:'0 2px 12px #050809'}}>{card.lines.map((line,j)=><div key={j}>{line}</div>)}</div>;
   })}
   {!ending&&<div style={{position:'absolute',left:122,right:122,bottom:49,height:1,background:'rgba(200,181,139,.13)'}}><div style={{width:`${globalFrame/3600*100}%`,height:1,background:PALETTE.gold,opacity:.62}}/></div>}
-  {!ending&&<div style={{position:'absolute',right:122,bottom:64,color:'#978b73',fontFamily:SANS,fontSize:17,letterSpacing:2,opacity:.65}}>东坡词意 · 人生的步调</div>}
   {index>0&&frame<13&&<div style={{position:'absolute',top:-250,bottom:-250,left:-160+frame*175,width:70,background:'linear-gradient(90deg,transparent,rgba(220,191,127,.25),transparent)',rotate:'-24deg',opacity:(1-frame/13)*.6,filter:'blur(16px)'}}/>}
  </AbsoluteFill>;
 };
