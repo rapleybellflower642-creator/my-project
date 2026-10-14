@@ -1,3 +1,9 @@
+# 最新：V3 黑金节奏版
+
+120秒、1080p30、52个音乐镜头。Studio选择 **DingFengBoV3Pulse**，运行 `npm run prepare:v3p`、`npm run render:v3p`。
+
+[制作与导出说明](./docs/v3-pulse/README.md) · [完整成片下载](../film-v3-pulse/README.md)
+
 ## 最新：V3 黑金图解版
 
 120秒完整1080p成片，按用户新提供的黑金分镜参考重做：三维物件、动态图解、字幕与音乐音效，无旁白。Studio选择 **DingFengBoV3Gold**。

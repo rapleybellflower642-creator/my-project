@@ -22,13 +22,18 @@
     "prepare:v3g": "node scripts/v3g/prepare.cjs",
     "sample:v3g": "node scripts/v3g/render.cjs --sample --jobs 3",
     "render:v3g": "node scripts/v3g/render.cjs --full --jobs 3",
-    "verify:v3g": "python3 scripts/v3g/verify.py"
+    "verify:v3g": "python3 scripts/v3g/verify.py",
+    "prepare:v3p": "node scripts/v3p/prepare.cjs",
+    "sample:v3p": "node scripts/v3p/render.cjs --sample --jobs 3",
+    "render:v3p": "node scripts/v3p/render.cjs --full --jobs 3",
+    "verify:v3p": "python3 scripts/v3p/verify.py"
   },
   "dependencies": {
     "@react-three/fiber": "9.4.0",
     "@remotion/captions": "4.0.535",
     "@remotion/cli": "4.0.535",
     "@remotion/media": "4.0.535",
+    "@remotion/paths": "4.0.535",
     "@remotion/renderer": "4.0.535",
     "@remotion/three": "4.0.535",
     "@remotion/transitions": "4.0.535",

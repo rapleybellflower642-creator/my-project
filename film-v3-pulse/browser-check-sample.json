@@ -1,0 +1,217 @@
+{
+  "status": "passed",
+  "deliverable": "V3 pulse sample (1080p)",
+  "browser": "Chromium",
+  "browser_executable": "/usr/bin/chromium",
+  "started_at": "2026-10-14T14:30:04.424Z",
+  "sha256": "06bf15cd3a118a1c2f11c363dbf0f1dc7037ce4187f50e3287b07ce33aa83dd1",
+  "expected": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 900,
+    "duration": 30
+  },
+  "mode": "sample",
+  "source_ranges": [
+    [
+      0,
+      10
+    ],
+    [
+      40,
+      50
+    ],
+    [
+      70,
+      80
+    ]
+  ],
+  "viewport": {
+    "width": 960,
+    "height": 540,
+    "deviceScaleFactor": 1
+  },
+  "metadata": {
+    "duration": 30,
+    "width": 1920,
+    "height": 1080,
+    "readyState": 4,
+    "muted": true,
+    "error": null,
+    "duration_error_seconds": 0
+  },
+  "seeks": [
+    {
+      "target_seconds": 0.5,
+      "status": "passed",
+      "time": 0.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 23,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 23,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-01-0.500.jpg"
+    },
+    {
+      "target_seconds": 5,
+      "status": "passed",
+      "time": 5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 57,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 57,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-02-5.000.jpg"
+    },
+    {
+      "target_seconds": 9.5,
+      "status": "passed",
+      "time": 9.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 106,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 106,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-03-9.500.jpg"
+    },
+    {
+      "target_seconds": 10.5,
+      "status": "passed",
+      "time": 10.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 125,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 125,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-04-10.500.jpg"
+    },
+    {
+      "target_seconds": 15,
+      "status": "passed",
+      "time": 15,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 159,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 159,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-05-15.000.jpg"
+    },
+    {
+      "target_seconds": 19.5,
+      "status": "passed",
+      "time": 19.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 208,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 208,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-06-19.500.jpg"
+    },
+    {
+      "target_seconds": 20.5,
+      "status": "passed",
+      "time": 20.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 227,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 227,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-07-20.500.jpg"
+    },
+    {
+      "target_seconds": 25,
+      "status": "passed",
+      "time": 25,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 261,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 261,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-08-25.000.jpg"
+    },
+    {
+      "target_seconds": 29.5,
+      "status": "passed",
+      "time": 29.5,
+      "readyState": 4,
+      "error": null,
+      "decoded_frames": 310,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "total_frames": 310,
+      "dropped_frames": 0,
+      "screenshot": "playback-check-sample/seek-09-29.500.jpg"
+    }
+  ],
+  "playback": [
+    {
+      "target_seconds": 1,
+      "requested_sample_ms": 3000,
+      "status": "passed",
+      "start": 1.005894,
+      "end": 3.04,
+      "advanced_seconds": 2.034106,
+      "measured_wall_seconds": 3.2175,
+      "decoded_frames_before": 344,
+      "decoded_frames_after": 402,
+      "decoded_frames_during_playback": 58,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "dropped_frames_total": 7,
+      "muted": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "target_seconds": 13,
+      "requested_sample_ms": 3000,
+      "status": "passed",
+      "start": 13.00651,
+      "end": 15.286176,
+      "advanced_seconds": 2.279665999999999,
+      "measured_wall_seconds": 3.0112000000029804,
+      "decoded_frames_before": 437,
+      "decoded_frames_after": 506,
+      "decoded_frames_during_playback": 69,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "dropped_frames_total": 10,
+      "muted": true,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "target_seconds": 25,
+      "requested_sample_ms": 3000,
+      "status": "passed",
+      "start": 25.008181,
+      "end": 26.982673,
+      "advanced_seconds": 1.974491999999998,
+      "measured_wall_seconds": 3.0029000000059605,
+      "decoded_frames_before": 541,
+      "decoded_frames_after": 598,
+      "decoded_frames_during_playback": 57,
+      "decoded_frame_counter": "webkitDecodedFrameCount",
+      "dropped_frames_total": 23,
+      "muted": true,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "cleanup_errors": [],
+  "subjective_listening_checked": false,
+  "subjective_visual_review_checked": false,
+  "note": "Muted browser playback checks seeking and decoding. Screenshots are captured, not subjectively reviewed. Encoded fps and frame count are checked by the separate media verifier.",
+  "file": "dingfengbo-v3-pulse-sample.mp4",
+  "file_path": "/workspace/my-project/dingfengbo-v2/out/v3p/dingfengbo-v3-pulse-sample.mp4",
+  "stage": "complete",
+  "bytes": 14105875,
+  "browser_launch_timeout_ms": 120000,
+  "finished_at": "2026-10-14T14:30:41.955Z"
+}

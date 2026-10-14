@@ -1,0 +1,57 @@
+{
+  "version": "V3 Pulse",
+  "file": "dingfengbo-v3-pulse.mp4",
+  "duration_seconds": 120,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 3600,
+  "shot_count": 52,
+  "caption_count": 26,
+  "sound_effect_count": 48,
+  "mean_shot_duration_seconds": 2.3076923076923075,
+  "shot_duration_seconds_range": [
+    1.5,
+    3.566666666666667
+  ],
+  "cut_alignment": {
+    "nonopening_cuts": 51,
+    "max_detected_music_onset_offset_ms": 15.0,
+    "note": "Detected spectral onsets do not all represent musical downbeats."
+  },
+  "bytes": 40371178,
+  "sha256": "54a44414db7a60ea022b4028cca483cfdae70aa483da99ab05b95b367de04b55",
+  "integrated_lufs": -15.13,
+  "true_peak_dbtp": -1.78,
+  "technical_validation": "validation.json",
+  "browser_validation": "browser-check.json",
+  "cut_frame_measurement": "motion-check.json",
+  "render_record": "full-record.json",
+  "storyboard": "storyboard.jpg",
+  "sample": {
+    "file": "dingfengbo-v3-pulse-sample.mp4",
+    "seconds": 30,
+    "source_ranges": [
+      [
+        0,
+        10
+      ],
+      [
+        40,
+        50
+      ],
+      [
+        70,
+        80
+      ]
+    ],
+    "sha256": "06bf15cd3a118a1c2f11c363dbf0f1dc7037ce4187f50e3287b07ce33aa83dd1"
+  },
+  "visual_review": {
+    "method": "52 source-rendered midpoint stills and 52 actual MP4 midpoint frames inspected; selected cut-adjacent frames measured separately.",
+    "limitations": "Static inspection and muted browser playback do not replace continuous subjective audiovisual review."
+  },
+  "subjective_listening_checked": false,
+  "source_audio": "算力小曲, original speed and pitch, first 120 seconds; source is longer than this film so no loop boundary is needed.",
+  "created_at_utc": "2026-10-14T14:34:52.569851+00:00"
+}

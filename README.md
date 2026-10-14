@@ -1,5 +1,13 @@
 # 诗意与人生动画
 
+## 定风波 V3 黑金节奏版（完整成片）
+
+针对上一版慢、空与背景竖向接缝重做：**120秒、1080p30、52镜头、48处音效，无旁白**。镜头平均2.31秒，主要切点对齐《算力小曲》的实际起音；字幕保持可读时长，音乐原速原调。
+
+**[下载节奏版完整MP4](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/dingfengbo-v3-pulse-20261014/film-v3-pulse/dingfengbo-v3-pulse.mp4)** · [52格成片分镜](./film-v3-pulse/storyboard.jpg) · [可编辑工程ZIP](https://github.com/rapleybellflower642-creator/my-project/archive/refs/heads/dingfengbo-v3-pulse-20261014.zip)
+
+Studio选择 **DingFengBoV3Pulse**。[工程与制作说明](./dingfengbo-v2/docs/v3-pulse/README.md) · [交付检查记录](./film-v3-pulse/README.md)。
+
 ## 定风波 V3 黑金图解版（完整成片）
 
 依据提供的《运气的形状》分镜参考重做，**120秒、1920×1080、30fps、无旁白**。黑金空间、原创三维物件与金线动态图解共同讲述苏轼的处境和词意，配乐为《算力小曲》，加入25处动作音效。
