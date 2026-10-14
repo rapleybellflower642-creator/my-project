@@ -1,5 +1,13 @@
 # 诗意与人生动画
 
+## 定风波 V3 重做版：谁怕？（完整成片）
+
+按确认的详细提示词重做，**120 秒、1920×1080、30 fps**，无旁白。重点改进分词动效、人物接地步态、耕作与回首动作、景别和冷暖变化；保留《算力小曲》原速原调及 26 处精选音效。
+
+**[下载 V3 重做完整视频](https://github.com/rapleybellflower642-creator/my-project/raw/refs/heads/dingfengbo-v3-remake-20261014/film-v3-remake/dingfengbo-v3-remake.mp4)** · [分镜总览](./film-v3-remake/storyboard.jpg) · [25秒动效样段](./film-v3-remake/dingfengbo-v3-remake-sample.mp4) · [完整工程 ZIP](https://github.com/rapleybellflower642-creator/my-project/archive/refs/heads/dingfengbo-v3-remake-20261014.zip)
+
+工程目录仍为 `dingfengbo-v2/`，Studio 选择 **DingFengBoV3Remake**。[编辑与导出说明](./dingfengbo-v2/docs/v3-remake/README.md) · [分镜文案](./dingfengbo-v2/docs/v3-remake/STORYBOARD.md)。
+
 ## 定风波 V4：雨里，也能慢慢走（完整长片）
 
 依据本次长文案重新制作，**9 分 54 秒、1920×1080、30 fps**。119 个字幕镜头、14 章、41 种历史与现代场景；字幕、分层插画动画、配乐与音效，无旁白。本次上传的《算力小曲》保持原速循环，覆盖全片。

@@ -1,10 +1,16 @@
+## 最新：V3 重做版
+
+120 秒完整 1080p 成片，按确认提示词重新设计文字和人物动作。Studio 选择 **DingFengBoV3Remake**。
+
+[制作与导出](./docs/v3-remake/README.md) · [分镜与文案](./docs/v3-remake/STORYBOARD.md) · [成片交付](../film-v3-remake/README.md)
+
 # 定风波：风雨有时，脚步由你
 
-> 当前最新版是 **DingFengBoV4**：根据完整新文案制作的 9 分 54 秒、1080p 长片，无旁白，循环配乐。请先看 [V4 操作与导出说明](docs/V4_README.md) 和 [完整分镜](docs/V4_STORYBOARD.md)。`npm run render:v4` 导出完整版；下文保留 V3／V2 的历史说明。
+> 历史 V4 长片为 **DingFengBoV4**：根据完整长文案制作，9 分 54 秒、1080p，无旁白，循环配乐。见 [V4 操作与导出说明](docs/V4_README.md) 和 [完整分镜](docs/V4_STORYBOARD.md)。`npm run render:v4` 导出该版本；下文保留 V3／V2 的历史说明。
 
 > 本工程已新增 **DingFengBoV3** 审阅合成。新版以苏轼生平和遇雨处境组织故事，保留两分钟和原配乐，增加人物及环境变化，去除指定署名小字。见 [V3 分镜与运行说明](docs/V3_STORYBOARD.md) 和 [V3 音效说明](docs/AUDIO_V3.md)。
 
-## 当前 V3 审阅入口
+## 旧版 V3 审阅入口
 
 在本目录执行 `npm ci`、`npm run studio`，选择 **DingFengBoV3** 或 **V3-Scenes** 中的单独章节。完整工程合成为 1920×1080、30 fps、120 秒，包含音乐与音效，无旁白。
 

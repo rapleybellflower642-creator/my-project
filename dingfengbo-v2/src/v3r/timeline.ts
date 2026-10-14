@@ -1,0 +1,43 @@
+export const FPS=30;
+export const DURATION=120;
+export const CHAPTERS=[
+ {id:'hook',title:'他凭什么说谁怕',from:0,to:7},
+ {id:'exile',title:'贬居黄州',from:7,to:18},
+ {id:'cultivate',title:'躬耕东坡',from:18,to:28},
+ {id:'rain',title:'沙湖遇雨',from:28,to:38},
+ {id:'listen',title:'莫听',from:38,to:49},
+ {id:'walk',title:'吟啸徐行',from:49,to:59},
+ {id:'light',title:'轻胜马',from:59,to:68},
+ {id:'who',title:'谁怕',from:68,to:80},
+ {id:'cold',title:'微冷',from:80,to:88},
+ {id:'sun',title:'斜阳相迎',from:88,to:97},
+ {id:'return',title:'回首归去',from:97,to:111},
+ {id:'ending',title:'也无风雨也无晴',from:111,to:120},
+] as const;
+export type ChapterId=typeof CHAPTERS[number]['id'];
+export const TEXT_CUES=[
+ {from:.15,to:1.95,text:'因诗入狱。'},
+ {from:2.1,to:3.78,text:'被贬黄州。'},
+ {from:3.95,to:7,text:'他凭什么说：谁怕？'},
+ {from:7.3,to:11,text:'1080年，苏轼贬居黄州。'},
+ {from:11.4,to:17.8,text:'有官衔，却不得签署公事。'},
+ {from:18.25,to:23.3,text:'生活困顿，他躬耕东坡。'},
+ {from:23.9,to:27.8,text:'也在这里，慢慢安顿自己。'},
+ {from:28.2,to:32.9,text:'1082年，三月七日，沙湖道中。'},
+ {from:33.25,to:37.85,text:'雨具先去，同行皆狼狈。'},
+ {from:38.25,to:43.4,text:'莫听穿林打叶声。'},
+ {from:44,to:48.8,text:'外界越喧闹，越要稳住自己的心。'},
+ {from:49.15,to:54.7,text:'何妨吟啸且徐行。'},
+ {from:55.1,to:58.85,text:'难关，还得一步一步走过去。'},
+ {from:59.1,to:64.25,text:'竹杖芒鞋轻胜马。'},
+ {from:64.6,to:67.85,text:'行装简朴，心也可以轻一些。'},
+ {from:68.5666667,to:70.7333333,text:'谁怕？'},
+ {from:70.7666667,to:79.85,text:'一蓑烟雨任平生。'},
+ {from:80.15,to:84.7,text:'料峭春风吹酒醒，微冷。'},
+ {from:85,to:87.9,text:'从容的人，也会觉得冷。'},
+ {from:88.7,to:96.85,text:'山头斜照却相迎。'},
+ {from:97.2,to:102,text:'回首向来萧瑟处。'},
+ {from:102.3,to:105,text:'归去。'},
+ {from:105.3,to:110.8,text:'走过的风雨，不必继续困住此刻的自己。'},
+ {from:111.4,to:119.8,text:'也无风雨也无晴。'},
+] as const;

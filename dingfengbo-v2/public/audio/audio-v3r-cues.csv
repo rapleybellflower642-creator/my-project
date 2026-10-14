@@ -1,0 +1,27 @@
+frame,seconds,sample,sound_start_frame,sound_start_sample,name,material,gain_linear,pan,pre_roll_frames,sound_duration_seconds,sync_basis
+12,0.4,19200,12,19200,诗案卷纤维,paper fiber,0.09,-0.16,0,0.55,opening source onset 0.405 s
+33,1.1,52800,33,52800,牢门落闩,wood body / small metal latch,0.24,0.04,0,0.95,visual latch contact at 1.10 s
+96,3.2,153600,96,153600,贬舟掠水,hull / shallow water,0.103,-0.24,0,1.65,scene texture
+177,5.9,283200,177,283200,抬眼前衣领微动,close cloth,0.057,0.07,0,0.57,scene texture
+222,7.4,355200,222,355200,舟岸水退,water / river bank,0.086,-0.18,0,1.102,scene texture
+434,14.466667,694400,434,694400,简居檐下微风,quiet air,0.047,0.22,0,1.45,scene texture
+616,20.533333,985600,616,985600,锄头入土,wood shaft / granular dry soil,0.188,-0.11,0,0.9,visual hoe contact frame 616; 20.533333 s
+733,24.433333,1172800,733,1172800,案上纸页轻移,paper fiber,0.079,-0.16,0,0.55,scene texture
+793,26.433333,1268800,793,1268800,笔尖行过纸面,dry writing fiber,0.053,0.13,0,0.54,scene texture
+895,29.833333,1432000,895,1432000,沙湖雨来,rain / leaves,0.169,0.1,0,1.5,visual rain arrival frame 895; source onset 29.820 s
+1040,34.666667,1664000,1040,1664000,同行衣衫被雨打湿,wet cloth / close drops,0.094,0.24,0,0.96,scene texture
+1170,39.0,1872000,1170,1872000,穿林打叶近景,irregular leaf droplets,0.111,-0.22,0,1.4,scene texture
+1494,49.8,2390400,1494,2390400,吟啸徐行落脚,wet straw sole / soft soil,0.135,-0.12,0,0.72,"visual walk: chapter starts 49 s, foot contacts each 0.8 s"
+1566,52.2,2505600,1566,2505600,吟啸徐行落脚,wet straw sole / soft soil,0.116,0.11,0,0.72,"visual walk: chapter starts 49 s, foot contacts each 0.8 s"
+1686,56.2,2697600,1686,2697600,吟啸徐行落脚,wet straw sole / soft soil,0.105,-0.08,0,0.72,"visual walk: chapter starts 49 s, foot contacts each 0.8 s"
+1770,59.0,2832000,1770,2832000,竹杖点地,bamboo on damp ground,0.169,-0.17,0,0.38,visual close-up contact 59.0 s; close-up ends at 60.6 s
+1794,59.8,2870400,1794,2870400,芒鞋掠过浅水,straw sole / water,0.144,0.12,0,0.72,visual close-up foot contact 59.8 s
+2057,68.566667,3291200,2057,3291200,谁怕主落点,low body / muted wood edge,0.245,0,0,0.94,word/pose frame 2057; source onset 68.565 s
+2123,70.766667,3396800,2123,3396800,一蓑烟雨展开,woven cloak / broad air,0.116,-0.06,0,1.42,space expansion frame 2123; source bass onset 70.765 s
+2274,75.8,3638400,2274,3638400,雨珠滑过蓑衣,fine water beads / woven surface,0.078,0.17,0,1.2,scene texture
+2400,80.0,3840000,2400,3840000,料峭春风,soft cold air,0.086,-0.24,0,2.0,cold chapter begins at 80 s
+2436,81.2,3897600,2434,3894400,微冷拢袖收紧,close sleeve fiber,0.12,0.14,2,0.77,visual sleeve tightens at 81.2 s
+2661,88.7,4257600,2658,4252800,斜照越过山头,warm moving air,0.064,-0.13,3,1.45,visual sun clears mountain at 88.7 s
+2712,90.4,4339200,2710,4336000,暖光迎面,soft air,0.04,0.21,2,0.85,visual light reaches face at 90.4 s
+2970,99.0,4752000,2967,4747200,回首肩袖转过,cloth turn,0.079,0.06,3,0.84,"head turns at 97.5 s, shoulders complete at 99 s"
+3150,105.0,5040000,3150,5040000,归去向前一步,quiet dry straw sole,0.091,-0.08,0,0.72,visual departure footfall at 105 s

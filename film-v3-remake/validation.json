@@ -1,0 +1,149 @@
+{
+  "status": "passed",
+  "deliverable": "V3 remake full-HD complete film",
+  "file": "dingfengbo-v3-remake.mp4",
+  "source_path": "/workspace/my-project/dingfengbo-v2/out/v3r/dingfengbo-v3-remake.mp4",
+  "checked_at_utc": "2026-10-14T01:59:50.930993+00:00",
+  "expected": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 3600,
+    "duration_seconds": 120,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "duration_tolerance_seconds_exclusive": 0.05
+  },
+  "checks": {
+    "file": "passed",
+    "metadata": "passed",
+    "fast_start": "passed",
+    "full_decode": "passed",
+    "loudness": "passed",
+    "file_stability": "passed"
+  },
+  "full_audio_video_decode": "passed",
+  "fast_start": true,
+  "audio_limits": {
+    "integrated_lufs_min": -16,
+    "integrated_lufs_max": -14,
+    "true_peak_dbtp_max": -1
+  },
+  "subjective_listening_checked": false,
+  "subjective_visual_review_checked": false,
+  "note": "Technical file validation does not verify subjective sound balance, audiovisual synchronization, caption appearance or animation quality.",
+  "stage": "complete",
+  "bytes": 27884012,
+  "sha256": "5a85fa6bf142e577824ca802f989d0796f6f198db092db84039195fe5fac1b2e",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "duration": "120.000000",
+        "nb_frames": "3600"
+      },
+      {
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "duration": "120.000000",
+        "nb_frames": "5626"
+      }
+    ],
+    "format": {
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "duration": "120.000000",
+      "size": "27884012"
+    }
+  },
+  "video": {
+    "codec_name": "h264",
+    "profile": "High",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "duration": "120.000000",
+    "nb_frames": "3600"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "profile": "LC",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "channel_layout": "stereo",
+    "r_frame_rate": "0/0",
+    "avg_frame_rate": "0/0",
+    "duration": "120.000000",
+    "nb_frames": "5626"
+  },
+  "container": {
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "duration": "120.000000",
+    "size": "27884012"
+  },
+  "duration_errors_seconds": {
+    "video": 0.0,
+    "audio": 0.0,
+    "container": 0.0
+  },
+  "audio_video_duration_difference_seconds": 0.0,
+  "top_level_atoms": [
+    {
+      "name": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "name": "moov",
+      "offset": 32,
+      "size": 133477
+    },
+    {
+      "name": "free",
+      "offset": 133509,
+      "size": 8
+    },
+    {
+      "name": "mdat",
+      "offset": 133517,
+      "size": 27750495
+    }
+  ],
+  "decoded_video_frames": 3600,
+  "loudness_measurement": {
+    "input_i": "-15.14",
+    "input_tp": "-1.78",
+    "input_lra": "2.10",
+    "input_thresh": "-25.16",
+    "output_i": "-15.32",
+    "output_tp": "-1.92",
+    "output_lra": "1.80",
+    "output_thresh": "-25.33",
+    "normalization_type": "dynamic",
+    "target_offset": "0.32"
+  },
+  "integrated_lufs": -15.14,
+  "true_peak_dbtp": -1.78,
+  "loudness_range_lu": 2.1
+}

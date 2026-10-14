@@ -1,0 +1,16 @@
+const fs=require('node:fs');
+const path=require('node:path');
+const {buildSync}=require('esbuild');
+const root=path.resolve(__dirname,'../..');
+require('node:child_process').execFileSync(process.execPath,[path.join(__dirname,'paper.cjs')],{stdio:'inherit'});
+const out=path.join(root,'out/v3r');fs.mkdirSync(out,{recursive:true});
+buildSync({entryPoints:[path.join(root,'src/v3r/timeline.ts')],outfile:path.join(out,'timeline.cjs'),bundle:true,platform:'node',format:'cjs'});
+const {CHAPTERS,TEXT_CUES,FPS,DURATION}=require(path.join(out,'timeline.cjs'));
+const dest=path.join(root,'public/v3r');fs.mkdirSync(dest,{recursive:true});
+const captions=TEXT_CUES.map(c=>({text:c.text,startMs:Math.round(c.from*1000),endMs:Math.round(c.to*1000),timestampMs:Math.round(c.from*1000),confidence:null}));
+const time=ms=>{const x=Math.round(ms);return `${String(Math.floor(x/3600000)).padStart(2,'0')}:${String(Math.floor(x/60000)%60).padStart(2,'0')}:${String(Math.floor(x/1000)%60).padStart(2,'0')},${String(x%1000).padStart(3,'0')}`;};
+fs.writeFileSync(path.join(dest,'captions.json'),JSON.stringify(captions,null,2)+'\n');
+fs.writeFileSync(path.join(dest,'captions.srt'),captions.map((c,i)=>`${i+1}\n${time(c.startMs)} --> ${time(c.endMs)}\n${c.text}\n`).join('\n'));
+fs.writeFileSync(path.join(dest,'timeline.json'),JSON.stringify({fps:FPS,width:1920,height:1080,durationInFrames:DURATION*FPS,totalSeconds:DURATION,chapters:CHAPTERS.map(c=>({...c,fromFrame:Math.round(c.from*FPS),durationInFrames:Math.round((c.to-c.from)*FPS)})),captions},null,2)+'\n');
+fs.writeFileSync(path.join(root,'docs/v3-remake/STORYBOARD.md'),'# V3 重做版：谁怕\n\n120秒／1080p／30fps。字幕与动画，无旁白。\n\n| 时间 | 章节 |\n|---|---|\n'+CHAPTERS.map(c=>`| ${c.from}–${c.to}秒 | ${c.title} |`).join('\n')+'\n\n## 屏幕文案\n\n'+TEXT_CUES.map(c=>`- ${c.from.toFixed(2)}–${c.to.toFixed(2)}秒：${c.text}`).join('\n')+'\n');
+console.log('Prepared 120-second V3 remake timeline and 24 caption cues.');

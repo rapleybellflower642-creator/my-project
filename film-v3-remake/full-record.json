@@ -1,0 +1,514 @@
+{
+  "mode": "full",
+  "fixture": false,
+  "createdAt": "2026-10-14T01:59:35.726Z",
+  "source": {
+    "bundle": "/workspace/my-project/dingfengbo-v2/out/v3r/Frame.bundle.cjs",
+    "sourceHash": "016f0623d6330fef8dd8152dea331c293bfe0901f4849f84d6bea93a1fc2d1ea",
+    "inputs": [
+      {
+        "file": "src/v3r/Character.tsx",
+        "sha256": "bf4d9bb21e7197607d1a0ffd0f1f8f03202d165b0ebc6e9ceeb23fab3447639b"
+      },
+      {
+        "file": "src/v3r/Environment.tsx",
+        "sha256": "56cd29f32242ae36f129b44959a5fc261cf7b6c08c07b2714a0fa38ceea10e45"
+      },
+      {
+        "file": "src/v3r/Frame.tsx",
+        "sha256": "0addd924f5e44c0cc717c9b937995da1a2dd05932b630cfe9ed223ee78322fdc"
+      },
+      {
+        "file": "src/v3r/Typography.tsx",
+        "sha256": "02d56155a2bf9e75cf63c357c438250c7e8aa9c3408976bd3c13ac02db1bdd8a"
+      },
+      {
+        "file": "src/v3r/paper-data.ts",
+        "sha256": "eddb0b134e819c5135b62c958ba2ee6d96a356b46c6e8d862e5b566e21eeb9bf"
+      },
+      {
+        "file": "src/v3r/timeline.ts",
+        "sha256": "243b24175eb4c465ba074c8372f51b665909d4dc6432cf8d9f153acf4ab124fe"
+      }
+    ],
+    "bundleHash": "cd483ed5db70a1f518de5da8e9dd277026a5ebe0260978bf83083319cdb4d50a"
+  },
+  "fonts": {
+    "files": {
+      "Serif": {
+        "sourceHash": "5548fb64f2462858d1a926f63f48a9c1ef25a7a39121433d305af027eeb23eb5",
+        "ttfHash": "588d8ec4e2de629705e3d70c293b72acefc2cafc84a65030b4130a950655b22f"
+      },
+      "Sans": {
+        "sourceHash": "ca22283fb67a4fd0b17f47f0ffd64c7a10af93457385969921a12a2db2e0ed6c",
+        "ttfHash": "6dc8cd7d0d267ea2998e6d57fc8b9f95f6b5f9bcb41903daf70e635dd4ba5f72"
+      }
+    },
+    "families": {
+      "Noto Serif CJK SC": "/workspace/my-project/dingfengbo-v2/out/v4/fonts/Serif.ttf",
+      "Noto Sans CJK SC": "/workspace/my-project/dingfengbo-v2/out/v4/fonts/Sans.ttf"
+    }
+  },
+  "audio": {
+    "file": "/workspace/my-project/dingfengbo-v2/public/audio/soundtrack-v3r.m4a",
+    "sha256": "c8c9fb5a7bf05732379bedf6bebe506898777a8153d31fd0272cbe51ce3cce9a"
+  },
+  "sourceRanges": [
+    [
+      0,
+      10
+    ],
+    [
+      10,
+      20
+    ],
+    [
+      20,
+      30
+    ],
+    [
+      30,
+      40
+    ],
+    [
+      40,
+      50
+    ],
+    [
+      50,
+      60
+    ],
+    [
+      60,
+      70
+    ],
+    [
+      70,
+      80
+    ],
+    [
+      80,
+      90
+    ],
+    [
+      90,
+      100
+    ],
+    [
+      100,
+      110
+    ],
+    [
+      110,
+      120
+    ]
+  ],
+  "frames": 3600,
+  "durationSeconds": 120,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds": 650.431,
+  "jobs": 3,
+  "crf": 18,
+  "output": "/workspace/my-project/dingfengbo-v2/out/v3r/dingfengbo-v3-remake.mp4",
+  "outputBytes": 27884012,
+  "outputSha256": "5a85fa6bf142e577824ca802f989d0796f6f198db092db84039195fe5fac1b2e",
+  "chunks": [
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/0000-0300-e7dec401f7bbf9fa.mp4",
+      "cacheHit": false,
+      "cacheKey": "e7dec401f7bbf9fa3e509f7b4993eaa72c49faddebdb2dab46fc55ce3fd4f275",
+      "svgHash": "0551cb18caffdca8c85d7444d7b9abb6663625c2c8ea12deeda47e8dbccfac1b",
+      "startFrame": 0,
+      "endFrameExclusive": 300,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 163.954,
+      "bytes": 1653882,
+      "fileHash": "3eac774913db4d1816d48ccbf7d19a8b6b0083fb52c5363924d5c34aed397dc8",
+      "pixelSequenceHash": "f919ce01980599f560902372096ed5b7afcc0b4e926eed6de21d9ac12c3b3a0c",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "1023d3044cded39d971a6a9968b7beacf2c8c7aee68005d0beb888567daaf843",
+      "lastPixelHash": "44aa89a7173d6a5bd8761bac1f71fa6efb6316d691056d74ac1165ce468eaed4",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/0300-0600-6a7ab179376fcfe7.mp4",
+      "cacheHit": false,
+      "cacheKey": "6a7ab179376fcfe75bbf58f48b96fac3bb4ef82463582c264afc8c04a074ca6d",
+      "svgHash": "bd6a384f74d72ae0ae34a8ac27f1456c2472e1646c2f16a756f2ae702894310d",
+      "startFrame": 300,
+      "endFrameExclusive": 600,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 128.58,
+      "bytes": 1294957,
+      "fileHash": "6ba19af0085f01806752c7aeb22b2a97774857fa53dcd013a327159b1c4f9a32",
+      "pixelSequenceHash": "1d5293cabf28db7754ba3c2c5f688863805a29f2644c7d69b77f26191503dfbf",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "f57485ab26c7fe768937f5766157ff8644f5d3aca01c2a2c3a382baa29e01267",
+      "lastPixelHash": "3724b70eeac7ea4e076b7883cdf9b30f89623ba67553de6e1e8d8659e973d0ae",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/0600-0900-e8b1d0a01a668b0d.mp4",
+      "cacheHit": false,
+      "cacheKey": "e8b1d0a01a668b0d033d9c2eba89c64166f8aeacd58fb750dee1c4b738573bf0",
+      "svgHash": "c3d9d9cef5fb90cfe405c50a3a249f02fca6cf8ef36a296996fd969377ce1b47",
+      "startFrame": 600,
+      "endFrameExclusive": 900,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 138.375,
+      "bytes": 1659979,
+      "fileHash": "17d520b4058557dea3ddc087d024e558dc8f99c6425e417d041354a4f2fd2752",
+      "pixelSequenceHash": "103d9979451d73ef0a7d9fe7b58b5eb4ae4fecac40fd149e038297fdefe31da4",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "2fa2cc6d952155ba12418919cbbeee61e2f2e9fb261839bf92f036d17debf5ae",
+      "lastPixelHash": "819f5b559995bda79f0523933762f3512f3f54cf53b61e96787c365129277370",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/0900-1200-1580d58c3c3c9c5d.mp4",
+      "cacheHit": false,
+      "cacheKey": "1580d58c3c3c9c5d3e53b246585a18641ed71ae9538fa8c55a28314b66849bad",
+      "svgHash": "a3e9585a088e2b1558539793879f2110d17dfe9049711f96e8b265b5e5cbac9f",
+      "startFrame": 900,
+      "endFrameExclusive": 1200,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 168.414,
+      "bytes": 2529796,
+      "fileHash": "6e8712aa01f9b83ca2d7e52c8dc4499fe7459a6edb888fe2c35be8bc69d5e9a8",
+      "pixelSequenceHash": "6f1289458cf0a6c2ef960eb5700c933c89eaa2e48d7de1535252d0f108aa04ac",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "6a886c281249bcc10a9f92fef01996f58cc3681b0249ec005badb97f14e8ec4d",
+      "lastPixelHash": "7bb2968738c60fa45306a815e704666e7c4d9322384f5cfa4da1abbc1e338d85",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/1200-1500-8ad7dc79dce99967.mp4",
+      "cacheHit": false,
+      "cacheKey": "8ad7dc79dce99967bb409139a51dcf2e1efd84b77bd8b54b3e7ad3922e12591b",
+      "svgHash": "0fa3c7b2e8cd5204f2e80d0b7759c5da2d81530f258627ec2c6e024c90fa8eab",
+      "startFrame": 1200,
+      "endFrameExclusive": 1500,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 159.07,
+      "bytes": 2456233,
+      "fileHash": "7377153c545326a3dea28247b5b44c3a16d7eb4054dd73bdd44e29dc60b40450",
+      "pixelSequenceHash": "ffb320abd31dafdc56546b6c18b201d9092f3a3f4cb554a74a8b769e9842dc24",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "a0e3f98a0232abb68685d992c082fad9122a7b92a83fb157b1c5bc0fc68772a2",
+      "lastPixelHash": "2fbca64771910ffe79457059c2427467e4e0304382a8170628e2154c18b8dc07",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/1500-1800-4fc206185c3b6529.mp4",
+      "cacheHit": false,
+      "cacheKey": "4fc206185c3b65296e595293afd88f2bbc14b5c789e9c9dc4079a0f39aec1e06",
+      "svgHash": "d8628c94655663f77bc7544730b7623bfcda9b77ff1c1ebad4fee40934d3b975",
+      "startFrame": 1500,
+      "endFrameExclusive": 1800,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 163.928,
+      "bytes": 2546818,
+      "fileHash": "f47bb0062e6735794a7210b7f38dfe75b7ceacbfb9aa271ab33f5791a46b4657",
+      "pixelSequenceHash": "5e5faf889f21cdc186963f29010888e74c9723d4323626cf80d8975c3da1b918",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "b7722a999982bbbdd47b3b2d4799efc6d758c305d14ad7954e5bd3fa208bd3a2",
+      "lastPixelHash": "c6bdea68c539e8f4498494cbae9c0eab642e6f58cce6f500c560e6acce9f1d92",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/1800-2100-7e390fa0440d15cb.mp4",
+      "cacheHit": false,
+      "cacheKey": "7e390fa0440d15cba972b95709dda03b4c25c0ecc5219c84569b61f8aa423732",
+      "svgHash": "ccfb8a0c0f3adae1e3ffd7a9937ae716f96de93dcafd95940adc1a8b45a2e320",
+      "startFrame": 1800,
+      "endFrameExclusive": 2100,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 171.365,
+      "bytes": 2151059,
+      "fileHash": "a194650297683f819ba9c52d9d11239e1eef4ad00f5ebfcb87658e2d660c24e3",
+      "pixelSequenceHash": "6d503ae875f777eeee559ef0082971e6d5e55a1e10a41465b883b60089968180",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "6c07cf5286f1060ed0f0d399d5eed8f45f18102b95ce9a4692ab20de61b3c5c5",
+      "lastPixelHash": "79753c3e013e3a6f64b2719f54837e022654a270548f2a12b12ae21afea6b6c5",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/2100-2400-d3b4a4733283fa8d.mp4",
+      "cacheHit": false,
+      "cacheKey": "d3b4a4733283fa8d7bdc87c644f141fb1508f6424cebd2aeb29c5b1251d23810",
+      "svgHash": "280554e1bcdde844a1bc7dff76a7664c2ad328355049d161f503dccc5afe0b0a",
+      "startFrame": 2100,
+      "endFrameExclusive": 2400,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 164.541,
+      "bytes": 2079106,
+      "fileHash": "866ec88f3e39bf07a26703659b00a770af2d79f816794ddcb2376710b0b69ab4",
+      "pixelSequenceHash": "3c0a9954ed47a90e8050510441a0235e0f0730988595bdbbfd2a39894290be2a",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "6b3d9dad96d69ed9f35c076f609334be07cd3106851ee76ad4090b798ebef14e",
+      "lastPixelHash": "29ab3118bed9d60eab23201b75ef2e566e6cca539dd6c2e26374bf46effac2cb",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/2400-2700-4b836998b17e3202.mp4",
+      "cacheHit": false,
+      "cacheKey": "4b836998b17e32023049577f9bcf09ddf23abd84b084b15b06cb16472801269d",
+      "svgHash": "6793b99665c790a0b59997b6d710d30b04be3ada01394f8eb0ab68ea5ed27d07",
+      "startFrame": 2400,
+      "endFrameExclusive": 2700,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 152.083,
+      "bytes": 2075546,
+      "fileHash": "0f53cb284855850905400a271f27e7115e3e55aa9b187861dfa069b6c5e8478e",
+      "pixelSequenceHash": "2a02aeeff83f81e4a929a27003ddb160544401f0a10780580583b3d2f1e78f21",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "7749cc65bcc38b3f24a37573b4cad9fa638d79706be44e6b57330ca81d01414f",
+      "lastPixelHash": "1984e68b57d91afe6993cefd7eba00208bbd818d2df65395eb0a6bb46c6df12a",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/2700-3000-2780d375f7e98dd0.mp4",
+      "cacheHit": false,
+      "cacheKey": "2780d375f7e98dd08e2513b017bbb70a3c5045ef4809226f641fac816668e100",
+      "svgHash": "14d1f27f3d2810822d5b91e303b738f0eab5a5ed664178410739dd1a197bb948",
+      "startFrame": 2700,
+      "endFrameExclusive": 3000,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 122.378,
+      "bytes": 1768397,
+      "fileHash": "4281f70f3c7ffdd09e9f11a9f444fdc41ce9d5d7aa980f0d880be07dffcc7436",
+      "pixelSequenceHash": "c8bb48fb2e09681ca6144c53539c57fb9ad7710dbe38580c991757210b6e6747",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "629ff0b46bfe9f3ede09f50be9cd2013e720cf1dfa5e92712d71edf0847055e5",
+      "lastPixelHash": "6278c591aa111cadc40b3fe76ec719e7a2366594d6df8dae58310a50a6ffc21a",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/3000-3300-16a49337fbabf766.mp4",
+      "cacheHit": false,
+      "cacheKey": "16a49337fbabf7665227a8b2bf992ece63f189a2cb9fdddfda2f8728659b6997",
+      "svgHash": "77d983b976b158afdce721a3f04b65262fc81d49bda5b6f2d688b3b06c0c8d95",
+      "startFrame": 3000,
+      "endFrameExclusive": 3300,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 120.781,
+      "bytes": 1606128,
+      "fileHash": "42a7f21a5774c15ff935b8bd86800e215c99e93c721b98253467aff89dcf65b0",
+      "pixelSequenceHash": "22846402ea95edc4404d5975bdb00846f67db00c4c8775d75c72c20a12bf5059",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "3698002ca6db709edfb79b5ff9b44f597567b8158d4b73f876a4fd0becc7c7bb",
+      "lastPixelHash": "dde8b4599a9efcd9dea6d54bdddb2e84424380d3a7f7efd8133750becd558a3b",
+      "duplicateFrameExamples": []
+    },
+    {
+      "file": "/workspace/my-project/dingfengbo-v2/out/v3r/chunks/3300-3600-8ecf4901cea94f7f.mp4",
+      "cacheHit": false,
+      "cacheKey": "8ecf4901cea94f7f010b61feec78779defd3601b408c00d59e2da5fb61433e93",
+      "svgHash": "1e6a9560b17e41f3ac2cbf6c084fe92e4a8ec44a73ec230e3c822d0f24fb8ad2",
+      "startFrame": 3300,
+      "endFrameExclusive": 3600,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "crf": 18,
+      "seconds": 141.874,
+      "bytes": 2053794,
+      "fileHash": "74ac87a073dde7dec6e8aa92ddc8e78aa0492fffd7c48e87931b10ae098da686",
+      "pixelSequenceHash": "1d45cedff4e0248989e478f2626ed6e4c3c951ff9894a9a1558ae6d280c1e29b",
+      "adjacentDuplicateFrames": 0,
+      "firstPixelHash": "9ee3b65a87c60588609e1046a99da95700a43dc14dd8a406a805120afb5e1e69",
+      "lastPixelHash": "dc72c554b207f8a7fd3466e81af8d6ada4b16b447c12ea159cf1c6fc786a8279",
+      "duplicateFrameExamples": []
+    }
+  ],
+  "repeatedChunkBoundaries": [],
+  "review": null,
+  "media": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1843200,
+        "duration": "120.000000",
+        "bit_rate": "1588321",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "3600",
+        "extradata_size": 50,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 5760000,
+        "duration": "120.000000",
+        "bit_rate": "261664",
+        "nb_frames": "5626",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/my-project/dingfengbo-v2/out/v3r/dingfengbo-v3-remake.34239.tmp.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "120.000000",
+      "size": "27884012",
+      "bit_rate": "1858934",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "定风波 · 逐帧动画重制",
+        "encoder": "Lavf61.7.103",
+        "comment": "Native SVG animation, 1920x1080, 30 fps"
+      }
+    }
+  }
+}

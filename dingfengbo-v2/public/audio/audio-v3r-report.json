@@ -1,0 +1,729 @@
+{
+  "version": "v3-remake",
+  "duration_seconds": 120,
+  "fps": 30,
+  "audio_samples": 5760000,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "voiceover": false,
+  "source": {
+    "file": "public/audio/bgm-v4-original.mp3",
+    "sha256": "ab1ebad4e3ced73fa0d7763e455f573976c243ff0b00e0b7e91a90a4e3debd05",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "duration": "192.456000",
+          "bit_rate": "128000"
+        }
+      ],
+      "format": {
+        "duration": "192.456000",
+        "size": "3079725",
+        "bit_rate": "128017"
+      }
+    },
+    "decoded_duration_seconds": 192.41379166666667,
+    "decoded_samples": 9235862,
+    "decoded_float32le_sha256": "523785503ec99b88a71eaf5b25f62f508da445efd0ee209ae948571642002101",
+    "used_source_start_seconds": 0.0,
+    "used_source_end_seconds": 120.0,
+    "playback_rate": 1.0,
+    "pitch_shift_semitones": 0,
+    "loops": 0,
+    "time_stretch_used": false,
+    "crossfades_or_source_edits": [],
+    "processing": "first 120 seconds at original speed/pitch; gain automation before mixing, then final loudness normalization; no source looping required"
+  },
+  "music_analysis": {
+    "method": "24 kHz mono analysis copy; 1024-sample Hann STFT; 120-sample hop (5 ms); positive log spectral flux weighted 65% 45–9500 Hz + 35% 45–260 Hz; autocorrelation and robust periodic fit",
+    "first_10ms_rms_above_minus60_dbfs_seconds": 0.4,
+    "first_strong_spectral_onset_seconds": 0.405,
+    "autocorrelation_tempo_candidates_bpm": [
+      109.091,
+      72.727,
+      62.5
+    ],
+    "fitted_pulse_bpm_candidate": 109.167481,
+    "fitted_subdivision_seconds": 0.27480711,
+    "fitted_phase_seconds": 0.41676,
+    "fit_median_absolute_error_seconds": 0.003492,
+    "sixteen_pulse_phrase_grid_candidates_seconds": [
+      0.417,
+      18.004,
+      35.592,
+      53.18,
+      70.767,
+      88.355,
+      105.943
+    ],
+    "climax_local_onset_candidates": [
+      {
+        "seconds": 67.2,
+        "spectral_flux_strength_relative": 0.2932,
+        "bass_flux_relative": 0.0599
+      },
+      {
+        "seconds": 67.475,
+        "spectral_flux_strength_relative": 0.447,
+        "bass_flux_relative": 0.0875
+      },
+      {
+        "seconds": 67.755,
+        "spectral_flux_strength_relative": 0.2472,
+        "bass_flux_relative": 0.2293
+      },
+      {
+        "seconds": 68.02,
+        "spectral_flux_strength_relative": 0.1891,
+        "bass_flux_relative": 0.1741
+      },
+      {
+        "seconds": 68.29,
+        "spectral_flux_strength_relative": 0.4596,
+        "bass_flux_relative": 0.1441
+      },
+      {
+        "seconds": 68.565,
+        "spectral_flux_strength_relative": 0.5421,
+        "bass_flux_relative": 0.1161
+      },
+      {
+        "seconds": 68.84,
+        "spectral_flux_strength_relative": 0.5199,
+        "bass_flux_relative": 0.2599
+      },
+      {
+        "seconds": 69.115,
+        "spectral_flux_strength_relative": 0.6038,
+        "bass_flux_relative": 0.1041
+      },
+      {
+        "seconds": 69.39,
+        "spectral_flux_strength_relative": 0.6363,
+        "bass_flux_relative": 0.1733
+      },
+      {
+        "seconds": 69.665,
+        "spectral_flux_strength_relative": 0.5839,
+        "bass_flux_relative": 0.1157
+      },
+      {
+        "seconds": 69.94,
+        "spectral_flux_strength_relative": 0.6362,
+        "bass_flux_relative": 0.1366
+      },
+      {
+        "seconds": 70.21,
+        "spectral_flux_strength_relative": 0.6195,
+        "bass_flux_relative": 0.079
+      },
+      {
+        "seconds": 70.49,
+        "spectral_flux_strength_relative": 0.585,
+        "bass_flux_relative": 0.1665
+      },
+      {
+        "seconds": 70.765,
+        "spectral_flux_strength_relative": 0.538,
+        "bass_flux_relative": 0.6244
+      }
+    ],
+    "recommended_anchors": [
+      {
+        "seconds": 0.405,
+        "purpose": "first musical attack; opening remains light"
+      },
+      {
+        "seconds": 18.0,
+        "purpose": "strong source entrance supports farming chapter"
+      },
+      {
+        "seconds": 20.533333,
+        "purpose": "hoe contact follows character, not nearest beat"
+      },
+      {
+        "seconds": 29.833333,
+        "purpose": "rain arrival; source onset 29.820"
+      },
+      {
+        "seconds": 49.8,
+        "purpose": "selected measured footfall at visual contact"
+      },
+      {
+        "seconds": 59.0,
+        "purpose": "cane close-up begins; contact at 59.0"
+      },
+      {
+        "seconds": 59.8,
+        "purpose": "shoe contact during 1.6-second close-up"
+      },
+      {
+        "seconds": 68.566667,
+        "purpose": "谁怕; source spectral onset 68.565; frame 2057"
+      },
+      {
+        "seconds": 70.766667,
+        "purpose": "一蓑烟雨 expands; source bass onset 70.765"
+      },
+      {
+        "seconds": 81.2,
+        "purpose": "sleeve gathers at character contact"
+      },
+      {
+        "seconds": 88.7,
+        "purpose": "sun clears mountain after 88.355 phrase candidate"
+      },
+      {
+        "seconds": 90.4,
+        "purpose": "warm light reaches face; restrained air only"
+      },
+      {
+        "seconds": 99.0,
+        "purpose": "shoulders complete turn"
+      },
+      {
+        "seconds": 105.0,
+        "purpose": "departure footfall; music flows into 105.943 phrase grid"
+      },
+      {
+        "seconds": 118.6,
+        "purpose": "1.4-second ending fade begins"
+      }
+    ],
+    "limitations": [
+      "Spectral onsets mark energy attacks, not verified metrical downbeats or semantic phrase boundaries.",
+      "Tempo has half/double/triplet metrical ambiguities; the phrase grid is an editing suggestion only.",
+      "5 ms analysis hop and the STFT window limit attack precision; animation contacts use exact 30 fps frames.",
+      "No subjective listening, headphone review, or visual sync playback is claimed by this report."
+    ]
+  },
+  "automation": {
+    "base_music_gain_linear": 0.67,
+    "opening": {
+      "natural_first_onset_seconds": 0.405,
+      "full_gain_seconds": 2.4
+    },
+    "climax_duck": {
+      "start_seconds": 67.98,
+      "minimum_gain_linear": 0.64,
+      "minimum_gain_db": -3.876,
+      "minimum_from_seconds": 68.24,
+      "minimum_to_seconds": 68.36,
+      "full_recovery_seconds": 68.566667,
+      "silence_inserted": false
+    },
+    "ending_fade": {
+      "start_seconds": 118.6,
+      "end_seconds": 120.0,
+      "duration_seconds": 1.4
+    },
+    "ending_release_gain_linear": 0.88
+  },
+  "foley": {
+    "seed": 10822337,
+    "event_count": 26,
+    "generation": "original deterministic synthesized paper, wooden door, granular soil, water, rain, straw steps, bamboo, cloth, cold/warm air; no downloaded effects",
+    "cues_file": "public/audio/audio-v3r-cues.csv",
+    "cues": [
+      {
+        "frame": 12,
+        "seconds": 0.4,
+        "sample": 19200,
+        "sound_start_frame": 12,
+        "sound_start_sample": 19200,
+        "name": "诗案卷纤维",
+        "material": "paper fiber",
+        "gain_linear": 0.09,
+        "pan": -0.16,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.55,
+        "sync_basis": "opening source onset 0.405 s"
+      },
+      {
+        "frame": 33,
+        "seconds": 1.1,
+        "sample": 52800,
+        "sound_start_frame": 33,
+        "sound_start_sample": 52800,
+        "name": "牢门落闩",
+        "material": "wood body / small metal latch",
+        "gain_linear": 0.24,
+        "pan": 0.04,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.95,
+        "sync_basis": "visual latch contact at 1.10 s"
+      },
+      {
+        "frame": 96,
+        "seconds": 3.2,
+        "sample": 153600,
+        "sound_start_frame": 96,
+        "sound_start_sample": 153600,
+        "name": "贬舟掠水",
+        "material": "hull / shallow water",
+        "gain_linear": 0.103,
+        "pan": -0.24,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.65,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 177,
+        "seconds": 5.9,
+        "sample": 283200,
+        "sound_start_frame": 177,
+        "sound_start_sample": 283200,
+        "name": "抬眼前衣领微动",
+        "material": "close cloth",
+        "gain_linear": 0.057,
+        "pan": 0.07,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.57,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 222,
+        "seconds": 7.4,
+        "sample": 355200,
+        "sound_start_frame": 222,
+        "sound_start_sample": 355200,
+        "name": "舟岸水退",
+        "material": "water / river bank",
+        "gain_linear": 0.086,
+        "pan": -0.18,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.102,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 434,
+        "seconds": 14.466667,
+        "sample": 694400,
+        "sound_start_frame": 434,
+        "sound_start_sample": 694400,
+        "name": "简居檐下微风",
+        "material": "quiet air",
+        "gain_linear": 0.047,
+        "pan": 0.22,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.45,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 616,
+        "seconds": 20.533333,
+        "sample": 985600,
+        "sound_start_frame": 616,
+        "sound_start_sample": 985600,
+        "name": "锄头入土",
+        "material": "wood shaft / granular dry soil",
+        "gain_linear": 0.188,
+        "pan": -0.11,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.9,
+        "sync_basis": "visual hoe contact frame 616; 20.533333 s"
+      },
+      {
+        "frame": 733,
+        "seconds": 24.433333,
+        "sample": 1172800,
+        "sound_start_frame": 733,
+        "sound_start_sample": 1172800,
+        "name": "案上纸页轻移",
+        "material": "paper fiber",
+        "gain_linear": 0.079,
+        "pan": -0.16,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.55,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 793,
+        "seconds": 26.433333,
+        "sample": 1268800,
+        "sound_start_frame": 793,
+        "sound_start_sample": 1268800,
+        "name": "笔尖行过纸面",
+        "material": "dry writing fiber",
+        "gain_linear": 0.053,
+        "pan": 0.13,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.54,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 895,
+        "seconds": 29.833333,
+        "sample": 1432000,
+        "sound_start_frame": 895,
+        "sound_start_sample": 1432000,
+        "name": "沙湖雨来",
+        "material": "rain / leaves",
+        "gain_linear": 0.169,
+        "pan": 0.1,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.5,
+        "sync_basis": "visual rain arrival frame 895; source onset 29.820 s"
+      },
+      {
+        "frame": 1040,
+        "seconds": 34.666667,
+        "sample": 1664000,
+        "sound_start_frame": 1040,
+        "sound_start_sample": 1664000,
+        "name": "同行衣衫被雨打湿",
+        "material": "wet cloth / close drops",
+        "gain_linear": 0.094,
+        "pan": 0.24,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.96,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 1170,
+        "seconds": 39.0,
+        "sample": 1872000,
+        "sound_start_frame": 1170,
+        "sound_start_sample": 1872000,
+        "name": "穿林打叶近景",
+        "material": "irregular leaf droplets",
+        "gain_linear": 0.111,
+        "pan": -0.22,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.4,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 1494,
+        "seconds": 49.8,
+        "sample": 2390400,
+        "sound_start_frame": 1494,
+        "sound_start_sample": 2390400,
+        "name": "吟啸徐行落脚",
+        "material": "wet straw sole / soft soil",
+        "gain_linear": 0.135,
+        "pan": -0.12,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.72,
+        "sync_basis": "visual walk: chapter starts 49 s, foot contacts each 0.8 s"
+      },
+      {
+        "frame": 1566,
+        "seconds": 52.2,
+        "sample": 2505600,
+        "sound_start_frame": 1566,
+        "sound_start_sample": 2505600,
+        "name": "吟啸徐行落脚",
+        "material": "wet straw sole / soft soil",
+        "gain_linear": 0.116,
+        "pan": 0.11,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.72,
+        "sync_basis": "visual walk: chapter starts 49 s, foot contacts each 0.8 s"
+      },
+      {
+        "frame": 1686,
+        "seconds": 56.2,
+        "sample": 2697600,
+        "sound_start_frame": 1686,
+        "sound_start_sample": 2697600,
+        "name": "吟啸徐行落脚",
+        "material": "wet straw sole / soft soil",
+        "gain_linear": 0.105,
+        "pan": -0.08,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.72,
+        "sync_basis": "visual walk: chapter starts 49 s, foot contacts each 0.8 s"
+      },
+      {
+        "frame": 1770,
+        "seconds": 59.0,
+        "sample": 2832000,
+        "sound_start_frame": 1770,
+        "sound_start_sample": 2832000,
+        "name": "竹杖点地",
+        "material": "bamboo on damp ground",
+        "gain_linear": 0.169,
+        "pan": -0.17,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.38,
+        "sync_basis": "visual close-up contact 59.0 s; close-up ends at 60.6 s"
+      },
+      {
+        "frame": 1794,
+        "seconds": 59.8,
+        "sample": 2870400,
+        "sound_start_frame": 1794,
+        "sound_start_sample": 2870400,
+        "name": "芒鞋掠过浅水",
+        "material": "straw sole / water",
+        "gain_linear": 0.144,
+        "pan": 0.12,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.72,
+        "sync_basis": "visual close-up foot contact 59.8 s"
+      },
+      {
+        "frame": 2057,
+        "seconds": 68.566667,
+        "sample": 3291200,
+        "sound_start_frame": 2057,
+        "sound_start_sample": 3291200,
+        "name": "谁怕主落点",
+        "material": "low body / muted wood edge",
+        "gain_linear": 0.245,
+        "pan": 0,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.94,
+        "sync_basis": "word/pose frame 2057; source onset 68.565 s"
+      },
+      {
+        "frame": 2123,
+        "seconds": 70.766667,
+        "sample": 3396800,
+        "sound_start_frame": 2123,
+        "sound_start_sample": 3396800,
+        "name": "一蓑烟雨展开",
+        "material": "woven cloak / broad air",
+        "gain_linear": 0.116,
+        "pan": -0.06,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.42,
+        "sync_basis": "space expansion frame 2123; source bass onset 70.765 s"
+      },
+      {
+        "frame": 2274,
+        "seconds": 75.8,
+        "sample": 3638400,
+        "sound_start_frame": 2274,
+        "sound_start_sample": 3638400,
+        "name": "雨珠滑过蓑衣",
+        "material": "fine water beads / woven surface",
+        "gain_linear": 0.078,
+        "pan": 0.17,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 1.2,
+        "sync_basis": "scene texture"
+      },
+      {
+        "frame": 2400,
+        "seconds": 80.0,
+        "sample": 3840000,
+        "sound_start_frame": 2400,
+        "sound_start_sample": 3840000,
+        "name": "料峭春风",
+        "material": "soft cold air",
+        "gain_linear": 0.086,
+        "pan": -0.24,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 2.0,
+        "sync_basis": "cold chapter begins at 80 s"
+      },
+      {
+        "frame": 2436,
+        "seconds": 81.2,
+        "sample": 3897600,
+        "sound_start_frame": 2434,
+        "sound_start_sample": 3894400,
+        "name": "微冷拢袖收紧",
+        "material": "close sleeve fiber",
+        "gain_linear": 0.12,
+        "pan": 0.14,
+        "pre_roll_frames": 2,
+        "sound_duration_seconds": 0.77,
+        "sync_basis": "visual sleeve tightens at 81.2 s"
+      },
+      {
+        "frame": 2661,
+        "seconds": 88.7,
+        "sample": 4257600,
+        "sound_start_frame": 2658,
+        "sound_start_sample": 4252800,
+        "name": "斜照越过山头",
+        "material": "warm moving air",
+        "gain_linear": 0.064,
+        "pan": -0.13,
+        "pre_roll_frames": 3,
+        "sound_duration_seconds": 1.45,
+        "sync_basis": "visual sun clears mountain at 88.7 s"
+      },
+      {
+        "frame": 2712,
+        "seconds": 90.4,
+        "sample": 4339200,
+        "sound_start_frame": 2710,
+        "sound_start_sample": 4336000,
+        "name": "暖光迎面",
+        "material": "soft air",
+        "gain_linear": 0.04,
+        "pan": 0.21,
+        "pre_roll_frames": 2,
+        "sound_duration_seconds": 0.85,
+        "sync_basis": "visual light reaches face at 90.4 s"
+      },
+      {
+        "frame": 2970,
+        "seconds": 99.0,
+        "sample": 4752000,
+        "sound_start_frame": 2967,
+        "sound_start_sample": 4747200,
+        "name": "回首肩袖转过",
+        "material": "cloth turn",
+        "gain_linear": 0.079,
+        "pan": 0.06,
+        "pre_roll_frames": 3,
+        "sound_duration_seconds": 0.84,
+        "sync_basis": "head turns at 97.5 s, shoulders complete at 99 s"
+      },
+      {
+        "frame": 3150,
+        "seconds": 105.0,
+        "sample": 5040000,
+        "sound_start_frame": 3150,
+        "sound_start_sample": 5040000,
+        "name": "归去向前一步",
+        "material": "quiet dry straw sole",
+        "gain_linear": 0.091,
+        "pan": -0.08,
+        "pre_roll_frames": 0,
+        "sound_duration_seconds": 0.72,
+        "sync_basis": "visual departure footfall at 105 s"
+      }
+    ],
+    "ambience_beds": [
+      {
+        "start": 2.9,
+        "end": 10.1,
+        "gain": 0.0022,
+        "material": "river"
+      },
+      {
+        "start": 29.833333,
+        "end": 48.9,
+        "gain": 0.0043,
+        "material": "rain"
+      },
+      {
+        "start": 49.0,
+        "end": 79.6,
+        "gain": 0.0031,
+        "material": "rain"
+      },
+      {
+        "start": 79.8,
+        "end": 87.9,
+        "gain": 0.0023,
+        "material": "air"
+      },
+      {
+        "start": 97.0,
+        "end": 105.0,
+        "gain": 0.0009,
+        "material": "air"
+      }
+    ],
+    "premix_peak_linear": 0.17495612800121307
+  },
+  "loudness": {
+    "target_integrated_lufs": -15.0,
+    "maximum_true_peak_dbtp": -1.0,
+    "normalization_ceiling_dbtp": -1.8,
+    "premix_measurement": {
+      "input_i": "-17.00",
+      "input_tp": "-3.49",
+      "input_lra": "2.20",
+      "input_thresh": "-27.02",
+      "output_i": "-14.88",
+      "output_tp": "-1.80",
+      "output_lra": "2.00",
+      "output_thresh": "-24.89",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.12"
+    },
+    "second_pass_normalization": {
+      "input_i": "-17.00",
+      "input_tp": "-3.49",
+      "input_lra": "2.20",
+      "input_thresh": "-27.02",
+      "output_i": "-15.00",
+      "output_tp": "-1.80",
+      "output_lra": "2.00",
+      "output_thresh": "-25.01",
+      "normalization_type": "dynamic",
+      "target_offset": "0.00"
+    },
+    "encoded_aac_measurement": {
+      "input_i": "-15.08",
+      "input_tp": "-1.81",
+      "input_lra": "2.20",
+      "input_thresh": "-25.10",
+      "output_i": "-15.31",
+      "output_tp": "-1.80",
+      "output_lra": "1.90",
+      "output_thresh": "-25.32",
+      "normalization_type": "dynamic",
+      "target_offset": "0.31"
+    },
+    "method": "FFmpeg loudnorm EBU R128 integrated loudness and oversampled true peak, measured again after AAC encoding"
+  },
+  "output": {
+    "file": "public/audio/soundtrack-v3r.m4a",
+    "sha256": "c8c9fb5a7bf05732379bedf6bebe506898777a8153d31fd0272cbe51ce3cce9a",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "duration": "120.000000",
+          "bit_rate": "262830"
+        }
+      ],
+      "format": {
+        "duration": "120.000000",
+        "size": "3966508",
+        "bit_rate": "264433"
+      }
+    },
+    "requested_codec": "AAC LC",
+    "requested_bitrate_bps": 256000,
+    "decoded_finite": true,
+    "decoded_samples_in_120s": 5760000,
+    "final_20ms_rms_dbfs": -58.107,
+    "source_time_alignment_checks": [
+      {
+        "start_seconds": 10,
+        "duration_seconds": 2,
+        "lag_samples": 0,
+        "zero_lag_correlation": 0.999822
+      },
+      {
+        "start_seconds": 62,
+        "duration_seconds": 2,
+        "lag_samples": 0,
+        "zero_lag_correlation": 0.999389
+      },
+      {
+        "start_seconds": 114,
+        "duration_seconds": 2,
+        "lag_samples": 0,
+        "zero_lag_correlation": 0.999628
+      }
+    ],
+    "cue_csv_line_endings": "LF"
+  },
+  "review_status": {
+    "automated_audio_checks": "passed",
+    "subjective_listening": "not performed; no subjective approval claimed",
+    "audiovisual_sync_playback": "not performed by this audio build; check rendered film against contact frames"
+  }
+}

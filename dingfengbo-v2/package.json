@@ -14,7 +14,11 @@
     "assets:v4": "node scripts/assets-v4.cjs",
     "audio:v4": "python3 scripts/audio_design_v4.py",
     "render:v4": "python3 scripts/render-v4.py",
-    "verify:v4": "python3 scripts/verify-v4.py"
+    "verify:v4": "python3 scripts/verify-v4.py",
+    "prepare:v3r": "node scripts/v3r/prepare.cjs",
+    "sample:v3r": "node scripts/v3r/render.cjs --sample --jobs 2",
+    "render:v3r": "node scripts/v3r/render.cjs --full --jobs 2",
+    "verify:v3r": "python3 scripts/v3r/verify.py"
   },
   "dependencies": {
     "@react-three/fiber": "9.4.0",
